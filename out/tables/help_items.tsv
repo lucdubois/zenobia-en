@@ -1,0 +1,8 @@
+index	rom_addr	header	japanese	english
+0	0C403B		『アイテムをつかう』⏎しょじしたアイテムをつかうことが⏎できます。	『Use Item』⏎Use an item you⏎carry.
+1	0C405E		『アイテムをそうび』⏎けんやヨロイなどのそうびアイテムを⏎キャラクターにそうびさせます。	『Equip Item』⏎Equips a character⏎with gear.
+2	0C408C		『アイテムをはずす』⏎そうびしているアイテムを⏎はずします。	『Unequip Item』⏎Removes equipped⏎items.
+3	0C40AC		『アイテムをうる』⏎しょじしたアイテムを⏎ばいきゃくします。	『Sell Item』⏎Sells an item you⏎carry.
+4	0C40CC		『アイテムをすてる』⏎アイテムをすてます。	『Discard Item』⏎Throws an item away.
+5	0C40E3		『ならべかえ』⏎アイテムのならびをかえます。	『Rearrange』⏎Changes the item⏎order.
+6	0C40FB		『アイテムをせいり』⏎バラバラにはいちされたアイテムを⏎きれいにせいりします。	『Sort Items』⏎Tidies up scattered⏎items.

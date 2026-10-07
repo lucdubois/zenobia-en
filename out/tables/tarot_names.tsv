@@ -1,0 +1,24 @@
+index	rom_addr	header	japanese	english
+0	01BD1B			
+1	01BD1B		マジシャン	Magician
+2	01BD20		プリエステス	Priestess
+3	01BD26		エンプレス	Empress
+4	01BD2B		エンペラー	Emperor
+5	01BD30		ハイエロファント	Hierophant
+6	01BD38		ラヴァーズ	Lovers
+7	01BD3D		チャリオット	Chariot
+8	01BD43		ストレングス	Strength
+9	01BD49		ハーミット	Hermit
+10	01BD4E		フォーチュン	Fortune
+11	01BD54		ジャスティス	Justice
+12	01BD5A		ハングドマン	Hanged Man
+13	01BD60		デス	Death
+14	01BD62		テンパランス	Temperance
+15	01BD68		デビル	Devil
+16	01BD6B		タワー	Tower
+17	01BD6E		スター	Star
+18	01BD71		ムーン	Moon
+19	01BD74		サン	Sun
+20	01BD76		ジャッジメント	Judgement
+21	01BD7D		フール	Fool
+22	01BD80		ワールド	World

@@ -1,0 +1,1494 @@
+id	rom_addr	end	bytes	speaker	japanese	english
+0000	063B1D	FE	22	ケイン	「<DD>!⏎エストラーダさまがおよびだよ。	Kain: <DD>! Lord Estrada is calling for you.
+0001	063B35	FE	47		「いよいよとうぞくどものとうばつ⏎にでかけるんだって。⏎おれたちも⏎いっしょにいくんだってさ。	We're finally heading out to hunt down those bandits. And we get to come along too!
+0002	063B66	FE	44		「まあ、エストラーダさまに⏎まかせてさ、おれたちはジャマに⏎ならないようにやればいいさ。	Well, let's just leave it to Lord Estrada and try not to get in his way.
+0003	063B94	FE	29		「さあ、いこうぜ。⏎ぐずぐずしてると⏎またどやされちまう。	Come on, let's go. If we dawdle, he'll chew us out again.
+0004	063BBF	FE	25	エストラーダ	「<DD>⏎ケインからはなしはきいているな?	Estrada: <DD>. Kain has told you, I take it?
+0005	063BDA	FE	35		「われわれは、ぎゆうぐんとして⏎これからとうぞくのとうばつに⏎むかう。	We march as a volunteer army to put down the bandits.
+0006	063BFF	FE	32	<DD>	「えっ?⏎ぼくたちだけで⏎とうぞくをたいじするんですか?	<DD>: What? Just us, against the bandits?
+0007	063C1E	FE	48	エストラーダ	「なかまは、いずれ⏎あつめる。いまはとにかくこうどう⏎をおこすことが、だいじなのだ。	Estrada: We will gather allies in time. What matters now is that we act.
+0008	063C50	FE	46		「まずは、にしのきょうかいに⏎たちよったあと、みなみのグリング⏎のまちをめざすことにするぞ。	First we stop by the church to the west, then make for the town of Gring to the south.
+0009	063C86	FC	23		『ゲームシステムについて・1』⏎をききますか?	Hear about the game system, part 1?
+0010	063CA6	FE	49		すべてはリアルタイムでしんこう⏎しています。あさからよるへ、よる⏎からあさへとじかんがながれます。	Everything happens in real time. Time flows from morning to night and from night to morning.
+0011	063CD9	FE	41		つぎのこうどうをゆっくり⏎かんがえたいときは、オプション⏎ボタンをおしてください。	If you want to take your time deciding your next move, press the Option button.
+0012	063D04	FE	43		じかんのしんこうをとめることが⏎できます。⏎もういちどおせば⏎ていしかいじょされます。	That stops the flow of time. Press it again to resume.
+0013	063D31	FC	11		もういちどききますか?	Hear it again?
+0014	063D6D	FE	23	むらびと	「<DD>なの?⏎たいへんなことになったわ!	Villager: <DD>, is that you? Something terrible has happened!
+0015	063D8A	FE	6	<DD>	「?	<DD>: ?
+0016	063D8F	FE	43	むらびと	「このあいだゼテギネアの⏎やくにんがきて、バーニャをつれて⏎いこうとしたのよ。	Villager: The other day an official from Zeteginea came and tried to take Vanya away.
+0017	063DC0	FE	11	ケイン	「なんだって?!	Kain: What?!
+0018	063DD1	FE	26	むらびと	「もちろんバーニャは⏎うまくにげたんだけど。	Villager: Of course, Vanya got away safely.
+0019	063DED	FE	26		「…そうだ、このてがみをあなたに⏎わたしてくれって。	…Oh, that's right. She asked me to give you this letter.
+0020	063E09	FE	27		「<DD>…⏎なにがあったのかしらないけど⏎きをつけなさい。	<DD>… I don't know what's going on, but be careful.
+0021	063E2E	FE	9	<DD>	「…………	<DD>: …………
+0022	063E3A	FE	25	ケイン	「…とにかく、そのてがみを⏎よんでみようぜ。	Kain: …Anyway, let's read that letter.
+0023	063E5D	FE	40		「<DD>、あなたが⏎このてがみをよむころ、わたしは⏎エストアをはなれているでしょう。	<DD>, by the time you read this letter, I will have left Estoa.
+0024	063E87	FE	31		「ゼテギネアのついきゅうのてが⏎もう、そこまできているのです。	Zeteginea's pursuers are already close at hand.
+0025	063EA8	FE	36		「かれらのもくてきは『えいこうの⏎かぎ』…そして、<DD>⏎あなたのいのち…。	What they seek is the 'Key of Glory'… and, <DD>, your life…
+0026	063ECE	FE	26		「<DD>、あなたの⏎おちちうえのなは⏎グラン・ゼノビア。	<DD>, your father's name was Gran Zenobia.
+0027	063EEA	FE	37		「そして、あなたのほんとうのなは⏎…フィクス・トリシュトラム…⏎ゼノビア。	And your true name is… Fix Tristram… Zenobia.
+0028	063F11	FE	22		「そう、あなたは⏎ゼノビアのおうじなのです。	Yes. You are the Prince of Zenobia.
+0029	063F29	FE	40		「<DD>、いえ、おうじ⏎ゼノビアのたみをすくい、みちびく⏎のは、あなたしかいません。	<DD>, no, Prince. You alone can save and guide the people of Zenobia.
+0030	063F53	FE	38		「いつか、はれてあなたさまが⏎ゼノビアのおうじとして、たたれる⏎そのひまで…	Until the day you can stand openly as the Prince of Zenobia…
+0031	063F7B	FE	32		「そのひだけを、こころまちにして⏎バーニャは、いきてまいります。	I, Vanya, will live on, waiting only for that day.
+0032	063F9D	FE	29		「おうじ…<DD>。⏎かならず、かならず⏎ふたたびあえることを。	Prince… <DD>. I pray that we shall surely, surely meet again.
+0033	063FC4	FE	10	<DD>	「…そんな…	<DD>: …It can't be…
+0034	063FD1	FE	22	ケイン	「おうじ?⏎…<DD>が⏎おうじ、だって?!	Kain: Prince? …<DD> is a prince?!
+0035	064014	FE	47	とうぞく	「なんだ、おまえらは?⏎ぎゆうぐん?…なにいってんだか…⏎ケガしないうちに、かえんな。	Bandit: Who're you lot? A volunteer army? …Give me a break. Go home before you get hurt.
+0036	06405C	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: What do you want?! You think you can take us on?
+0037	06407E	FE	49		「ん?おまえらはグリングのなかま⏎をたおしたというれんちゅうか?⏎よし、ここでかたきをとってやる!	Hm? You're the ones who took out our mates in Gring? Good. We'll avenge them right here!
+0038	0640B5	FE	49	エストラーダ	「とうぞくがなかまの⏎かたきうちだと?⏎わらわせるな!⏎ともにジゴクへおくってやるわ。	Estrada: Bandits avenging their comrades? Don't make me laugh! I'll send you to Hell together.
+0039	0640FA	FE	43	むらびと	「どうもありがとう⏎ございました。⏎これでこのふきん⏎もおちつくことでしょう。	Villager: Thank you so very much. Things should calm down around here now.
+0040	064127	FE	23		「これはほんのおれいです。⏎おおさめください。	This is just a small token of thanks. Please accept it.
+0041	06414D	FC	23		『ゲームシステムについて・4』⏎をききますか?	Hear about the game system, part 4?
+0042	06416D	FE	45		きょてんをかいほうすると⏎じょうほうやアイテムやタロット⏎カードがえられることがあります。	When you liberate a base, you may obtain information, items, or tarot cards.
+0043	06419C	FE	44		そして、かいほうしたきょてん⏎からは1にちごとにほうしょうきん⏎をもらうことができます。	And liberated bases pay you a reward every day.
+0044	0641CA	FE	47		おかねがないとユニットのはけんが⏎できなくなるので、かならず⏎きょてんをかいほうしてください。	Without money you can't deploy units, so be sure to liberate bases.
+0045	0641FB	FC	11		もういちどききますか?	Hear it again?
+0046	06420F	FE	24		「きしどの、ほんとうに⏎ありがとうございました。	Sir Knight, thank you so very much.
+0047	064231	FE	31	エストラーダ	「うむ。⏎こまったことがあれば⏎またしらせてくれ。	Estrada: Mm. If you have any trouble, let me know again.
+0048	064252	FE	18		「どうした<DD>?⏎…ふるえているのか?	What is it, <DD>? …Are you trembling?
+0049	06426A	FE	8	<DD>	「………	<DD>: ………
+0050	064271	FE	49	エストラーダ	「…わしは、きしだ。⏎ひとびとをすくうためなら、けんを⏎つかうことに、ためらいはない。	Estrada: …I am a knight. If it means saving people, I do not hesitate to use my sword.
+0051	0642A4	FE	27		「…よいか、<DD>。⏎へいわとは⏎つくりあげるものなのだ。	…Listen well, <DD>. Peace is something you build.
+0052	0642C1	FE	22		「けして、しぜんにできあがるもの⏎ではない。	It never comes about on its own.
+0053	0642D9	FE	49		「そして、そのへいわをつくるては⏎いつも、ちにまみれている。…だが⏎だれかが、それをやらなければ…	And the hands that build that peace are always stained with blood. …But someone has to do it…
+0054	06430C	FE	46		「ちからよわきものは、いつまでも⏎しいたげられつづけることになる。⏎…このこと、わすれるな。	Otherwise the weak will go on being oppressed forever. …Never forget that.
+0055	064354	FE	31		「やあ、おひさしぶりですね。⏎ゆっくりやすんでいってください。	Ah, it's been a while. Please rest here as long as you like.
+0056	064376	FE	31		「え?⏎シルバードールですか?⏎あれはむらのたからなんですが…	Hm? The Silver Doll? That's the village's treasure, but…
+0057	06439B	FE	37		「ほかならぬあなたがたの⏎たのみですからね。⏎どうぞもっていってください。	Well, since it's you asking. Please, take it with you.
+0058	0643CE	FE	28		「やはりあれだけはわたせません。⏎かんべんしてください。	No, that's the one thing I can't give up. Please forgive me.
+0059	0643FD	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: What do you want?! You think you can take us on?
+0060	064423	FE	32	エストラーダ	「とうぞくふぜいが!⏎みのほどをおもいしらせてやる!	Estrada: Mere bandits! I'll teach you your place!
+0061	064462	FE	38	むらびと	「たすかりました。⏎どうもありがとうございました。⏎…それにしても…	Villager: You saved us. Thank you so much. …Still…
+0062	06448A	FE	45		「ゼノビアおうがなくなられてから…⏎この15ねん、かくちでとうぞくは⏎ふえるいっぽうです。	In the fifteen years since King Zenobia died, bandits have only grown more numerous everywhere.
+0063	0644B9	FE	46		「いぜんはたびびとをおそうぐらい⏎でしたが、さいきんはまちや⏎むらまでおそうようになって…。	They used to only attack travelers, but lately they've started attacking towns and villages…
+0064	0644E9	FE	35		「うわさによると⏎とうぞくどもはバルザックのまちも⏎おそったようです。	Rumor has it the bandits attacked the town of Balzac as well.
+0065	06450E	FE	28		「どうかバルザックのひとびとも⏎たすけてあげてください。	Please help the people of Balzac too.
+0066	064530	FC	23		『ゲームシステムについて・3』⏎をききますか?	Hear about the game system, part 3?
+0067	064550	FE	25		まちやきょうかいのことを⏎『きょてん』とよびます。	Towns and churches are called 'bases'.
+0068	06456B	FE	29		きょてんでは、さまざまな⏎じょうほうをきくことができます。	At a base you can hear all kinds of information.
+0069	06458A	FE	38		なんどもおとずれると、ちがう⏎メッセージをきくことができること⏎もあります。	Visiting several times may let you hear different messages.
+0070	0645B2	FE	49		また、たたかいでダメージをうけた⏎ばあいは、きょてんにとどまると⏎すこしずつHPがかいふくします。	Also, if you've taken damage in battle, staying at a base slowly restores HP.
+0071	0645E5	FC	11		もういちどききますか?	Hear it again?
+0072	0645FB	FE	11		「がんばってください。	Good luck.
+0073	064609	FE	48		「あなたたちでしたか。おかげさま⏎で、もう、このあたりではとうぞく⏎のすがたをみなくなりました。	Oh, it's you. Thanks to you, we no longer see bandits around here.
+0074	064648	FE	41		「わたしたちは、ハイランドが⏎しんこうしてきてから、こうして⏎かくれているのです。	We've been hiding here like this ever since Highland invaded.
+0075	064673	FE	51		「ぶっそうなよのなかですからね。⏎わたしたちいがいにも、かくれたまち⏎は、かくちにあるとおもいますよ。	It's a dangerous world. I'm sure there are other hidden towns like ours all over.
+0076	0646A8	FC	31		「…われわれを、あなたのひごの⏎もとにおいていただけませんか?	…Would you take us under your protection?
+0077	0646CC	FE	42		「…そうですか…ざんねんです。⏎あなたがたなら、たよりになると⏎おもったのですが…。	…I see… That's a shame. I thought we could rely on you…
+0078	0646FD	FE	41		「ありがとうございます。⏎これはおれいです。⏎ぐんしきん⏎としておつかいください。	Thank you. Here is a small reward. Please use it as war funds.
+0079	064728	FE	18		10000ゴートを⏎てにいれました。	Obtained 10000 Goth.
+0080	06474C	FE	42		「あまり、ここにちかづかないで⏎ください。⏎とうぞくにめを⏎つけられたくないのです。	Please don't come near here too often. We don't want the bandits to notice us.
+0081	06477B	FE	28		「きずついておられるなら⏎ここでやすんでいってください。	If you are wounded, please rest here.
+0082	0647AC	FE	29		「とうぞくといえども⏎かみのまえでは⏎おなじにんげんです。	Even bandits are human beings in the eyes of God.
+0083	0647CB	FE	32		「ただ、いたずらに⏎いのちをうばうのは⏎いかがなものでしょう…。	But taking lives needlessly… I wonder if that is right…
+0084	0647ED	FE	31		A・かれらにはバツがひつようです⏎B・そうですね…わかりました	A: Punish them⏎B: You're right…
+0085	064820	FE	47		「…そうですか。⏎でも、にんげん⏎がにんげんをさばく、ということは⏎おそろしいかんがえです…。	…I see. But for humans to judge humans… that is a frightening thought…
+0086	064857	FE	35		「あなたには、やさしいこころが⏎おありなのですね。⏎うれしいことです。	You have a kind heart. That makes me glad.
+0087	064882	FC	23		『ゲームシステムについて・2』⏎をききますか?	Hear about the game system, part 2?
+0088	0648A2	FE	30		HPが0になったキャラクターは⏎せんとうふのうになります。⏎	A character whose HP reaches 0 becomes unable to fight.
+0089	0648C2	FE	43		きょうかいでは、せんとうふのうに⏎なったキャラクターを⏎ふっかつさせることができます。	At a church, a character who can no longer fight can be revived.
+0090	0648EF	FE	36		そのばあい『ふっかつのぎしき』⏎というアイコンを⏎せんたくしてください。	To do so, select the 'Revival Rite' icon.
+0091	064915	FC	11		もういちどききますか?	Hear it again?
+0092	064931	FE	45		「ここからひがしにむかうと、かく⏎れたとしハインドがあるはずです。⏎さがしてみてください。	Head east from here and you should find the hidden city of Hind. Look for it.
+0093	064971	FE	23	ケイン	「エストラーダさま?⏎このひとたちは…?	Kain: Lord Estrada? Who are these people…?
+0094	06498E	FE	45	エストラーダ	「…このあたりの⏎とうぞくどもは、3つのとりでを⏎きずいて、たてこもっている。	Estrada: …The bandits around here have built three forts and holed up in them.
+0095	0649BD	FE	36		「われわれだけでは⏎てにおえないのでな。⏎どうしをつのったというわけだ。	It's more than we can handle alone, so I called for volunteers.
+0096	0649E3	FE	26	ケイン	「へえ、なんだか⏎ホンモノのぐんたいみたいだ。	Kain: Huh, it's starting to look like a real army.
+0097	0649FF	FE	17	エストラーダ	「そこで、だ。⏎…<DD>!	Estrada: Which brings me to this. …<DD>!
+0098	064A16	FE	8	<DD>	「はい?	<DD>: Yes?
+0099	064A1D	FE	49	エストラーダ	「このエストラーダの⏎なにかけて、ただいまよりおまえを⏎ゼノビアきしのいちいんとする。	Estrada: In my name, Estrada, I hereby make you a Knight of Zenobia.
+0100	064A50	FE	15	<DD>	「ゼノビアの…⏎きし?	<DD>: A knight… of Zenobia?
+0101	064A5E	FE	46	エストラーダ	「そうだ。⏎そして⏎これからは、リーダーとして⏎ユニットをまかせよう、とおもう。	Estrada: Yes. And from now on, I mean to entrust you with a unit as its leader.
+0102	064A8E	FE	40		「…それから、ケイン。⏎おまえは⏎つねに、<DD>とともに⏎こうどうするのだ、いいな。	…And Kain. You are to stay with <DD> at all times. Understood?
+0103	064ABC	FE	11	ケイン	「わかりました。	Kain: Understood.
+0104	064ACD	FC	23		『ゲームシステムについて・5』⏎をききますか?	Hear about the game system, part 5?
+0105	064AED	FE	47		『ユニットのはけん』アイコンを⏎せんたくして、たいきちゅうの⏎ユニットを、しゅつげきさせます。	Select the 'Deploy Unit' icon to send out a unit that is standing by.
+0106	064B1E	FE	34		よびだしたユニットには⏎つぎのこうどうを⏎しじしなくてはなりません。	A unit you have called out must be given its next orders.
+0107	064B42	FE	40		こうどうをしじしたいユニットに⏎カーソルをあわせて、Aボタンを⏎おしてください。	Move the cursor to the unit you want to command and press the A button.
+0108	064B6C	FE	29		つぎのこうどうをきめるための⏎アイコンがひょうじされます。	Icons for choosing its next action will appear.
+0109	064B8B	FC	11		もういちどききますか?	Hear it again?
+0110	064B9F	FE	36	エストラーダ	「では、まずダカツと⏎ホインハイムのまちを⏎かいほうするぞ。	Estrada: Now, first we liberate the towns of Dakatsu and Hoinheim.
+0111	064BC5	FE	40		「わしはホインハイムにむかう。⏎<DD>のユニットは⏎ダカツをたのむ。⏎さあ、いくぞ!	I'll head for Hoinheim. <DD>, your unit takes Dakatsu. Now, move out!
+0112	064E21	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで⏎おれたちに、はむかおうってのか?	Bandit: Who the hell are you? You mean to defy us with numbers like that?
+0113	064E4E	FE	19		「けっ!⏎じごくでこうかいさせてやる!	Heh! I'll make you regret it in Hell!
+0114	064E6B	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで、おれたちに⏎はむかおうってのか?	Bandit: Who the hell are you? You mean to defy us with numbers like that?
+0115	064E98	FE	17		「ん?⏎あ、そ、そのもんしょうは?	Hm? Th-that crest…?
+0116	064EAF	FE	43	エストラーダ	「…ゼノビアへいの⏎いきのこりだ、というウワサは⏎ほんとうだったのだな…。	Estrada: …So the rumor that you were survivors of the Zenobian army was true…
+0117	064EDC	FE	44		「きさまらも、もとゼノビアへい⏎ならば、おろかなことをやめて⏎おとなしくとうこうしろッ!	If you were once Zenobian soldiers, then stop this foolishness and surrender quietly!
+0118	064F0A	FE	48	とうぞく	「…あんた、ゼノビアの⏎きしだな…。きしさまには、わかる⏎まい。⏎おれたちのきもちは…。	Bandit: …You're a Zenobian knight, aren't you… A knight could never understand how we feel…
+0119	064F3C	FE	40		「ハイランドとのいくさだからって⏎むりやり、かりだされたおれたちの⏎きもちはッ!	How we felt, dragged off by force to fight your war with Highland!
+0120	064F76	FE	30	とうぞく	「…なんで、こんなことに⏎…なっちまったんだか…な…	Bandit: …Why did it… have to come to this…
+0121	064FA8	FE	30	むらびと	「ここは、わたしたちの⏎むらがあったところなのです。	Villager: This is where our village used to stand.
+0122	064FC8	FE	30		「とうぞくたちにせんりょうされて⏎とりでとなっていたのです。	The bandits took it over and turned it into a fort.
+0123	064FE8	FE	35		「しかし、あなたがたのおかげで⏎むかしのくらしが⏎とりもどせそうです。	But thanks to you, it looks like we can get our old lives back.
+0124	06500D	FE	27		「まだほかにもとりでがあります。⏎きをつけてください。	There are still other forts. Please be careful.
+0125	06502B	FE	14		「あなたがたは、あのときの…	You're the ones from back then…
+0126	06503B	FE	38		「いまでは、このむらも⏎へいわをとりもどせました。⏎ありがとうございました。	Now this village has its peace back too. Thank you very much.
+0127	065078	FE	42	とうぞく	「なんだ?おまえたちは。⏎ここは、おまえたちなんかのくる⏎ところじゃないぞ。	Bandit: What? Who are you? This is no place for the likes of you.
+0128	0650B7	FE	48	とうぞく	「ふん。⏎ゼノビアぐんの⏎いきのこりか。⏎おとなしくして⏎いれば、いきのびられたものを。	Bandit: Hmph. Survivors of the Zenobian army, eh? If you'd kept quiet, you'd have lived.
+0129	0650E9	FE	26		「ハイランドのかわりに⏎おれたちがらくにしてやるよ。	We'll put you out of your misery in Highland's place.
+0130	06512E	FE	40	とうぞく	「なんだ?おまえたちは。⏎もんばんなら、まにあってるぞ。⏎かえれかえれ。	Bandit: What? Who are you? We've got enough gatekeepers. Go home, go home.
+0131	06516D	FE	24	とうぞく	「きさまら⏎すこしはうでがたつようだな。	Bandit: Seems you lot can handle yourselves.
+0132	065187	FC	20		「どうだ、おれたちのなかまに⏎ならんか?	How about it? Want to join us?
+0133	0651A0	FE	22		「ばかめ。⏎それじゃいのちをいただくだけだ。	Fools. Then I'll just take your lives.
+0134	0651BC	FE	30	とうぞく	「ばかやろう!⏎ウソはもっと⏎うまくつくもんだぜ!!	Bandit: Idiot! If you're going to lie, lie better!!
+0135	065255	FC	23		『ゲームシステムについて・7』⏎をききますか?	Hear about the game system, part 7?
+0136	065275	FE	36		「だい3わをクリアすると⏎つうしんたいせんが⏎たのしめるようになります。	Clear chapter 3 and you'll be able to enjoy link battles.
+0137	06529B	FE	30		「そのほか、キャラクターや⏎アイテムのこうかんもできます。⏎	You can also trade characters and items.
+0138	0652BB	FC	11		もういちどききますか?	Hear it again?
+0139	0652CF	FE	20	<DD>	「…?⏎どうしたんだい、ケイン。	<DD>: …? What's wrong, Kain?
+0140	0652E6	FE	40	ケイン	「…<DD>…⏎おれは…こわいんだ。⏎ころすのも⏎ころされるのも、いやなんだよ!	Kain: …<DD>… I'm scared. I don't want to kill, and I don't want to be killed!
+0141	065310	FE	48		「どうして、おれたちがこんなこと⏎しなきゃならないんだ?⏎エストア⏎をまもるだけならともかく…。	Why do we have to do this? Protecting Estoa is one thing, but…
+0142	065342	FE	44		「とうぞくたいじなんか、やくにん⏎にまかせればいいじゃないかッ!⏎どうして、おれたちが…	Hunting bandits should be left to the officials! Why do we have to…
+0143	065370	FE	11	<DD>	「…ケイン…。	<DD>: …Kain…
+0144	065395	FE	41	むらびと	「とうぞくのとりでを⏎3ついちどにつぶす、なんてのは⏎ムリなはなしですよ。	Villager: Taking all three bandit forts at once is simply impossible.
+0145	0653C0	FE	37		「1つ1つ、じゅんばんに⏎やっつけないとね。⏎…ムリはおおケガのもとだよ。	You have to take them down one at a time. …Overreach and you'll get hurt.
+0146	0653EA	FE	41		「このちほうには、かくされた⏎としがいくつかあります。⏎みずうみのなかのしまにも…	There are several hidden cities in this region. Even on the island in the lake…
+0147	065416	FE	15		「やぁ。ちょうしはどうですか?	Hey. How are things going?
+0148	065438	FE	29		「あの3つのとりでができたのは⏎4ねんほどまえになります。	Those three forts were built about four years ago.
+0149	065457	FE	44		「とうぞくといっても、やつらは⏎とくべつです。⏎あなどると⏎たいへんなことになりますよ。	They may be bandits, but they're a special lot. Underestimate them and you'll pay dearly.
+0150	065485	FE	37		「なにしろやつらは⏎ゼノビアへいのいきのこりだって⏎ウワサですからねえ…。	After all, rumor has it they're survivors of the Zenobian army…
+0151	0654AF	FE	12		「がんばってくださいね。	Do your best.
+0152	0654C2	FE	39		「やぁ。⏎あなたたちですか。⏎さいきんでは、このあたりも⏎しずかなものですよ。	Hey. It's you. It's been quiet around here lately.
+0153	0654F8	FE	42		「みなみにあるヤマをこえたところ⏎に、とうぞくのとりでがあるからね⏎…きをつけなよ。	There's a bandit fort beyond the mountains to the south… Be careful.
+0154	065528	FC	23		『ゲームシステムについて・6』⏎をききますか?	Hear about the game system, part 6?
+0155	065548	FE	44		カオスフレームは、あなたの⏎こうどうにたいする、ひとびとの⏎しじりつをあらわしています。	The Chaos Frame shows how much the people support your actions.
+0156	065576	FE	44		たとえば…アライメントのひくい⏎ユニットで、かいほうをおこなうと⏎フレームがさがります。	For example… liberating a base with a low-alignment unit lowers the Frame.
+0157	0655A4	FE	46		あなたのこうどうは、つねに⏎おおくのひとびとにみられている⏎ことを、おぼえておいてください。	Remember that many people are always watching what you do.
+0158	0655D4	FC	11		もういちどききますか?	Hear it again?
+0159	0655E8	FE	38		「このまちにはショップが⏎あるからね。⏎アイテムを⏎かうことができるんだよ。	This town has a shop, you know. You can buy items there.
+0160	065610	FE	31		「ショップのあるまちは⏎ほかにもあるからね。⏎さがしてごらん。	There are other towns with shops too. Go look for them.
+0161	065634	FE	15		「やぁ。⏎ちょうしはどうだい?	Hey. How are things?
+0162	06565A	FE	41		「よくこのとしがわかりましたね。⏎われわれはかくれて⏎しずかにくらしているのです。	You found this city, did you? We live here quietly, in hiding.
+0163	065685	FE	44		「とうぞくたちとたたかうなんて⏎ことはできないし、かといって⏎みつぎものをさしだすのも…	We can't fight the bandits, but we don't want to pay them tribute either…
+0164	0656B5	FE	29		「どうかわれわれを⏎そうっとしておいて⏎いただけませんか。	Could you please just leave us in peace?
+0165	0656D5	FE	40		「え?⏎しろいめがみぞうが⏎ほしいんですか?まぁあなたがたの⏎たのみですからね。	What? You want the White Goddess Statue? Well, since it's you asking.
+0166	065727	FC	25		<DE>ゴートでおゆずり⏎しましょう。⏎よろしいですか?	I'll part with it for <DE> Goth. Is that all right?
+0167	065749	FE	16		「…てもちがたりないようですね。	…You don't seem to have enough on you.
+0168	06575B	FE	35		「われわれも⏎くらしていかねばならないのです。⏎かんべんしてください。	We have to make a living too. Please forgive me.
+0169	0657AC	FE	21		「しろいめがみぞうは⏎やくにたちましたか?	Was the White Goddess Statue of use to you?
+0170	0657D0	FE	45		「このまちは、まほうをつかって⏎ふつうのにんげんには、みえない⏎ようにしているのですが…。	This town is hidden by magic so that ordinary people can't see it…
+0171	0657FF	FE	43		「なのにこのまちをみつけた⏎あなたがたには、なにかふしぎな⏎ちからがあるのでしょうか。	And yet you found it. Perhaps you have some mysterious power.
+0172	06582C	FE	49		「この、いかずちのいしをおもち⏎ください。あなたがたなら、これを⏎ただしくおつかいになるでしょう。	Please take this Thunder Stone. I'm sure you will use it properly.
+0173	06586D	FE	22		「いかずちのいしは、おやくに⏎たちましたか?	Was the Thunder Stone of use to you?
+0174	065898	FE	27		「…いま、わたしたちは、かみに⏎ためされているのです。	…Right now, we are being tested by God.
+0175	0658B5	FE	39		「あなたは、いさかいは⏎はなしあえばかならずさけることが⏎できるとおもいますか	Do you believe that conflict can always be avoided by talking?
+0176	0658DE	FE	28		A・そうしんじています⏎B・ヒトは、きょうぼうなケモノだ	A: I believe so⏎B: Men are beasts
+0177	06590E	FE	34		「そうですね。⏎⏎わたしたちにはしんじるこころが⏎ひつようなのです。	Yes. We need hearts that believe.
+0178	065935	FE	12		「…かなしいことですね。	…How sad.
+0179	06594A	FE	30		「いのりをささげてください。⏎…すくわれぬひとびとのために。	Please offer a prayer… for those who cannot be saved.
+0180	06597B	FE	47	エストラーダ	「…みさきのむこう⏎ラードというまちに、とうぞくども⏎は、ほんきょをかまえている。	Estrada: …Beyond the cape, in the town of Rard, the bandits have their stronghold.
+0181	0659B0	FE	36	ケイン	「じゃあ、いっきに⏎せめこみましょう。⏎きづかれると、やっかいだ。	Kain: Then let's strike all at once. It'll be trouble if they notice us.
+0182	0659D6	FE	46	エストラーダ	「いや、あそこはしま⏎になっているのでな。⏎わたるのに⏎すこしてまどるだろう…。	Estrada: No, the place is an island. Crossing over will take some time…
+0183	065A06	FE	7		「…よし、<DD>。	…All right, <DD>.
+0184	065A13	FE	8	<DD>	「はい。	<DD>: Yes.
+0185	065A1A	FE	39		「わしとおまえ、それにもう1つ⏎2つのユニットをくわえた⏎しゅりょくぶたいは…	The main force will be you and me, plus one or two more units…
+0186	065A43	FE	35		「にしにみえるヨシのまちから⏎コロンバンをとおって⏎ラードをめざそう。	We'll head for Rard from the town of Yoshi to the west, by way of Colomban.
+0187	065A68	FE	46		「そのあいだに、のこったユニット⏎で、ほくとうのカフをはじめとする⏎まちを、かいほうしよう。	Meanwhile, the remaining units will liberate the towns to the northeast, starting with Kaff.
+0188	065A98	FE	36		「べつどうたいを⏎どのユニットにするかは⏎おまえがしじするのだ、いいな。	Which units form the second group is for you to decide. Understood?
+0189	065ABE	FE	9	<DD>	「…はい。	<DD>: …Yes.
+0190	065AE7	FE	41	カズマ	「ようこそ、ぎゆうぐんの⏎かたがた。⏎おウワサは⏎かねがねきいておりますよ。	Kazuma: Welcome, members of the volunteer army. I've heard a great deal about you.
+0191	065B12	FE	43		「さすがに、あの3つのとりでを⏎やぶられただけのことはある。⏎よい、つらがまえですな。	As expected of those who broke through the three forts. You have a fine look about you.
+0192	065B3F	FC	23		「いかがです?⏎われらのなかまになりませんか?	How about it? Won't you join us?
+0193	065B5B	FE	33		「…なるほど。⏎とうぞくのなかまはイヤだ⏎とおっしゃるわけですな。	…I see. You're saying you won't stoop to being bandits.
+0194	065B7E	FE	44		「しかし、このあたりをごらん⏎ください。⏎まものやかいぶつを⏎あまりみかけないでしょう?	But look around this region. You don't see many monsters or beasts, do you?
+0195	065BAC	FE	49		「われらが、いのちがけでたいじ⏎しているのですよ。⏎このあたりの⏎まちがへいわにくらせているのは…	That's because we risk our lives to hunt them down. The towns around here live in peace…
+0196	065BDF	FE	49		「われらのはたらきによるものです⏎…そんなわれらにたいして、ただの⏎とうぞくよばわりされるのは…。	thanks to our efforts. …And for that, to be called mere bandits…
+0197	065C12	FC	31		「それでも、われらのなかまになる⏎のは、きがすすみませんかな?	Even so, you're not inclined to join us?
+0198	065C36	FE	49	カズマ	「そうですか。われらも⏎あなたがたのような、ゆうきのある⏎かたをむかえられてこうえいです。⏎	Kazuma: I see. We too are honored to welcome brave people like you.
+0199	065C69	FE	32		「さっそく、このあたりのまちを⏎みまわってきてもらえますかな。⏎	Would you go make the rounds of the towns in this area right away?
+0200	065CA2	FE	30	カズマ	「おや、どうしました?⏎ずいぶんけわしいおかおで…。⏎	Kazuma: Oh? What's the matter? Such a grim face…
+0201	065CC2	FE	38		「…ははあ、なるほど。⏎どうしてもわれらと⏎ことをかまえるおつもりですな。⏎	…Ahh, I see. So you mean to turn against us after all.
+0202	065CEA	FE	43		「…ちかいをやぶる、というのは⏎もっともヒレツなことだぞ…。⏎…このうらぎりものが!⏎	…Breaking an oath is the lowest thing a man can do… You traitors!
+0203	065D1B	FE	30	カズマ	「…ふむ、おまえたちは⏎おもったより、おろかものだな…	Kazuma: …Hmph. You're bigger fools than I thought…
+0204	065D3B	FE	37		「ゼノビアにゆかりのあるもの⏎と、みえたので⏎さそってやったというのに…⏎	You seemed to have some tie to Zenobia, so I offered you a place with us…
+0205	065D62	FE	24		「…わたしをあなどったむくいを⏎うけるがよい。⏎	…Now pay the price for underestimating me.
+0206	065D8E	FE	31	カズマ	「…ジェンガどの、もっと⏎へいを…やくそくが…ちがう…⏎	Kazuma: …Lord Jenga, more… troops… that wasn't… the deal…
+0207	065DD1	FE	44	エストラーダ	「…このカズマという⏎おとこ、ことばにリヒトフロスの⏎なまりが、あったな…。	Estrada: …That man Kazuma spoke with a Lichtfloss accent…
+0208	065E03	FE	29	ケイン	「リヒトフロス?⏎きたのほうのくにですよね⏎たしか。	Kain: Lichtfloss? That's the country up north, right? If I remember.
+0209	065E22	FE	38	エストラーダ	「…リヒトフロスに⏎いって、たしかめてみるしかない⏎ようだな…。	Estrada: …It seems we have no choice but to go to Lichtfloss and find out…
+0210	065E4E	FE	31	アクエリアス	「…あなたがたですか⏎そのサムライをころしたのは?	Aquarius: …Was it you who killed that samurai?
+0211	065E6F	FE	39	ケイン	「あなたが、とらわれていた⏎シスターですね?⏎もう、だいじょうぶですよ。	Kain: You're the Sister who was being held captive, right? It's all right now.
+0212	065E98	FE	48	アクエリアス	「とらわれていた?⏎とどまっていたのです。このおとこ⏎のかいしんをまっていたのです。	Aquarius: Held captive? I stayed of my own will. I was waiting for that man to repent.
+0213	065ECA	FE	50		「かみのまえでは、みなおなじ…⏎まごころは、かならずつうじるはず⏎なのです。…それをこんなふうに…⏎	Before God, all are equal… Sincerity is always understood in the end. …And yet, like this…
+0214	065EFE	FE	37		「とうぞくも⏎あなたがたもおなじですね。⏎なんでもちからできめようとする。	The bandits and you are the same. You settle everything by force.
+0215	065F25	FE	50		「そして、いうことをきかなければ⏎こうやってころしてしまう。あなた⏎がたからは、ちのにおいがします。	And if someone won't listen, you kill them, like this. You reek of blood.
+0216	065F5D	FE	8	<DD>	「!!⏎	<DD>: !!
+0217	065F68	FE	46	ケイン	「…ひどい、いいぐさだな。⏎では、あなたはなにをしたのです?⏎シスター・アクエリアス。	Kain: …That's a terrible thing to say. Then what did you do, Sister Aquarius?
+0218	065F98	FE	40		「とうぞくにくるしむひとびとに⏎あなたは、なにをしてあげられると⏎いうのですか?	What exactly could you do for the people suffering under the bandits?
+0219	065FC2	FE	33		「おれたちが、すきでけんをとった⏎とでも、おもってるんですかッ?!	Do you think we took up swords because we wanted to?!
+0220	065FE5	FE	11	アクエリアス	「………。	Aquarius: ………
+0221	065FF6	FE	34	<DD>	「いかがです⏎シスター。⏎ぼくたちといっしょに⏎きませんか?	<DD>: What do you say, Sister? Won't you come with us?
+0222	066017	FE	42	アクエリアス	「!⏎わたしに⏎たたかえというのですか?⏎かみにつかえるこのわたしに?!	Aquarius: ! You're asking me to fight? I, who serve God?!
+0223	066043	FE	45	<DD>	「ぼくたちのそば⏎には、あなたみたいなひとがいた⏎ほうがいい、とおもったんです。⏎	<DD>: I just think it would be good to have someone like you with us.
+0224	06606F	FE	48		「…ぼくは、あなたにみてほしい…⏎このよのなかを…そして、ひとは⏎ほんとうにゆるしあえるのかを…	…I want you to see it… this world… and whether people can truly forgive one another…
+0225	0660C1	FE	31	アクエリアス	「…わかりました。⏎あなたがたと、まいりましょう。	Aquarius: …Very well. I will go with you.
+0226	0660E2	FE	20		アクエリアスが⏎なかまにくわわりました。	Aquarius has joined the party.
+0227	0660FC	FE	43	アクエリアス	「…わかりました。⏎しかし、やはりあなたがたは⏎らんぼうすぎるきがします。	Aquarius: …I understand. But I still feel you are too violent.
+0228	066129	FE	44		「わたしは、ひとりでゆきます。⏎そして、あなたのことばの⏎こたえをかんがえてみましょう。	I will go alone. And I will think about the answer to your words.
+0229	066157	FE	24		「いつかどこかで⏎また、であえるかもしれません。	Perhaps someday, somewhere, we will meet again.
+0230	066192	FE	25		だれもいない……。⏎きゅうそくぐらいはできそうだ。	No one is here… At least we can rest for a while.
+0231	0661BE	FE	46		「ぎゆうぐんのみなさんですね。⏎ああ、ウワサはほんとうだったん⏎ですね。⏎ああ、たすかった。	You're the volunteer army, aren't you? So the rumors were true. Oh, thank goodness.
+0232	0661EE	FE	37		「とうぞくのほんきょとなっている⏎ラードのまちは⏎このみさきのむこうです。	The town of Rard, the bandits' stronghold, lies beyond this cape.
+0233	066215	FE	24		「カズマってサムライが⏎ボスになってからですよ。	It started when that samurai Kazuma became their boss.
+0234	06622F	FE	30		「とうぞくどもが、まとまって⏎こうどうするようになったのは。	That's when the bandits started acting as one.
+0235	06624F	FE	41		「カズマってボスは、ふだんは⏎ものしずかで、わりとおだやかな⏎おとこなんですがね。	Kazuma, the boss, is usually quiet and a fairly gentle man, you know.
+0236	06627A	FE	28		「いったんキゲンをそこねたら⏎おそろしいのなんのって…。	But once you get on his bad side, he's terrifying…
+0237	06629B	FE	39		「あなたがたにかいほうして⏎いただいたのです。⏎どうぞやすんでいってください。	You liberated us. Please, rest here a while.
+0238	0662C5	FE	42		「いつぞやはありがとうござい⏎ました。⏎いまではこのあたりも⏎へいわになっています。	Thank you for what you did before. These parts are peaceful now.
+0239	0662FA	FE	43		「かくれとしってのは⏎あちこちにあるんだ。⏎たいていは⏎まほうでかくれてるんだけどな。	Hidden cities are all over the place. Most of them are hidden by magic, though.
+0240	066327	FE	35		「でもまぁ、みまわしてると⏎なんとなく、ピン、とくるときが⏎あるよな。	But when you look around, sometimes you just get a feeling, you know?
+0241	06634C	FE	26		「なんかてきとうなおおきさの⏎しまがあったり、とか。	Like an island that's just the right size.
+0242	066368	FE	26		「やまあいで、みちがとつぜん⏎とぎれていたり、とか。	Or a road in the mountains that suddenly stops.
+0243	066384	FE	27		「じつは、ここのきたにもひとつ⏎かくれたとしがあるぜ。	Actually, there's a hidden city to the north of here too.
+0244	0663B2	FE	44		「ラードのまちにいるのは⏎このあたりのとうぞくのボスでね。⏎カズマっていうサムライだよ。	The one in Rard is the boss of the bandits around here. A samurai called Kazuma.
+0245	0663E0	FE	40		「ウワサなんだけどさ⏎そのカズマに、せっきょうにいった⏎シスターがいるらしいぜ。	It's just a rumor, but they say a Sister went to preach to that Kazuma.
+0246	06640A	FE	41		「ホントだったら、すごいよな。⏎どきょうがあるっていうか⏎むこうみずっていうか…。	If it's true, that's really something. Brave… or maybe just reckless…
+0247	066438	FE	28		「あなたがたがぎゆうぐんですか。⏎がんばってくださいね。	So you're the volunteer army. Good luck.
+0248	066469	FE	34		「ふーん、あんたたちが⏎ぎゆうぐんかい?⏎たしかにいいめをしてるね。	Hmm, so you're the volunteer army? You do have good eyes, I'll give you that.
+0249	066491	FE	34		「ふーん、あんたたちが⏎ぎゆうぐんかい?⏎らんぼうしないでおくれよ。	Hmm, so you're the volunteer army? Don't go causing trouble.
+0250	0664B5	FE	45		「これは、こないだうみから⏎ひろってきたもんなんだが、かって⏎くれるひとをさがしてるのさ。	I picked this up from the sea the other day, and I'm looking for someone to buy it.
+0251	0664E4	FE	40		「どうのおとめぞうなんだけどね⏎しらべてもらったら⏎めずらしいものなんだってさ。	It's a bronze maiden statue. I had it looked at, and they say it's a rare thing.
+0252	066519	FC	33		「どうだい?1000ゴートにまけ⏎とくからさ、かってくれないかい?	How about it? I'll knock it down to 1000 Goth. Will you buy it?
+0253	06654A	FC	29		「2000ゴートにまけて⏎おくからさ、かってくれないかい?	I'll knock it down to 2000 Goth. Will you buy it?
+0254	06656C	FE	25		「ふぅん。⏎まぁしょうがないね。⏎ほかをあたるよ。	Hmm. Well, can't be helped. I'll try someone else.
+0255	0665B7	FE	33		かねがたりないみたいだね。⏎まぁ、しょうがない。⏎ほかをあたるよ。	Looks like you don't have enough money. Well, can't be helped. I'll try someone else.
+0256	0665DF	FE	45		「どうのおとめぞうがほしく⏎なったのかい?そりゃざんねんだね。⏎もうほかにうっちまったよ。	Changed your mind about the bronze maiden statue? Too bad. I already sold it to someone else.
+0257	06660F	FE	42		「どうのおとめぞうは、いっこしか⏎ないからね。⏎ひろいもんだけど⏎めずらしいもんさ。	There's only one bronze maiden statue. I just picked it up, but it's a rare thing.
+0258	06664C	FE	49		「わしらはこのちにふるくからくら⏎しているものじゃが。⏎さいきんは⏎とうぞくどもがさわがしくてな。	We have lived in this land since long ago. But lately the bandits have been restless.
+0259	06667F	FE	31		「わしらは、しかたなく、こうして⏎かくれてくらしているんじゃ。	So we have no choice but to live in hiding like this.
+0260	0666A0	FE	37		「しかしわからん。⏎とうぞく⏎というのは、ほんらいまとまりの⏎わるいもの…	But I don't understand. Bandits, by nature, are a disorganized lot…
+0261	0666C7	FE	47		「ボスとよばれている、あのカズマ⏎にしても、あれだけのそしきを⏎まとめられるうつわじゃあない。	Even that Kazuma they call boss doesn't have what it takes to hold such a group together.
+0262	0666F8	FE	25		「なにかおおきなうしろだてが⏎あるんじゃないかの…	Someone powerful must be backing them…
+0263	066716	FE	35		「このあたりは⏎しずかなところでな。⏎さわぎもないへいわなところじゃ。	It's quiet around here. A peaceful place, with no trouble.
+0264	06677C	FE	33	ランスロット	「つよいものを⏎さがしているというのは⏎あなたですか?	Lancelot: Are you the one looking for strong fighters?
+0265	06679F	FE	27		「なるほど、たたかいのひびを⏎すごしておられるようだ。	I see. You seem to spend your days in battle.
+0266	0667BC	FE	38		「あなたといっしょにいれば⏎じぶんをきたえなおすことが⏎できるかもしれない。	If I stay with you, perhaps I can forge myself anew.
+0267	0667E4	FE	20		ランスロットが⏎なかまにくわわりました。	Lancelot has joined the party.
+0268	066809	FE	43		「ああ、さわがないでください。⏎みまわりからかくれてくらすのは⏎たいへんなんですから。	Oh, please don't make a fuss. It's hard enough living hidden from the patrols.
+0269	066836	FE	46		「え?とうぞくのボスですか?⏎カズマってなまえの、かなりウデの⏎たつサムライですよ…たしか。	What? The bandits' boss? A samurai named Kazuma, quite a skilled one… I think.
+0270	066866	FE	44		「もっとも、けんをつかうのも⏎うまいけど、うそはもっとうまい⏎っていうはなしですけどね。	Though they say he's good with a sword, but even better at lying.
+0271	066897	FE	33		「われわれは、このしずけさが⏎すきでね。⏎さわがないでくださいね。	We like the quiet here. Please don't make a fuss.
+0272	0668CF	FE	41		「そうですか。とうぞくと⏎たたかっておられるのですか。⏎…ならば、おたのみします。	I see. You're fighting the bandits. …Then I have a request.
+0273	0668FA	FE	39		「アクエリアスというシスターが⏎ラードのカズマのもとに⏎とらわれているのです。	A Sister named Aquarius is being held by Kazuma in Rard.
+0274	066923	FE	35		「ぜひ、おたすけください。⏎…この、てつのロザリオを⏎おもちください。	Please save her. …And take this Iron Rosary with you.
+0275	066948	FE	28		「われわれにできることといえば⏎このくらいのことです…。	This is about all we can do…
+0276	066978	FE	26		「どうかあなたがたに⏎かみのごかごがありますように。	May God's protection be with you.
+0277	066995	FE	24		「え?⏎ネトビのしちょうに⏎ねがわれたのですか?	What? The mayor of Netobi asked you?
+0278	0669AF	FE	24		なるほど、わかりました。⏎これをおもちください。	I see, I understand. Please take this.
+0279	0669EA	FE	13		「よろしくおねがいします。	We're counting on you.
+0280	066A0C	FE	42		「ああ、あなたがたが⏎ぎゆうぐんのかたがたですね。⏎おうわさは、みみにしております。	Ah, you must be the volunteer army. I've heard the rumors.
+0281	066A38	FE	37		「どうか、ラードにとらわれた⏎シスター…アクエリアスを⏎おたすけください。	Please, save the Sister… Aquarius, who is held captive in Rard.
+0282	066A5F	FE	49		「シスターはカズマにもにんげんの⏎こころがあるはずだから、といって⏎われわれがとめるのもきかずに…	The Sister said even Kazuma must have a human heart, and went despite our pleas to stop her…
+0283	066A92	FE	50		「いまのところ、シスターについて⏎のひどいうわさは、きこえてきませ⏎んので、ぶじだとおもいますが…。	So far we've heard no terrible rumors about the Sister, so I think she is safe, but…
+0284	066AC6	FE	41		「カズマのきが、いつかわるかも⏎しれません。⏎いっこくもはやく⏎おねがいします。⏎	Kazuma could change his mind at any moment. Please hurry.
+0285	066AFD	FE	25		「シスター・アクエリアス⏎げんきでやっていますか?	Sister Aquarius, are you doing well?
+0286	066B28	FE	24	アクエリアス	「はい。⏎わたしはだいじょうぶです。	Aquarius: Yes. I am fine.
+0287	066B57	FE	45	リフトフロスおう	「…そうか…。⏎その、カズマとかもうすもの…⏎このくにのものだったのか…。	King: …I see… So this Kazuma… was from this country…
+0288	066B86	FE	49		「…むりもない。はずかしいかぎり⏎だが、いまのリヒトフロスで、わし⏎のちからなど、ないにひとしい。	…It's no wonder. It shames me to say it, but in Lichtfloss today my power is as good as nothing.
+0289	066BB9	FE	47		「みな、きたのフルダというまちに⏎いすわる、ガランというおとこの⏎かおいろをうかがっておる…。	Everyone watches the mood of a man named Galan, who sits in the town of Fulda to the north…
+0290	066BEE	FE	12	エストラーダ	「…ガラン?	Estrada: …Galan?
+0291	066BFC	FE	42	リヒトフロスおう	「うむ。⏎しかもガランはジェンガなるものの⏎はいかだ、ときいている。	King: Yes. And I hear Galan is a follower of one called Jenga.
+0292	066C28	FE	42	エストラーダ	「!⏎すると⏎カズマとガランは、おなじあなの⏎ムジナ…ということなのか。	Estrada: ! Then Kazuma and Galan are birds of a feather…
+0293	066C54	FE	31		「…もしや、そのジェンガこそが⏎とうぞくをたばねているもの…!	…Could it be that this Jenga is the one leading the bandits…!
+0294	066C75	FE	32		「おうよ、まずわれらに、⏎ガランのとうばつを⏎おめいじください。	Your Majesty, first command us to subdue Galan.
+0295	066C97	FE	42	リヒトフロスおう	「?!⏎そのほう⏎たちは、わずかなてぜいときく。⏎そのようなムリは…	King: ?! I hear you have but a handful of men. Such a reckless…
+0296	066CC7	FE	34	ナーナ	「おとうさま。⏎わたくしが、このかたがたと⏎ともにまいります。	Nana: Father. I will go with these people.
+0297	066CEB	FE	39	リヒトフロスおう	「!!⏎ナーナ、いやひめよ。⏎そのような、むちゃをいうでない!	King: !! Nana, no, Princess. Don't say such foolish things!
+0298	066D14	FE	43	ナーナ	「むちゃではありませんわ!⏎なんぎをしているのは⏎わがくにのひとびとなのですよ!	Nana: It isn't foolish! It's the people of our own country who are suffering!
+0299	066D49	FE	10	えいへい	「おうさま!	Guard: Your Majesty!
+0300	066D59	FE	16	リヒトフロスおう	「なにごとだ?!	King: What is it?!
+0301	066D6B	FE	44	えいへい	「たいへんです!⏎ガランのはいかが、たいきょして⏎しろにおしよせてきています!!	Guard: It's terrible! Galan's followers are marching on the castle in force!!
+0302	066D99	FE	14	リヒトフロスおう	「なんと?!	King: What?!
+0303	066DA9	FE	29	えいへい	「このしろのへいだけでは⏎しのぎきれないか、と…。	Guard: I fear the castle guard alone cannot hold them off…
+0304	066DC8	FE	13	リヒトフロスおう	「………。	King: ………
+0305	066DDF	FE	24	エストラーダ	「<DD>!⏎ケイン!⏎じゅんびはよいか。	Estrada: <DD>! Kain! Are you ready?
+0306	066DFD	FE	8	<DD>	「はい。	<DD>: Yes.
+0307	066E08	FE	9	ケイン	「いつでも。	Kain: Anytime.
+0308	066E17	FE	21	リヒトフロスおう	「い、いや⏎そなたたちは…	King: N-no, you can't…
+0309	066E2E	FE	48	エストラーダ	「おまかせください。⏎わがぎゆうぐんは3ばいのてきを⏎まえにしても、ひるみませんぞ。	Estrada: Leave it to us. Our volunteer army does not flinch, even facing three times our number.
+0310	066E70	FE	13	<DD>	「あれ?⏎きみは?	<DD>: Huh? You're…?
+0311	066E80	FE	16	ナーナ	「あ。⏎みつかっちゃった。	Nana: Ah. You found me.
+0312	066E96	FE	44	ケイン	「な、なにやってんだ!⏎あんた、たしかおひめさまだろう?⏎なんでこんなところに?!	Kain: Wh-what are you doing?! You're the princess, aren't you? What are you doing here?!
+0313	066EC4	FE	45	ナーナ	「あら。⏎あしでまといには⏎ならないわよ。⏎あたし、けんの⏎うでには、じしんあるの。	Nana: Oh, I won't be a burden. I'm confident with a sword.
+0314	066EF3	FE	46	ケイン	「おいおい、なにいってんだ⏎よ。あのなあ、ひとをきるんだぞ?⏎わかっていってんのかよ。	Kain: Hey, hey, what are you saying? Listen, this means cutting people down. Do you understand that?
+0315	066F23	FE	47	ナーナ	「…わかってるわよ。⏎でもね、じぶんのくにのひとびとを⏎まもれないで、なにがおうぞくよ!	Nana: …I understand. But what kind of royalty can't protect her own people!
+0316	066F54	FE	21	ケイン	「…ほんきなんだな。⏎どうする、<DD>?	Kain: …She's serious. What do we do, <DD>?
+0317	066F6F	FE	41	<DD>	「しかたないな。⏎ぼくたちがカバーすればいいだろ。⏎がんばろうよ、ケイン。	<DD>: No helping it. We'll just have to cover her. Let's do our best, Kain.
+0318	067009	FE	38	リヒトフロスおう	「…はなしは⏎きいている。⏎ちからおとしのないようにな…。⏎	King: …I have heard what happened. Do not lose heart…
+0319	067031	FE	47		「わがくにをすくってくれたエスト⏎ラーダは、えいゆうとしてこの⏎くににかたりつがれるであろう。	Estrada, who saved our country, will be remembered in this land as a hero.
+0320	067066	FE	18	<DD>	「…⏎ありがとうございます。	<DD>: … Thank you.
+0321	06707F	FE	48	ナーナ	「ちちうえ。⏎かれらなら⏎ちからになってくれるはずです。⏎あのこと、おたのみしてみては…?	Nana: Father. They could surely help us. Why not ask them about that matter…?
+0322	0670B5	FE	12	<DD>	「なんでしょう?	<DD>: What is it?
+0323	0670C0	FE	44	リヒトフロスおう	「うむ、じつは⏎らんぼうなきょじんどもに⏎いくつかのむらがおそわれてな…	King: Well, the truth is, several villages have been attacked by violent giants…
+0324	0670EE	FE	32		「はずかしいかぎりだが…われらの⏎へいしでは、はがたたないのだ。	It shames me to say it… but our soldiers are no match for them.
+0325	067110	FE	45		「そこで、むしのよいたのみと⏎おもわれるだろうが…そなたたちに⏎きょじんのたいじを、な…。	So, though it may seem a selfish request… would you deal with the giants for us…
+0326	06713F	FE	40		「…いかがなものだろうか?⏎A・おまかせください⏎B・さきをいそいでいますので…	…What do you say?⏎A: Leave it to us⏎B: We're in a hurry…
+0327	06717D	FE	26	リヒトフロスおう	「うむ。⏎それもいたしかたあるまい。	King: Mm. I suppose it can't be helped.
+0328	067199	FE	40		「われわれだけで、なんとか⏎かたをつけるとしよう。⏎…いや、きにすることはない。	We'll find some way to settle it ourselves. …No, don't worry about it.
+0329	0671C3	FE	39		「ガランをはじめとする、とうぞく⏎をたいじしてもらっただけで⏎じゅうぶんだ…。	Ridding us of Galan and the other bandits was more than enough…
+0330	0671EC	FE	32		「さあ、ゆきのふりださぬうちに⏎エストアへむかうのがよいだろう。	Now, you had best head for Estoa before the snow begins to fall.
+0331	06720E	FE	31		「ありがとう。⏎そして、さらばだ。⏎エストアのゆうしゃたちよ。	Thank you. And farewell, heroes of Estoa.
+0332	067237	FE	40	<DD>	「おうよ。⏎ゼノビアきしは、たみのなんぎを⏎みすごしたりしないものです。	<DD>: Your Majesty. A Knight of Zenobia does not turn a blind eye to the people's suffering.
+0333	06725E	FE	39	リヒトフロスおう	「…ありがたい。⏎ばしょは、アインはんとう⏎というところじゃ。	King: …I am grateful. The place is called the Ain Peninsula.
+0334	067287	FE	33		「このくにの⏎すべてのたみになりかわり⏎そなたたちにかんしゃする。	On behalf of all the people of this country, I thank you.
+0335	0672DD	FE	39	ガラン	「ははあ…⏎オマエたちが、ジェンガさまの⏎おっしゃってたれんちゅうだな。	Galan: Hah… So you're the lot Lord Jenga spoke of.
+0336	067306	FE	32		「カズマのやつは、しくじったけど⏎オレさまは、そうはいかねえぞ。	Kazuma may have botched it, but I won't.
+0337	067328	FE	44		「へっへっへ、たのしみだぜェ。⏎ジェンガさま、たっぷりと⏎ごほうびをくださるだろーなァ。	Heh heh heh, I'm looking forward to this. Lord Jenga will reward me handsomely.
+0338	06735A	FE	45	ガラン	「オマエらが、ぎゆうぐん?⏎…ふん、オレさまは、いま、すごく⏎きぶんがわるいんだ…。	Galan: You're the volunteer army? …Hmph. I'm in a very bad mood right now…
+0339	067389	FE	49		「…オマエらの、ちがとびちって⏎カラダがバラバラになるのをみれば⏎すこしは、きぶんがはれるかもな!	…Watching your blood spray and your bodies torn to pieces might cheer me up a little!
+0340	0673CC	FE	48	ガラン	「ぐッ…そ、そんなはず…⏎ジェ…ジェンガさまァ…おゆるしを⏎…アンデッドなんかになるのは…	Galan: Gh… it can't… Lo… Lord Jenga… forgive me… don't make me one of the undead…
+0341	067406	FE	45	ケイン	「ガランみたいなやつが⏎あんなにおびえるなんて…。⏎ジェンガってなにものなんだろう?	Kain: For a guy like Galan to be that terrified… Just who is this Jenga?
+0342	067439	FE	47	エストラーダ	「きみのわるいことを⏎いいのこしたな…。⏎アンデッドに⏎なるのならないの、だと…。	Estrada: He left us with ominous words… Something about becoming undead…
+0343	06746E	FE	29	ケイン	「ナーナ、いや、おひめさま⏎よくがんばりましたね。⏎	Kain: Nana, I mean, Princess, you did well.
+0344	06748D	FE	43		「ガランは、たおしたし…⏎そろそろ、おしろにもどらないと⏎おうさまがしんぱいしますよ。	We've beaten Galan… We should get back to the castle soon, or the King will worry.
+0345	0674BE	FE	47	ナーナ	「イヤよ。ジェンガとかいう⏎やつをたおさないと、またガラン⏎みたいなのが、あらわれるわ。	Nana: No. Unless we defeat this Jenga, someone like Galan will just show up again.
+0346	0674EF	FE	26		「テッテーてきに⏎やらなきゃ、いみがないの。わかる?	There's no point unless we see it through. Understand?
+0347	06750B	FE	28	ケイン	「むむ…⏎おい、<DD>。⏎おまえからも、なんかいえよ!	Kain: Mmph… Hey, <DD>. Say something to her too!
+0348	067529	FE	48		「…なんだよ?⏎なにニヤニヤして⏎んだよ!⏎あ、エストラーダさま⏎まで…なんだよォ、みんなして!	…What? What are you grinning about! Ah, even Lord Estrada… Come on, all of you!
+0349	06756B	FE	39		「あなたがたのおかげでこのへんも⏎へいわになりました⏎ありがとうございました。	Thanks to you, this area is at peace again. Thank you very much.
+0350	0675A1	FE	42		「ガランは、ごうまんできまぐれな⏎ヤツよ。⏎そのひのきぶんしだいで⏎ひとをころすの。	Galan is an arrogant, fickle man. He kills people depending on his mood that day.
+0351	0675CD	FE	45		「あばれだしたガランをとめられる⏎のは…ジェンガとかいう、ヘンテコ⏎なローブをきたやつよ。	The only one who can stop Galan when he goes wild… is that Jenga, the one in the strange robe.
+0352	0675FC	FE	46		「…なんか、まほうでもつかうの⏎かしらね。⏎あのガランが⏎ジェンガのまえだとおびえちゃって…	…Maybe he uses some kind of magic. Even Galan cowers in front of Jenga…
+0353	06762F	FE	28		「このあたり、ふゆはとても⏎さむいのよ。⏎きをつけてね。	Winters are very cold around here. Take care.
+0354	06765E	FE	48		「…ガランはイヤなやつだよ。⏎ビーストテイマーだからさ、ケモノ⏎をつかって、ひとをおどかすんだ。	…Galan is a nasty one. He's a Beast Tamer, so he uses beasts to terrify people.
+0355	067690	FE	39		「さからったりすれば⏎たちまちヤツのつれてる⏎ヘルハウンドのエサになっちまう。	Defy him, and you'll be fed to the hellhounds he keeps in no time.
+0356	0676B9	FE	37		「そのくせ、ジェンガとかいう⏎ローブをきたやろうには⏎ペコペコしてるんだ。	And yet he bows and scrapes to that Jenga, the one in the robe.
+0357	0676E0	FE	31		「なあ、あんたたち。⏎はやいとこガランを⏎ぶっとばしてくれよ。	Hey, you lot. Go knock Galan flat, and quick.
+0358	067704	FE	10		「がんばってくれよ。	Good luck.
+0359	067711	FE	23		「やあ、あんたたちか。⏎げんきにやってるかい?	Hey, it's you. Doing well?
+0360	067737	FE	41		「リヒトフロスのなんせいにも⏎かくれたとしがあるよ。⏎このへんはぶっそうだからね。	There's a hidden city in the southwest of Lichtfloss too. It's dangerous around here.
+0361	067762	FE	29		「とうぞくよけに⏎すこしでもかくれてくらそうって⏎わけさ。	We hide away as best we can to keep clear of the bandits.
+0362	067784	FE	28		「ちずにのってないとしってのは⏎けっこう、おおいんだぜ。	There are quite a lot of cities that aren't on any map, you know.
+0363	0677AF	FE	46		「ハイランド、いまはゼテギネア⏎じゃったかの。⏎れんちゅうも⏎まだ、ここまではきておらんが…	Highland, or Zeteginea as it's called now. Their lot haven't come this far yet, but…
+0364	0677DF	FE	37		「グランおうがおさめていたころは⏎こんなとうぞくさわぎは⏎なかったんじゃ。	Back when King Gran ruled, there was none of this bandit trouble.
+0365	067806	FE	47		「そういえば、おうには、ふたりの⏎おうじがおられたんじゃが…⏎ころされてしまったんじゃろうの…	Come to think of it, the King had two princes… but they were killed, I suppose…
+0366	06783A	FE	49		「ゼノビアおうのふたりのおうじ…⏎まだ、おさなかったじゃろうにの…⏎ラシュディめ、むごいヤツじゃ…	King Zenobia's two princes… They must have still been so young… That Rashidi is a cruel man…
+0367	067884	FE	33		「ほう、みなみからきなすったか。⏎それではこのゆきはきびしかろう。	Oh, you've come from the south? Then this snow must be hard on you.
+0368	0678A7	FE	22		「これをさしあげよう。⏎がんばってくだされ。	Take this. Good luck to you.
+0369	0678C9	FE	37		「あんたら、ぎゆうぐんだろ?⏎へへ…あんたらにピッタリのものを⏎あげるよ。	You're the volunteer army, right? Heh heh… I'll give you something that's perfect for you.
+0370	0678F0	FE	48		「あんたらが、さわぎをおこして⏎くれてるおかげでさあ、こっちは⏎しょうばいはんじょうってわけさ。	Thanks to you lot stirring things up, business is booming for me.
+0371	067922	FE	32		「…アタマをつかえば、いくさは⏎さいこうのカネもうけになるのさ。	…Use your head, and war is the best moneymaker there is.
+0372	067956	FE	30		「せんじょうあとのあたりでは⏎ゆうれいのうわさがたえないよ。	Around the old battlefields, there's no end to the rumors of ghosts.
+0373	067983	FE	35		「おどろいたね。⏎とうぞくがおしろのちかくまで⏎やってくるとはねえ…⏎	What a surprise. For bandits to come so close to the castle…
+0374	0679AA	FE	31		「ここはじょうせつのバザーさ。⏎あんたらもかっていってくれよ!	This is a permanent bazaar. Buy something, won't you!
+0375	0679D8	FE	45		「ぎゆうぐん、とはあなたがたの⏎ことですか。⏎ずいぶんと⏎おわかいかたも、おられますな。⏎	So you are the volunteer army. Some of you are quite young, I see.
+0376	067A07	FE	43		「どうぞ、これをおもちください。⏎しろいじゅうじかです。⏎いつかおやくにたつでしょう。	Please take this. It's a White Cross. It will be of use to you someday.
+0377	067A40	FE	25		「あなたがたに、かみのごかごが⏎ありますように…。	May God's protection be with you…
+0378	067B19	FE	36		「…あなたのひきいるぐんならば⏎ひとびとも、しじするかも⏎しれませんね。	…An army led by you… perhaps the people would support it.
+0379	067B44	FE	50		「…あなたも、そういうおかんがえ⏎ですか。つみとは、いったいだれに⏎たいしてのものなのでしょうね…。	…So you think that way too. Just who, I wonder, is a sin committed against…
+0380	067BAC	FE	33	ナーナ	「ここからみえる⏎3つのみさきに⏎まちがてんざいしています。	Nana: Towns lie scattered along the three capes you can see from here.
+0381	067BCF	FE	29		「ひがしから⏎ヘルムト、ジグラマ⏎そしてポルルック、です。	From the east: Helmut, Zigrama, and then Polluk.
+0382	067BF2	FE	32	エストラーダ	「うむ…⏎あさせをわたるなら⏎ジグラマをめざす…か。	Estrada: Hm… If we cross the shallows, we make for Zigrama… then.
+0383	067C73	FE	41	アクエリアス	「これは…。⏎とてもじゃあくなけはいが⏎まだかすかにのこっています…。	Aquarius: This is… A very evil presence still lingers here, faintly…
+0384	067CA2	FE	22	ナーナ	「にげたんでしょうか?⏎ジェンガは…?	Nana: Did he flee? Jenga…?
+0385	067CBE	FE	27	<DD>	「…⏎ためしたんだ…。⏎ぼくたちのちからを…。	<DD>: … He was testing us… Testing our strength…
+0386	067CDC	FE	22	エストラーダ	「ジェンガ…⏎おそるべきやつ…。	Estrada: Jenga… A fearsome man…
+0387	067D3F	FE	45		「あんたら、みなみからきたって⏎ウワサのぎゆうぐんだろ?⏎あんたらになら、おしえてやるよ。	You're the volunteer army from the south everyone's talking about, right? I'll tell you, then.
+0388	067D6E	FE	49		「このあたりは、むかしはゆたかな⏎ところでね…だから、あちこちに⏎たからものがうまってるらしいぜ。	This area was rich in the old days… so they say treasure is buried all over the place.
+0389	067DA1	FE	14		「まあ、さがしてごらんよ。⏎	Well, go and look for it.
+0390	067DB4	FE	15		「たからは、みつかったかい?⏎	Did you find any treasure?
+0391	067DC6	FE	35		「さいきんは、あるくしたいを⏎みたっていうはなしを⏎きかなくなったよ。	Lately we don't hear any more stories about walking corpses.
+0392	067DFC	FE	44		「アンデッド…えいえんのねむりに⏎つくけんりをうばわれた、あわれな⏎したいのことですよ。	The undead… poor corpses robbed of their right to eternal sleep.
+0393	067E2A	FE	42		「かれらをけしさるには⏎やはり、かみさまのおちからを⏎おかりするしかないでしょうね。	To banish them, I'm afraid you must borrow the power of God.
+0394	067E56	FE	21		「けんやまほうでは⏎どうにもなりませんよ。	Swords and magic won't do anything against them.
+0395	067E70	FE	41		「せいなるちからで⏎アンデッドたちを、けしてやる…⏎それがナサケというものですよ。	Erasing the undead with holy power… that is what mercy means.
+0396	067E9C	FE	48		「もう、あるくしたいなんてものは⏎こりごりです。いくさなど、どこか⏎よそでやってほしいものです。	I've had enough of walking corpses. I wish they'd fight their wars somewhere else.
+0397	067EDB	FE	46		「ジェンガは、ぞくぶつでね。⏎とうぞくどもをつかって、カネや⏎ほうせきをあつめまくってるぜ。	Jenga is a vulgar man. He uses the bandits to gather money and jewels by the cartload.
+0398	067F0B	FE	45		「…とうぞくどもも、ジェンガに⏎アンデッドにされちまうのがコワい⏎から、さからえないんだ。	…The bandits can't defy Jenga either, because they're afraid he'll turn them undead.
+0399	067F3D	FE	41		「いったい、どんなまほうを⏎つかえば、したいなんか⏎あやつれるっていうんだろう…?	What kind of magic could possibly let you control corpses…?
+0400	067F75	FE	48		「ようじゅつしジェンガってやつが⏎したいをあやつってるらしいんだよ⏎…いや、ウワサなんだけどね。	They say a sorcerer called Jenga is controlling the corpses… well, that's the rumor anyway.
+0401	067FA7	FE	45		「こわいよね…ころされるのも⏎こわいけど、しんだあとじぶんの⏎カラダをあやつられるなんて…	Scary, isn't it… Being killed is scary enough, but having your own body controlled after death…
+0402	067FD6	FE	19		「かんがえただけでも⏎ゾッとするね…。	Just thinking about it gives me the shivers…
+0403	067FEE	FE	14		「あんたらも、きをつけなよ。	You be careful too.
+0404	06800B	FE	43		「いまじゃ、さびれちまったけど⏎かつてこのイスランドは⏎ぼうえきで、さかえたまちでね。	It's run down now, but this town of Island once prospered through trade.
+0405	068038	FE	49		「なにもかも、あのジェンガとか⏎いうやつのせいですよ。だれだって⏎アンデッドがウロウロしてるなか…	It's all the fault of that Jenga. With undead wandering about, who…
+0406	06806B	FE	25		「かいものにでかけよう⏎なんておもいませんよね…。	would feel like going out shopping…
+0407	068086	FE	31		「…あなたがたは、ほんとうに⏎ひさしぶりのおきゃくさまですよ。	…You're truly the first customers we've had in a long while.
+0408	0680AA	FE	24		「…さあ、たっぷり⏎かいものしていっておくれよ!	…Now, buy plenty while you're here!
+0409	0680D5	FE	24		「ジェンガとは、いったい⏎なにものなんでしょう?	What on earth is Jenga?
+0410	0680EF	FE	46		「ただのまほうでは、アンデッドを⏎つくったり、けっかいをはったり⏎なんて、できないはずです。	Ordinary magic couldn't create undead or raise a barrier.
+0411	06811F	FE	29		「どこで、そんなじゅつを⏎みにつけた、というのでしょう…?	Where could he have learned such arts…?
+0412	068147	FE	45		「ジェンガのせんきょしている⏎ブリュンへは、ふつうのにんげんは⏎ちかよることはできません。	Ordinary people cannot approach Brun, where Jenga has holed up.
+0413	068176	FE	25		「ナゾのちからで、けっかいが⏎はられているのです。	A barrier of mysterious power surrounds it.
+0414	068191	FE	33		「これを、おつかいください。⏎せいなるみずできよめた⏎ルビーです。	Please use this. It's a ruby purified in holy water.
+0415	0681C0	FE	23		「どうぞ、つかれたからだを⏎おやすめください。	Please rest your weary bodies.
+0416	0681EA	FE	49	ケイン	「…ジェンガは、ここから⏎むかってほくとうにあるデスタート⏎のまちにひそんでるみたいですね。	Kain: …It seems Jenga is lurking in the town of Destart, to the northeast of here.
+0417	068221	FE	44	エストラーダ	「うむ!⏎ジェンガこそが、とうぞくをカゲで⏎あやつってきたものにちがいない。	Estrada: Yes! Jenga must be the one who's been controlling the bandits from the shadows.
+0418	06824F	FE	41		「やつをたおせば、とうぞくどもは⏎とうせいをうしない⏎ちりぢりにきえてゆくだろう。	Defeat him, and the bandits will lose their cohesion and scatter.
+0419	06827A	FE	13		「さあ!⏎あとひといきだ!	Now! One last push!
+0420	068298	FE	28	<DD>	「…⏎どうしたんです?⏎シスター・アクエリアス?	<DD>: … What's wrong, Sister Aquarius?
+0421	0682B7	FE	42	アクエリアス	「…あのブリュンでの⏎けっかい…。⏎あれは、みたことの⏎ないものでした。	Aquarius: …That barrier at Brun… It was unlike anything I have ever seen.
+0422	0682E3	FE	17		「イヤなよかんが、するのです…。⏎	I have a bad feeling about this…
+0423	068316	FE	32	ジェンガ	「おまえたちか…⏎カズマとガランを⏎たおしたというのは…	Jenga: So it's you… the ones who defeated Kazuma and Galan…
+0424	06833C	FE	32	ケイン	「そうさ!⏎そして、おまえをたおして⏎おしまいってわけさ!	Kain: That's right! And once we beat you, it's all over!
+0425	06835E	FE	45	ジェンガ	「たおす?⏎わたしを?⏎…ニンゲンのおまえたちが…?⏎…ククク…そいつはユカイだ。	Jenga: Beat? Me? …You humans…? …Heh heh heh… How amusing.
+0426	06838D	FE	29		「おまえたちはとくべつに⏎しなないように⏎ころしてやろう。	For you, I'll make a special exception and kill you without letting you die.
+0427	0683AC	FE	47		「ニクがくさり、ホネがふうかして⏎なお、てんにかえることのできない⏎アンデッドとなるがいい…。	Become undead, flesh rotting and bones crumbling, yet never able to return to heaven…
+0428	0683E1	FE	7	<DD>	「!!	<DD>: !!
+0429	0683EF	FE	49	ジェンガ	「…ここまできた、おまえ⏎たちのゆうきは、ほめてやろう。⏎…さあ、ほうびをうけとるがいい。	Jenga: …I'll praise your courage for making it this far. …Now, receive your reward.
+0430	068422	FE	42		「…いままで、おまえたちが⏎あじわったことのないキョウフを…⏎…にげるなよ…フフフ…	…A terror you have never tasted before… …Don't run now… heh heh heh…
+0431	06845E	FE	42	ジェンガ	「…おのれ…よ、よくも…⏎…これで、おわったと…おもうなよ⏎…ニンゲン…め…	Jenga: …Curse you… h-how dare you… …Don't think… this is over… …you… humans…
+0432	068492	FE	31	ケイン	「…おわった…⏎おわったんですよね?⏎エストラーダさま?	Kain: …It's over… It's over, right? Lord Estrada?
+0433	0684B7	FE	42	エストラーダ	「…うむ…そうだな…⏎…これでよのなかも…⏎すこしはおちつく…だろう…。	Estrada: …Mm… yes… …Now the world… should settle down… a little…
+0434	0684EC	FE	30	アクエリアス	「エストラーダさま?⏎なんだか、おかおのいろが…	Aquarius: Lord Estrada? Your face looks…
+0435	068510	FE	7	<DD>	「?!	<DD>: ?!
+0436	06851A	FE	15	ケイン	「エストラーダさまッ?!	Kain: Lord Estrada?!
+0437	06852B	FE	38	エストラーダ	「…ジェンガめ…⏎さいごのさいごに…⏎ノロイをかけてゆくとは…。	Estrada: …Damn that Jenga… To lay a curse on me… at the very end…
+0438	068557	FE	31	<DD>	「しっかり…⏎しっかりしてください⏎エストラーダさま!	<DD>: Hold on… Please hold on, Lord Estrada!
+0439	068575	FE	19	エストラーダ	「…<DD>⏎…そこにいるのか…	Estrada: …<DD>… are you there…
+0440	06858A	FE	34		「エストアにもどって⏎バーニャにつたえるのだ…⏎ときは…きた、と…。	Return to Estoa… and tell Vanya… that the time… has come…
+0441	0685AE	FE	13	<DD>	「…ときは⏎きた?	<DD>: …The time has come?
+0442	0685BA	FE	30	エストラーダ	「…<DD>⏎すべては…バーニャが⏎こたえるだろう…。	Estrada: …<DD>… Vanya will… answer everything…
+0443	0685DA	FE	25		「…おまえは…おまえには…⏎…なすべきことがある。	…You… you have… …something you must do.
+0444	0685F5	FE	31		「おまえのなすべきことから…⏎にげてはならん…⏎よいな…<DD>…。	You must not run… from what you have to do… Understood… <DD>…
+0445	068616	FE	32		「…ケイン…おまえは…わしの⏎かわりに…<DD>と…⏎ともにゆくのだ…	…Kain… you… go with <DD>… in my place…
+0446	068638	FE	12		「おまえなら…できる…。	You can… do it…
+0447	068646	FE	27		「…さらばだ…ゼノビアに…⏎…えいこうとしゅくふくを…	…Farewell… Glory and blessings… upon Zenobia…
+0448	068667	FE	7	<DD>	「!!	<DD>: !!
+0449	068671	FE	41	ケイン	「エストラーダさまッ!!⏎エストアへかえるんでしょ?⏎なんでここまできてッ!	Kain: Lord Estrada!! We were going back to Estoa, weren't we? Why, after coming all this way!
+0450	0686A5	FE	12	アクエリアス	「…………。	Aquarius: …………
+0451	0686B7	FE	37	ナーナ	「しろへもどりましょう…⏎<DD>、ケイン…。⏎ちちに…しらせなければ…。	Nana: Let's return to the castle… <DD>, Kain… I must… tell my father…
+0452	0686E2	FE	37	<DD>	「…ケイン、さあ⏎リヒトフロスへいこう…。⏎…それからエストアへ。	<DD>: …Kain, come on, let's go to Lichtfloss… …And then to Estoa.
+0453	068706	FE	25		「エストラーダさまの、ことば…。⏎まもらなきゃ…。	Lord Estrada's words… We have to honor them…
+0454	068739	FE	35		「よくたおせたね、ジェンガを。⏎たすかったよ、ほんとうに⏎ありがとう。	You really beat Jenga. You saved us. Truly, thank you.
+0455	06876F	FE	49		「ジェンガは、おうさまにでもなる⏎つもりなのかなあ。⏎あんなにカネ⏎をあつめて、どうするんだろう。	Was Jenga planning to make himself king or something? What did he want with all that money?
+0456	0687A2	FE	33		「やっぱり、カネはつかわなくちゃ⏎…さあ、ガンガンかっていきなよ!	Money is meant to be spent, after all… Come on, buy to your heart's content!
+0457	0687C8	FE	20		「イイものタップリ!⏎のぞいていきなよ。	Lots of good stuff! Come have a look.
+0458	0687DF	FE	16		「そなえあれば、うれいなしだよ。	Be prepared, and you'll have nothing to fear.
+0459	068802	FE	45		「ジェンガを、ただのまほうつかい⏎とでもおもってると、ひどいめに⏎あうぜ。⏎きをつけなよ。	If you think Jenga is just some ordinary mage, you'll pay for it. Be careful.
+0460	068834	FE	39		「…したいをあやつるジェンガを⏎ふつうのけんやまほうで⏎たおせるんだろうか…?	…Can Jenga, who controls corpses, really be beaten with ordinary swords and magic…?
+0461	06885E	FE	30		「…ジェンガって⏎にんげんだったんだろうか?⏎きになるなあ。	…Was Jenga even human? It makes me wonder.
+0462	068891	FE	50		「オレは、ふろうふしのけんきゅう⏎をやってるんだ。えいえんのいのち⏎があればなんだってできるからな。	I'm researching immortality. With eternal life, you could do anything.
+0463	0688C5	FC	23		えいえんのいのち…⏎すばらしいとおもわないか?	Eternal life… Don't you think it's wonderful?
+0464	0688E1	FE	15		「あんた、アタマがかたいねえ。	You're a stubborn one, aren't you.
+0465	0688F5	FE	22		「うんうん。⏎わかってるじゃないか、あんた。	Yes, yes. You get it, don't you.
+0466	068910	FE	23		「オレは、いつか⏎ジェンガをこえてみせるぜ!⏎	One day I'll surpass Jenga, you'll see!
+0467	06892E	FE	50		「ふろうふしのけんきゅうをしてた⏎ヤツかい?⏎なんか、いきづまった⏎とかで、やめちゃったみたいだよ。	The guy who was researching immortality? Seems he hit a dead end and gave up.
+0468	068978	FE	30		「ひめさま!⏎おお、やはりナーナひめさまでは⏎ありませんか!	Princess! Oh, it really is Princess Nana!
+0469	06899C	FE	5	ナーナ	「?	Nana: ?
+0470	0689A3	FE	48		「とつぜん、しつれいしました…。⏎わたしは、おうさまにそうぐを⏎おさめております、しょくにんの…	Forgive my rudeness… I'm the craftsman who supplies the King with his armor…
+0471	0689D5	FE	46	ナーナ	「ああ、おもいだしたわ。⏎あなたはうでがいいので、ちちうえ⏎もいつもよろこんでいます。	Nana: Ah, I remember now. You're very skilled, and my father is always pleased with your work.
+0472	068A05	FE	50		「ありがたきおことば。⏎…それに⏎しても、ジェンガとうばつにナーナ⏎さまみずから、ごしゅつじんとは…	You honor me. …Still, for Princess Nana herself to take the field against Jenga…
+0473	068A63	FE	43		「どうぞ、このぎんのロッドを⏎おもちください。⏎このままでも⏎じゅうぶんつかえますが…	Please take this Silver Rod. It's quite usable as it is, but…
+0474	068A90	FE	32		「…そうですね⏎きよめてもらえば⏎さらによいものになるでしょう。	…Yes, if you have it purified it will become something even better.
+0475	068AEF	FE	47		「おや?そのしろいじゅうじかは?⏎そのじゅうじかは、もともとわれら⏎のきょうかいにあったもの。	Oh? That White Cross? That cross originally belonged to our church.
+0476	068B20	FC	31		「どこでてにいれたかはぞんじませ⏎んが、おかえしねがえますか?	I don't know where you got it, but would you return it to us?
+0477	068B44	FE	22		「そうですか。⏎それもしかたのないことです。	I see. Well, that can't be helped.
+0478	068B5D	FC	30		「いかがです?⏎しろいじゅうじか⏎をかえしていただけますか?	What do you say? Would you return the White Cross?
+0479	068B80	FE	15		「そうですか。⏎ざんねんです。	I see. That's a pity.
+0480	068B94	FE	41		「ありがとうございます。⏎かわり…といってはなんですが⏎このけんをおもちください。	Thank you. In exchange… if you'll accept it, please take this sword.
+0481	068BCB	FE	24		「あなたがたに⏎かみのごかごがありますように…。	May God's protection be with you…
+0482	068BF6	FE	33		「おや?⏎それをはいけんできますかな?⏎ほう…ぎんのロッドですか…	Oh? May I see that? Ah… a Silver Rod…
+0483	068C19	FE	45		「このしなは、こちらでいのりを⏎ささげ、せいなるぶきとなるよう⏎きよめることができますが…	We can offer prayers over this item here and purify it into a holy weapon…
+0484	068C48	FC	14		「おあずけいただけますか?⏎	Would you leave it with us?
+0485	068C5F	FE	23		「わかりました。⏎しょうしょうおまちください。	Understood. Please wait a moment.
+0486	068C78	FE	1		…	…
+0487	068C7B	FE	27		「できました。⏎ホーリーロッドとでも⏎いいましょうか。	It's done. Let's call it a Holy Rod.
+0488	068C98	FE	46		このロッドは、よこしまなチカラを⏎ただすもの。⏎ただしいココロを⏎もって、おつかいください。	This rod corrects wicked power. Please use it with a righteous heart.
+0489	068CD4	FE	29		「ここはきょうかいです。⏎さまよえるたましいにやすらぎを…	This is a church. Peace to the wandering souls…
+0490	068D00	FE	14		エストラーダのしから3ねん…	Three years after Estrada's death…
+0491	068D10	FE	27		バーニャのてがみによって⏎しんじつをしらされた⏎<DD>は…	Having learned the truth from Vanya's letter, <DD>…
+0492	068D2D	FE	39		ケイン、そして、ぎゆうぐんの⏎なかまたちとともに⏎ここ、ネッサちほうにいた…。	was here in the Nessa region, together with Kain and the comrades of the volunteer army…
+0493	068D56	FE	26		ゼノビアのたみをみちびく、とは⏎いかなることなのか…	What does it mean, to guide the people of Zenobia…
+0494	068D72	FE	23		ゼノビアのおうじとして⏎なにをなすべきなのか…	What must be done, as the Prince of Zenobia…
+0495	068D8B	FE	12		<DD>のたびが⏎はじまる…。	<DD>'s journey begins…
+0496	068D9D	FE	46	ケイン	「…このあたりのまちを⏎せんきょしてるのは、ただのとうぞ⏎くなんかじゃないみたいだぜ。	Kain: …The ones occupying the towns around here don't seem to be ordinary bandits.
+0497	068DCD	FE	44		「バルドルとかいうやつのてさき…⏎…というか、しんじゃ…みたいな⏎れんちゅうらしいんだ。	They're the henchmen of some guy called Baldur… or rather, his believers… something like that.
+0498	068E04	FE	27	アクエリアス	「しんじゃ?⏎いったいなんのしんじゃなの?	Aquarius: Believers? Believers in what, exactly?
+0499	068E21	FE	46	ケイン	「それが…よくわからないん⏎だ。⏎…とにかく、こまってる⏎ひとがいるのは、たしかだな。	Kain: That's… I'm not really sure. …Anyway, there are definitely people in trouble.
+0500	068E55	FE	48	ナーナ	「おうじ、いかがいたしま⏎しょう?⏎おめいじいただければ⏎わがリヒトフロスへいをつかって…	Nana: Prince, what shall we do? If you give the order, I'll use my Lichtfloss troops to…
+0501	068E8B	FE	43	<DD>	「…あまり⏎てあらなことはしないように、まち⏎をかいほうしていくんだ…いいね。	<DD>: …Let's liberate the towns without being too rough about it… all right?
+0502	068EC8	FE	47		「あなたがたですか?やみのきしを⏎おっているというのは。⏎わたしが⏎このまちのちょうろうです。	Are you the ones pursuing the Knight of Darkness? I am the elder of this town.
+0503	068EF9	FE	42		「ここネッサをぬけると、ノロドム⏎ちほう、そしてメガホルテンへの⏎みちがひらけます。	Beyond Nessa, the road opens to the Norodom region and then to Meganhorten.
+0504	068F25	FE	50		「ノロドムには、シクトかんごくが⏎あり、ウワサでは、さらわれたひと⏎たちがあつめられているそうです。	In Norodom there is Shikt Prison, where rumor says the kidnapped people are being gathered.
+0505	068F59	FE	34		「メガホルテンには⏎バルドルのぜんしんきちがある⏎といわれています。	Meganhorten is said to hold Baldur's forward base.
+0506	068F7D	FE	24		「どちらにすすむかは⏎あなたがたしだいですが…。	Which way you go is up to you…
+0507	068F9F	FE	45	ケイン	「ノロドムとメガホルテン…⏎どっちにすすんでも、バルドルって⏎ヤツにぶちあたるけど…	Kain: Norodom and Meganhorten… Either way we'll run into this Baldur guy, but…
+0508	068FD2	FE	49	ナーナ	「メガホルテンにあるという⏎バルドルのきょてんをかいほうする⏎のが、せんけつじゃないかしら。	Nana: Liberating Baldur's base in Meganhorten should come first, I'd think.
+0509	069005	FE	48		「バルドルのもくてきは、わからず⏎じまいだったけど…はなしをきいて⏎ると、ジェンガににているわ。	We never did learn what Baldur is after… but from what I hear, he resembles Jenga.
+0510	069037	FE	49		「ジェンガも、さいしょあらわれた⏎ときは、おなじようなことをいって⏎たの…あらそいをなくすって…。	Jenga said the same kind of things when he first appeared… that he'd put an end to conflict…
+0511	06906A	FE	36		「きっと、バルドルとジェンガは⏎なにか、かんけいがあるに⏎ちがいないわ。	Baldur and Jenga must be connected somehow, I'm sure of it.
+0512	069099	FE	37	アクエリアス	「…わたしは⏎さきにノロドムちほうに⏎いくべきだとおもいます。	Aquarius: …I think we should go to the Norodom region first.
+0513	0690C0	FE	38		「シクトかんごくとやらには⏎つみもないひとびとが⏎とらわれているのでしょう?	Innocent people are being held in this Shikt Prison, aren't they?
+0514	0690E8	FE	48		「まず、そのひとたちをたすける⏎ことが、ひとびとがわたしたちに⏎のぞんでいることではないかしら。	Surely rescuing them first is what the people want from us.
+0515	06911E	FE	20	<DD>	「う…ん…。⏎どうするべきか…。	<DD>: Hmm… What should we do…
+0516	069131	FE	21	ケイン	「どちらにむかうか⏎<DD>、まかせるよ。	Kain: Which way we go is up to you, <DD>.
+0517	06915E	FE	11		「がんばってください。	Good luck.
+0518	069178	FE	30		「ノロドムちほうに⏎シクトかんごくってのが⏎あるんだってな。	I hear there's a place called Shikt Prison in the Norodom region.
+0519	069198	FE	37		「ウワサなんだけど⏎さらわれたひとたちは⏎そこにおしこめられてるらしいぜ。	It's just a rumor, but they say the kidnapped people are locked up there.
+0520	0691D2	FE	30		「どんなよのなかだろうが⏎カネさえあれば⏎かんけいないよね。	Whatever the world comes to, it doesn't matter as long as you have money.
+0521	0691F2	FE	43		「カネさえあれば、たいていのこと⏎は、なんとかなるものさ。⏎なあ、そうおもわないかい?	With money, you can sort out most things. Don't you think so?
+0522	06921F	FE	29		A・…そうかもしれないな⏎B・それは、あさましいかんがえだ	A: Maybe so…⏎B: How shameful
+0523	069250	FE	16		「だろ?⏎そうにきまってるって!	Right? Of course it's true!
+0524	069267	FE	16		「そうかい?⏎あんた、あまいね。	You think so? You're naive.
+0525	069286	FE	7		「がんばれよ。	Good luck.
+0526	0692A2	FE	41		「あんたらも、このむらのまつりを⏎みにきたのかい?⏎どうだい、もりあがってるだろ?	Did you come to see the village festival too? It's lively, isn't it?
+0527	0692CD	FE	41		「ここしばらく、ほうさく⏎つづきでね。⏎もう、わらいが⏎とまらないってかんじだよ。	We've had good harvests for a while now. I can't stop smiling.
+0528	0692F8	FE	32		「じんせいってなものは⏎たのしまなくちゃあね。⏎そうおもうだろ?	You've got to enjoy life, you know. Don't you think?
+0529	06931A	FE	23		A・そのとおりだね⏎B・うかれてばかりでもね…	A: That's right⏎B: Don't overdo it
+0530	069345	FE	24		「はっはっは、あんたらも⏎たのしんでいってくれ。	Ha ha ha, you enjoy yourselves too.
+0531	069364	FE	15		「なんだ?⏎カタブツだなあ…。	What? You're a stiff one…
+0532	069382	FE	24		「はっはっは、あんたらも⏎たのしんでいってくれ。	Ha ha ha, you enjoy yourselves too.
+0533	0693AD	FE	35		「メガホルテンのほうに⏎ゆうめいなヨッパライのきしが⏎いるんだってさ。	They say there's a famous drunkard knight over toward Meganhorten.
+0534	0693D2	FE	40		「なんでも、もとゼノビアのきし⏎なんだって。⏎イヤだねえ⏎おちぶれたきしなんて。	Apparently he used to be a knight of Zenobia. How sad, a knight fallen so low.
+0535	0693FC	FE	23		「せんそうにまけると⏎そんなものなのかねえ…。	I suppose that's what happens when you lose a war…
+0536	069420	FE	26		「のんだくれの⏎もとゼノビアきしのはなしは⏎きいた?	Did you hear about the drunken former Zenobian knight?
+0537	06950C	FE	37		「そんなかんがえでは⏎いつまでたっても、よのなかが⏎おちつかないでしょう。	With thinking like that, the world will never settle down.
+0538	069567	FE	12		「きりつはたいせつです。	Discipline is important.
+0539	069586	FE	46		「バルドル?⏎ああ、やみのきしの⏎ことだね。⏎やみのきしは⏎やみのせかいのししゃなんだとさ。	Baldur? Ah, you mean the Knight of Darkness. They say he's an envoy from the world of darkness.
+0540	0695B6	FE	28		「このあたりには⏎バルドルのしんじゃが⏎ふえてるんだ。⏎	Baldur's believers are growing in number around here.
+0541	0695F2	FE	11		「まぁ、がんばりなよ。	Well, good luck.
+0542	069612	FE	43		「…あなたがたが、ぎゆうぐん?⏎ふむ…ずいぶんはげしく⏎たたかってこられたようですな。	…You're the volunteer army? Hm… you seem to have fought quite fiercely.
+0543	06963F	FE	44		「たたかいのなかで、あなたがたは⏎なにを、えられたのでしょう。⏎おきかせくださいますか?	What have you gained through battle? Would you tell me?
+0544	06966D	FE	27		A・ちからにたいするじしん⏎B・ちからにたいするおそれ	A: Faith in power⏎B: Fear of power
+0545	06969C	FE	40		「あなたがたは、まだおわかい。⏎そうかんがえるのも⏎しかたないでしょうなあ…。⏎	You are still young. I suppose it can't be helped that you think so…
+0546	0696CB	FE	27		「ほう…おわかいのに⏎ふんべつがおありのようですな。⏎	Oh… young as you are, you seem to have good sense.
+0547	0696F5	FE	10		「がんばりなされよ。	Do your best.
+0548	069714	FE	44		「ここは、きょねんこうずいに⏎おそわれたんだ。⏎オレのむすこも⏎みずにのまれちまってね…	This place was hit by a flood last year. My son was swept away by the water…
+0549	069742	FE	33		「こうずいから、やっと⏎たちなおりかけたら⏎こんどはひとさらいだ…	Just as we were getting back on our feet after the flood, now it's kidnappers…
+0550	069765	FE	41		「なあ…あんた。⏎いきてゆくことってのは、ツラい⏎ことをかさねるだけなのかねえ…。	Hey… you. Is living just piling one hardship on another…?
+0551	069790	FE	27		A・…そうかもしれないね⏎B・いつか、いいこともあるさ	A: Maybe so…⏎B: Good days ahead
+0552	0697BF	FE	51		「そうおもうかい?⏎でもやっぱり⏎いきてみないとね。しんだむすこの⏎ぶんも、がんばってやんなきゃ…。⏎	You think so? But you still have to go on living. I have to live for my dead son's sake too…
+0553	0697F9	FE	46		「…きやすめかい?⏎あんたは⏎まだわかいからね…。⏎オレの⏎きもちはわかんねえだろうな…。⏎	…Trying to cheer me up? You're still young… You couldn't understand how I feel…
+0554	069836	FE	25		「このまちじゃ、いきていく⏎だけでせいいっぱいさ。	In this town, just staying alive takes everything we have.
+0555	069864	FE	33		「バルドルは、きょだいな⏎ぐんだんをひきいる⏎しんりゃくしゃです。	Baldur is an invader leading a huge army.
+0556	069887	FE	50		「あまり、てあらなことをしないの⏎で、みな、ゼテギネアよりましだ…⏎とでもおもっているのでしょうが。	He isn't too brutal, so everyone probably thinks he's better than Zeteginea…
+0557	0698BF	FE	28		「これをもっていきなさい。⏎なにかのやくにたつでしょう。	Take this with you. It should be of some use.
+0558	0698E7	FE	30		「かかわりあいにならないほうが⏎よいのではないでしょうか…。	Wouldn't it be better not to get involved…?
+0559	069910	FE	9		「きをつけなさい。	Be careful.
+0560	069950	FE	34		「なんでも、ノロドムの⏎シクトかんごくに⏎おしこめられてるんだって?	I hear they're being locked up in Shikt Prison, in Norodom?
+0561	069974	FE	41		「アンタら、ぎゆうぐんなんだろ?⏎シクトかんごくのみんなを⏎たすけてくれるのかい?	You're the volunteer army, right? Will you rescue everyone in Shikt Prison?
+0562	06999F	FE	28		A・ああ、やくそくするよ⏎B・いや、やくそくはできないな	A: Yes, I promise⏎B: I can't promise
+0563	0699CF	FE	49		「ほんとうかい?⏎ゆうきあるなあ⏎…うでききのサムライがみはってる⏎らしいぜ、シクトかんごくは。⏎	Really? You're brave… I hear a skilled samurai is guarding Shikt Prison.
+0564	069A07	FE	18		「そりゃそうだ。⏎おっかないよな。⏎	Fair enough. It's scary, after all.
+0565	069A79	FC	20		「たのむから⏎ひきうけるといってくれよ。	Come on, please say you'll do it.
+0566	069A9A	FE	30	ゴールディ	「そ、そんなこと⏎いわずにさ。⏎たのむよ。⏎なっ?	Goldie: D-don't say that. Please. Okay?
+0567	069AC0	FE	36	ゴールディ	「そんなぁ。⏎ちぇっ。⏎しょうがない…⏎ほかをあたるとするか。	Goldie: Aw, no. Tch. Oh well… I'll try someone else.
+0568	069AE7	FE	37	ゴールディ	「ありがたい。⏎じつはあたし、そこのみせで⏎くいすぎちゃってね。	Goldie: Thanks! Actually, I ate too much at that shop over there.
+0569	069B0E	FE	36		「たてかえてくれよ。⏎なぁに、ほんの10000ゴート⏎なんだけどね…。⏎	Cover me, would you? It's only, oh, 10000 Goth…
+0570	069B4A	FE	15		10000ゴートはらいました。	Paid 10000 Goth.
+0571	069B5B	FE	40	ゴールディ	「いやあ、たすかった。⏎じゃあ、おれいにあんたたちを⏎まもってやるよ。	Goldie: Phew, that saved me. Then as thanks, I'll protect you.
+0572	069B85	FE	29		「こうみえてもあたしは⏎チョーいちりゅうの⏎まほうつかい…	I may not look it, but I'm a super first-rate mage…
+0573	069BA4	FE	39		「…をめざして、とっくんちゅうの⏎きたいのおおがたルーキーってやつ⏎だからね。	…in training, that is. A promising rookie aiming for the top.
+0574	069BCD	FE	29		「ま、アンタらおおぶねに⏎のったつもりで⏎あんしんしなよ!	Well, just relax, you're in good hands!
+0575	069BEC	FE	19		ゴールディが⏎なかまにくわわりました。	Goldie has joined the party.
+0576	069C2B	FE	46	ゴールディ	「え?⏎なに?⏎カネがたりないだってえ?ちぇッ!⏎なんだよ!⏎きたいさせやがって!	Goldie: Huh? What? You don't have enough money? Tch! Come on! Getting my hopes up!
+0577	069C5B	FE	16		「もういいよ!⏎あっちいって!⏎	Forget it! Go away!
+0578	069C76	FE	10		「がんばってくれよ。	Good luck.
+0579	069C93	FE	26		「ほう、よくきなすった。⏎たびびとへおくりものじゃ。	Oh, welcome. A gift for travelers.
+0580	069CC7	FE	10		「がんばってくれよ。	Good luck.
+0581	069D00	FE	42	ギルバルト	「このオレは、このちの⏎たみをまもらねばならんみだ。⏎そうかんたんには……	Gilbard: It is my duty to protect the people of this land. I can't just……
+0582	069D2C	FE	16		「そ、それはユーリアのてがみか…	Th-that's a letter from Yuria…
+0583	069D3E	FE	26		「めさきのへいわではなく⏎しんのへいわをめざせ、と…	Seek not a fleeting peace, but true peace, she says…
+0584	069D5A	FE	2		「…	…
+0585	069D5E	FE	29		「わかった。⏎しばらくこのちから⏎おまえたちにあずけよう。	Understood. For a while, I'll entrust this land to you.
+0586	069D7D	FE	19		ギルバルトが⏎なかまにくわわりました。	Gilbard has joined the party.
+0587	069DA5	FE	47		「バルドルはさあ、あらそいごとの⏎ないせかいをつくるんだってさ。⏎みんなには、そういってるぜ。	Baldur says he'll create a world without conflict. That's what he tells everyone.
+0588	069DD6	FE	38		「なかなか、すぐには⏎しんじられないことだけど⏎こんなよのなかだからねえ…。	It's hard to believe right away, but in a world like this…
+0589	069DFE	FE	38		「ワラにもすがるきもちで⏎アイツのしんじゃになるのも⏎しかたないことかもね。	I suppose it's only natural that people grasp at straws and become his believers.
+0590	069E45	FE	36		「このあたりは⏎ひとさらいがおおくてね…⏎だからかくれてくらしてるのさ。	There are a lot of kidnappers around here… That's why we live in hiding.
+0591	069E6B	FE	13		「あんたらもきをつけなよ。	You be careful too.
+0592	069E85	FE	14		「きをつけなよ、あんたらも。	Be careful, all of you.
+0593	069EA2	FE	23		「あなたがたに⏎かみのごかごがありますように。	May God's protection be with you.
+0594	069ED8	FE	32		「このちはのろわれております。⏎どうか、ごきふをおねがいします。	This land is cursed. Please, make a donation.
+0595	069EFA	FC	13		「ごきふをいただけますか?	Would you make a donation?
+0596	069F0C	FE	17		そうですか…⏎しかたありませんね。	I see… It can't be helped.
+0597	069F20	FE	13		200ゴートはらいました。	Paid 200 Goth.
+0598	069F2F	FE	40		「ありがとうございました。⏎これでさまよえるたましいも⏎すくわれることでしょう。	Thank you. Now the wandering souls will surely be saved.
+0599	069F6F	FE	49		「バルドル…あれは、いたんのもの⏎です。あのものからは、そこしれぬ⏎やみのはどうをかんじるのです。	Baldur… he is a heretic. I sense a fathomless pulse of darkness from him.
+0600	069FA2	FE	49		「あのものに、だまされてはなりま⏎せん。⏎あのもののいうへいわとは⏎しのせかいにちがいないのです。	You must not be deceived by him. The peace he speaks of can only be the world of death.
+0601	06A015	FE	38		「バルドルが⏎ひとさらいをつれてきた…という⏎ウワサをきいたこともあります。	I've even heard rumors that Baldur brought the kidnappers here…
+0602	06A04C	FE	47		「はるかにしのほう、バルザックと⏎いうむらに、シルバードールという⏎にんぎょうがあるそうです。	Far to the west, in a village called Balzac, there is said to be a doll called the Silver Doll.
+0603	06A07D	FE	34		「メガホルテンのちかくのまちで⏎さがしていたひとが⏎いるようですが…	Someone in a town near Meganhorten seems to be looking for it…
+0604	06A0A4	FE	19		「シルバードールは⏎みつかりましたか?	Did you find the Silver Doll?
+0605	06A0CF	FE	39	アクエリアス	「…おうじ、やっぱり⏎シクトかんごくのひとたちを⏎すくうのですね。	Aquarius: …Prince, so you will save the people of Shikt Prison after all.
+0606	06A0F8	FE	31		「それでこそ、ゼノビアのおうじ…⏎わたしたちのリーダーですわ!	That's the Prince of Zenobia for you… our leader!
+0607	06A11D	FE	48	ケイン	「アクエリアス、そのおうじ⏎ってよぶのはやめとけよ。…どこに⏎ゼテギネアのヤツがいるかも…	Kain: Aquarius, stop calling him 'Prince'. …We don't know where Zeteginea's people might be…
+0608	06A14F	FE	24	アクエリアス	「あ…はい。⏎ごめんなさい、つい…。	Aquarius: Ah… yes. I'm sorry, it slipped out…
+0609	06A171	FE	29	ケイン	「さあ、<DD>。⏎シクトかんごくにむかって⏎しんぐんだ!	Kain: Now, <DD>. March on Shikt Prison!
+0610	06A1DE	FE	33		「おれをコロすのかい?⏎おれはカネで、やとわれてるだけ⏎なんだぜ。	Going to kill me? I'm only hired for money, you know.
+0611	06A205	FE	47	ケイン	「…ふざけたやつだな…。⏎おとなしく、なかのひとたちを⏎かいほうすればみのがしてやるよ。	Kain: …What a joker… Just free the people inside quietly and we'll let you go.
+0612	06A236	FE	50	グロス	「ああ…そいつはダメだあ。⏎おれがバラされちまう。あのくろい⏎ローブのれんちゅうはコワイんだ。	Gross: Ahh… can't do that. I'd be done for. Those black-robed fellows are scary.
+0613	06A26E	FE	36	<DD>	「あんしんしろ。⏎バルドルのはいかも⏎ぼくたちがめんどうをみる。	<DD>: Don't worry. We'll deal with Baldur's followers too.
+0614	06A291	FE	29		「おまえは、だまって⏎ろうやのカギを⏎さしだせばいいんだ。	Just keep quiet and hand over the keys to the cells.
+0615	06A2B0	FE	42	グロス	「う…ん…じゃあ、カネを⏎くれよ。⏎こっちはしょうばいで⏎やってるんだからな。	Gross: Hmm… then give me money. I'm doing this as a business, after all.
+0616	06A2DC	FE	35		「おまえたちが、あいつらよりも⏎カネをくれるんなら⏎いうことをきくぜ。	If you pay me more than they do, I'll do as you say.
+0617	06A305	FE	14	ケイン	「ちッ!⏎…いくらだ?	Kain: Tch! …How much?
+0618	06A315	FE	49	グロス	「へっへっへ…さあてね…。⏎とりあえず、おまえらのありガネ⏎すべてと…オンナもおいていきな。	Gross: Heh heh heh… let's see… For starters, all the money you've got… and leave the women too.
+0619	06A348	FE	24	ケイン	「?!⏎このヤロウ!⏎つけあがりやがって!	Kain: ?! You bastard! Don't push your luck!
+0620	06A362	FE	48	グロス	「ほう、おもしろい。おれは⏎けんをつかうのもすきなんだ。⏎もっとも、カネのつぎに…だがな。	Gross: Oh, interesting. I like using my sword too. Second only to money… that is.
+0621	06A39C	FE	30	グロス	「なんだおまえたちは?⏎もんばんなら、まにあってるぞ。	Gross: What do you want? We've got enough gatekeepers.
+0622	06A3BC	FE	41		「…ははあ…おまえたちだなあ…⏎ぎゆうぐんとかいうのは…。⏎…おれをコロすのかい?	…Ahh… so it's you… the so-called volunteer army… …Going to kill me?
+0623	06A3E7	FE	50		「おれは、カネでやとわれてるだけ⏎なんだがなあ…。⏎しかたねえなあ⏎…これも、まあ、カネのためだな。	I'm only hired for money, you know… Oh well… this is for the money too, I suppose.
+0624	06A448	FE	36	ケイン	「きみょうなやつだったな…⏎さあ、<DD>。⏎みんなをかいほうしようぜ。	Kain: What a strange fellow… Come on, <DD>. Let's free everyone.
+0625	06A47B	FE	34	オロソフ	「<DD>さま…⏎…オロソフといいます。⏎ありがとうございました。	Orosof: Lord <DD>… …My name is Orosof. Thank you very much.
+0626	06A49F	FE	26		「おかげさまで、ともだちをすくう⏎ことができました。	Thanks to you, I was able to save my friend.
+0627	06A4BF	FE	23	<DD>	「あ、ああ。⏎…それはよかったですね。	<DD>: Ah, yes. …I'm glad to hear it.
+0628	06A4D5	FE	41	オロソフ	「おれい、といってはなん⏎ですが、このさきもおともさせて⏎もらえませんか?	Orosof: As thanks, if you'll have me, may I accompany you from here on?
+0629	06A500	FE	27		「いっしょうけんめい⏎はたらきますので…⏎なにとぞ…。	I'll work as hard as I can… Please…
+0630	06A526	FE	41	ケイン	「ゴールディのおさななじみ⏎とかいうひとだね。⏎いいんじゃ⏎ないかなあ…<DD>?	Kain: He's Goldie's childhood friend, apparently. Why not… <DD>?
+0631	06A555	FE	28	<DD>	「とても⏎キケンなたびですよ。⏎かまいませんか?	<DD>: It's a very dangerous journey. Are you sure?
+0632	06A570	FE	24	オロソフ	「はい!⏎ありがとうございます、おうじ!	Orosof: Yes! Thank you, Prince!
+0633	06A58E	FE	8	ケイン	「………?	Kain: ………?
+0634	06A5A0	FE	40	グロス	「むぅ。⏎つ、つよいな…⏎まけたまけた。⏎しゅうじんたちをかいほうしよう。	Gross: Hmm. Y-you're strong… I lose, I lose. Let's free the prisoners.
+0635	06A5CE	FE	15	ケイン	「なんだ、いさぎいいな。	Kain: Well, that's gracious of you.
+0636	06A5DF	FE	46	グロス	「まあな。⏎…それよりも…⏎あんたたちといっしょなら⏎いいカネもうけになりそうだなあ。	Gross: I suppose. …More to the point… I could make good money sticking with you.
+0637	06A60F	FE	13		「ついていかせてもらうぜ。	I'll be tagging along.
+0638	06A61E	FE	20	ケイン	「なんだってぇ?⏎どうする?⏎<DD>…	Kain: What?! What do we do? <DD>…
+0639	06A638	FE	33	<DD>	「…ぼくたちは⏎ひとをたすけるために⏎たたかっているんだ。	<DD>: …We fight to help people.
+0640	06A658	FE	50	グロス	「はっはは。そりゃあいい。⏎じゃ、キマリだな。…ひとだすけも⏎カネもうけも、にたようなもんさ。	Gross: Ha ha ha. That's fine. Then it's settled. …Helping people and making money are much the same.
+0641	06A68C	FE	27		「まあ、まだわかいあんたらには⏎わからんだろうけどな…	Well, young as you are, you probably wouldn't understand…
+0642	06A6A9	FE	17		グロスが⏎なかまにくわわりました。	Gross has joined the party.
+0643	06A6ED	FE	33		ここは…シクトかんごくの⏎あったところだ。⏎いまは、だれもいない…	This is… where Shikt Prison once stood. No one is here now…
+0644	06A73D	FE	26	オロソフ	「ゴールディ?⏎ゴールディじゃありませんか?	Orosof: Goldie? Isn't that you, Goldie?
+0645	06A75D	FE	35	ゴールディ	「…オロソフ?⏎わァ…なんねんぶりだろ。⏎げんきそうじゃん。	Goldie: …Orosof? Wow… how many years has it been? You look well.
+0646	06A782	FE	44	オロソフ	「ええ、まあ…。⏎もしかして、シクトかんごくを⏎かいほうしにいくぎゆうぐんって…	Orosof: Yes, well… Could it be that the volunteer army going to free Shikt Prison is…
+0647	06A7B0	FE	32	ゴールディ	「うん⏎あたしらのことだよ。⏎でも、なんでそのことを?	Goldie: Yeah, that's us. But how do you know about that?
+0648	06A7D2	FE	48	オロソフ	「ウワサできいたんです。⏎どうでしょう?⏎わたしも、ぎゆう⏎ぐんにいれてもらえませんか?	Orosof: I heard the rumors. What do you say? Could I join the volunteer army too?
+0649	06A804	FE	41		「ともだちがシクトかんごくに⏎いるらしいんですよ。⏎なんとか、たすけてあげたくて…	A friend of mine seems to be in Shikt Prison. I want to save him somehow…
+0650	06A82F	FE	27		「ゴールディ、あなたから⏎くちをきいてもらえませんか?	Goldie, could you put in a word for me?
+0651	06A84C	FE	46	ゴールディ	「う…ん…わかった。⏎まあ、あたしのくちききなら⏎あいつもウンというだろうからね。	Goldie: Hmm… all right. If I ask, he'll probably say yes.
+0652	06A87C	FE	9	オロソフ	「あいつ?	Orosof: He?
+0653	06A887	FE	27	ゴールディ	「ああ⏎<DD>っていう⏎ぎゆうぐんのリーダーさ。	Goldie: Yeah, <DD>, the leader of the volunteer army.
+0654	06A8A4	FE	31		「おとなしくて⏎きのイイやつだから⏎きっとあんたもきにいるよ。	He's quiet and good-natured, so I'm sure you'll like him too.
+0655	06A8C5	FE	38	オロソフ	「…そうですか。⏎あんしんしました。⏎では、よろしくおねがいします。	Orosof: …I see. That's a relief. Then, I'm in your hands.
+0656	06A8F5	FE	48	オロソフ	「あなたがたが、ぎゆう⏎ぐんですか?⏎シクトかんごくを⏎かいほうしにゆかれるんですよね?	Orosof: Are you the volunteer army? You're going to free Shikt Prison, aren't you?
+0657	06A927	FE	45		「だったら、いっしょにいきません⏎か?⏎わたしのともだちが⏎あそこにとらわれていましてね。	Then won't you let me come with you? A friend of mine is being held there.
+0658	06A956	FE	34		「いまから、なんとか⏎たすけにいこうと⏎おもっていたところなんです。	I was just about to try and go save him somehow.
+0659	06A97A	FE	18		オロソフが⏎なかまにくわわりました。	Orosof has joined the party.
+0660	06A9A3	FE	43		「このへんでもくろいローブの⏎れんちゅうをみかけたものが⏎います。おそろしいことです。	Some people have seen the black-robed fellows around here too. It's frightening.
+0661	06A9F6	FE	33		「くろいローブをきたれんちゅうは⏎みんな、バルドルのてさきなんだ。	The ones in black robes are all Baldur's henchmen.
+0662	06AA19	FE	49		「あいつらは、つよいぜ。…まるで⏎にんげんじゃないみたいだ。ひとを⏎さらってるのも、あいつらだよ。	They're strong. …It's like they're not even human. They're the ones kidnapping people too.
+0663	06AA4C	FE	28		「…シクトかんごくにいくんなら⏎かくごをきめていきなよ。	…If you're going to Shikt Prison, go prepared.
+0664	06AA8E	FE	27		「あのかんごくができてから⏎きみがわるいことばかりだ。	Ever since that prison was built, it's been nothing but eerie things.
+0665	06AAAB	FE	23		「きみょうなローブをきたヤツらは⏎ウロつくし…	Fellows in strange robes prowling about…
+0666	06AAC4	FE	47		「さらわれたにんげんは、みんな⏎あそこにつれていかれるみたいだ。⏎…なんとかならないのかねえ。	It seems everyone who gets kidnapped is taken there. …Can't something be done?
+0667	06AAF8	FE	27		「あんなかんごく、さっさと⏎なくなっちまえばいいのに。	I wish that prison would just disappear.
+0668	06AB16	FE	22		「あのかんごくがなくなって⏎すっきりしたよ。	With that prison gone, what a relief.
+0669	06AB3F	FE	36		「シクトかんごくをみはってるのは⏎グロスという⏎うでききのサムライだよ。	The one guarding Shikt Prison is a skilled samurai called Gross.
+0670	06AB65	FE	47		「バルドルのしんじゃ…というより⏎ただたんに、カネほしさにかんしゅ⏎をひきうけてるみたいだね。	He's not so much a believer of Baldur… he just took the jailer's job for the money, it seems.
+0671	06AB99	FE	16		「ああ、さわがしいよのなかだね…	Ah, what a restless world…
+0672	06ABB4	FE	47		「しんじつをつげるきょうかい…⏎…しんじつをしることは、ほんとう⏎にしあわせなのでしょうか…?	The Church of Truth… …Is knowing the truth truly a blessing…?
+0673	06ABE5	FE	50		「ひとは、だれもよわいそんざいで⏎す。じぶんをいつわっていきるほう⏎が、らくなばあいもあるでしょう。	People are all weak beings. Sometimes it is easier to live deceiving oneself.
+0674	06AC19	FE	42		「しんじつとは、こころのなかの⏎やみをのぞきみるようなものでは⏎ないでしょうかね…。	Perhaps the truth is like peering into the darkness within one's own heart…
+0675	06AC52	FE	37		「きたにあるきょうかいは⏎しんじつをつげるきょうかいと⏎よばれております。	The church to the north is called the Church of Truth.
+0676	06AC79	FE	47		「ただ、けっかいにまもられており⏎ますのでな…ふつうのにんげんは⏎ちかづくことすらできません。	But it is protected by a barrier… Ordinary people can't even approach it.
+0677	06ACAA	FE	27		「なんでも、グロスちほうにある⏎オラータというまちに…	I hear that in a town called Orata, in the Gross region…
+0678	06ACC7	FE	32		「けっかいをとく⏎しろいめがみぞうとやらが⏎あるときいています。	there is a White Goddess Statue that can break the barrier.
+0679	06ACEC	FE	44		「しろいめがみぞうは、てに⏎いれましたか?⏎グロスちほうの⏎オラータにあるらしいですよ。	Did you obtain the White Goddess Statue? It's said to be in Orata, in the Gross region.
+0680	06AD23	FE	49		「こうやってかくれてると、ホント⏎は、しょうばいあがったりなんだ。⏎ま、なんかかっていってくれよ。	Hiding like this, business is honestly dead. Well, buy something, won't you.
+0681	06AD6E	FE	46		「…なんじ、いにしえのゆうしゃの⏎まつえいよ…。⏎なんじ、なにを⏎のぞみ、なにをなすのか…?	…Thou, descendant of the heroes of old… What dost thou desire, and what wilt thou do…?
+0682	06ADA6	FE	30	<DD>	「このこえは…?⏎ケイン!⏎このこえは、どこから…?	<DD>: That voice…? Kain! Where is that voice coming from…?
+0683	06ADC7	FE	48	ケイン	「なにをいってるんだ?⏎こえなんてしないじゃないか。⏎…⏎おまえにだけ、きこえてるのか…?	Kain: What are you talking about? There's no voice. … Can only you hear it…?
+0684	06ADFD	FE	42		「なんじは、いくたのしかばねの⏎やまをきずき…あまたのひとびとを⏎うらぎるであろう…	Thou shalt build mountains of corpses… and betray multitudes…
+0685	06AE2D	FE	33	<DD>	「!!⏎ぼくは…ぼくはそんなこと…⏎そんなことはしないッ!	<DD>: !! I… I would never… I would never do such a thing!
+0686	06AE51	FE	47		「…やみのせかいよりきたるもの…⏎バルドル…かのものとのであいが…⏎なんじのゆくみちをきめる…	…One who comes from the world of darkness… Baldur… Thy meeting with him… shall decide thy path…
+0687	06AE86	FE	28	<DD>	「でてこいッ!⏎だれかいるんだろ!⏎でてこいッ!	<DD>: Come out! Someone's there, isn't there! Come out!
+0688	06AEA5	FE	38	ケイン	「おい、<DD>!⏎しっかりしろ!⏎だれもいない!⏎だれもいやしないんだッ!	Kain: Hey, <DD>! Get a grip! There's no one here! No one at all!
+0689	06AECD	FE	42	<DD>	「!………。⏎…いこう、ケイン。⏎ここはひとの⏎こころをまどわすところだ…。	<DD>: !……… …Let's go, Kain. This place clouds the mind…
+0690	06AEF6	FE	9	ケイン	「あ、ああ。	Kain: Y-yeah.
+0691	06AF1E	FE	45		…なんじ、おうどうをのぞむものよ⏎…たみのこえをきき、たみののぞむ⏎ところをなすがよい…。	…Thou who seekest the way of kings… Hear the voice of the people, and do as the people wish…
+0692	06AF52	FE	46		「…なんじ、はどうをめざすものよ⏎…おのれのおもうまま、せかいを⏎そのてにおさめるがよい…。	…Thou who seekest the way of might… Take the world into thy hand, as thou seest fit…
+0693	06AF8B	FE	12		けっかいがはられている!	A barrier has been raised!
+0694	06AFB9	FE	47		「このあたりのまちをせんきょして⏎いる、くろいローブのれんちゅうは⏎みなバルドルのはいかです。	The black-robed ones occupying the towns around here are all Baldur's followers.
+0695	06AFEA	FE	41		「れんちゅうは、ひとをさらっては⏎あのシクトかんごくにゆうへいして⏎いるようです。	They've been kidnapping people and locking them away in that Shikt Prison.
+0696	06B015	FE	50		「うんよくにげだせたものにきいた⏎はなしだと、なんでも…ゼノビアの⏎おうぞくをさがしているそうです。	According to someone lucky enough to escape… they're searching for the royal family of Zenobia.
+0697	06B049	FE	30		「してみるとバルドルは⏎ゼテギネアのてさき⏎なんでしょうか?	So does that mean Baldur is Zeteginea's puppet?
+0698	06B069	FE	45		「…ゼノビアのおうぞく、といえば⏎ゼテギネアに、みなごろしにされた⏎はずなんですがねえ…。	…But the Zenobian royal family… they were supposed to have all been slaughtered by Zeteginea…
+0699	06B09B	FE	24		「あなたがたに⏎かみのごかごがありますように…。	May God's protection be with you…
+0700	06B0C6	FE	45	ナーナ	「さすがはグラン・ゼノビア⏎おうのちをひくおかた。⏎おみごとなせんりゃくがんですわ。	Nana: As expected of one who carries the blood of King Gran Zenobia. A splendid strategic eye.
+0701	06B0F5	FE	44		「あのバルドルのシッポをつかむに⏎は、きょてんをこうりゃくするのが⏎ちかみちですものね。	To get a hold on Baldur's tail, capturing his base is the shortest route.
+0702	06B127	FE	15	<DD>	「うん…。⏎そうだね。	<DD>: Yeah… That's right.
+0703	06B139	FE	28	ケイン	「…ナーナ⏎<DD>を⏎おうじとよぶのは、やめとけよ。⏎	Kain: …Nana, stop calling <DD> 'Prince'.
+0704	06B157	FE	31		「どこにゼテギネアのみっていが⏎いるかも、わかんないからな。⏎	We don't know where Zeteginea might have spies.
+0705	06B178	FE	26	ナーナ	「あ…ごめんなさい。⏎こんご、きをつけるわ。⏎	Nana: Ah… I'm sorry. I'll be careful from now on.
+0706	06B194	FE	25	ケイン	「さあ、<DD>。⏎メガホルテンのこうりゃくだ!⏎	Kain: Now, <DD>. On to Meganhorten!
+0707	06B1CC	FE	36	ダラム	「おまえたちか。⏎バルドルさまを⏎たおすとかいっているバカどもは。	Durham: So it's you. The fools who talk of defeating Lord Baldur.
+0708	06B1F2	FE	37		「ふん…おまえたちは⏎バルドルさまの、いだいさが⏎わかっておらんようだな。	Hmph… It seems you don't understand Lord Baldur's greatness.
+0709	06B219	FE	50		「あのかたは、きゅうせいしゅだ。⏎このみだれたよのなかをただすため⏎やみのせかいからおいでになった…	He is the savior. He came from the world of darkness to set this chaotic world right…
+0710	06B24D	FE	26		「オロカものどもめ⏎やみのさばきを、うけるがよい!⏎	Fools! Receive the judgment of darkness!
+0711	06B2AA	FE	48	ナーナ	「いにしえのオウガバトルに⏎よってふうじられたはずの、やみの⏎せかいのもの…なのかしら…。	Nana: A being from the world of darkness… sealed away by the Ogre Battle of old… could it be…
+0712	06B2DC	FE	40	ケイン	「…<DD>⏎…これは、とんでもないことだぜ。⏎オレたちだけでどうにかできるか…	Kain: …<DD>… This is serious. Can we really handle this on our own…
+0713	06B30A	FE	22	<DD>	「ケイン⏎やらなくちゃだめなんだ。⏎	<DD>: Kain, we have to do it.
+0714	06B31F	FE	25		もしバルドルが⏎やみのせかいのものなら⏎なおさら…	If Baldur really is from the world of darkness, then all the more…
+0715	06B55B	FE	25	ヨークレイフ	「おうじ!おうじでは⏎ありませんか!!	Yorkleif: Prince! Isn't it the Prince!!
+0716	06B57A	FE	7	<DD>	「?!	<DD>: ?!
+0717	06B584	FE	17	ケイン	「だれだッ!⏎きさまはッ?!	Kain: Who are you! Who the hell are you?!
+0718	06B597	FE	48	ヨークレイフ	「ああ…そのめもと!⏎そのおすがた!⏎わかきころの⏎グランおうにそっくりだ…ヒック…	Yorkleif: Ah… those eyes! That figure! The spitting image of King Gran in his youth… hic…
+0719	06B5C9	FE	33		「おうじ!⏎いまこそ、たつときですぞッ!⏎…ウィック…いまこそォ…	Prince! Now is the time to rise! …Hic… Now is the time…
+0720	06B5EC	FE	12		ゼテギネアをォ…ヒック…	Zeteginea… hic…
+0721	06B5FA	FE	25	ケイン	「なんだ…よっぱらいだよ。⏎いこうぜ、<DD>。⏎	Kain: What… he's just a drunk. Let's go, <DD>.
+0722	06B61C	FE	22	<DD>	「?…⏎ぼくに、なにかごようですか?	<DD>: ?… Do you need something from me?
+0723	06B635	FE	47	ヨークレイフ	「…あなたが、やみの⏎きしバルドルとたたかう、という⏎ぎゆうぐんのリーダーですな。	Yorkleif: …You are the leader of the volunteer army that fights Baldur, the Knight of Darkness.
+0724	06B666	FE	42		「たしか…<DD>、と⏎いわれる…ほんとうのおなまえは…⏎もしやフィクス・トリシュトラム…	They call you… <DD>, I believe… but your true name… could it be Fix Tristram…
+0725	06B696	FE	15	ケイン	「…だれだ?⏎あんたは?	Kain: …Who are you?
+0726	06B6A7	FE	48	ヨークレイフ	「ごあんしんを。⏎わたしは、ゼノビアきしだんにおり⏎ましたヨークレイフともうします。	Yorkleif: Rest easy. My name is Yorkleif. I once served in the Knights of Zenobia.
+0727	06B6D9	FE	36		「おうじ、バルドルと⏎たたかうのであれば⏎ぜひ、わたしをおつれください。	Prince, if you are to fight Baldur, please take me with you.
+0728	06B6FF	FE	28		「…わたしは…しぬまで⏎まけいぬでありたくはないのです!	…I don't want to… die a beaten dog!
+0729	06B71D	FE	13	ケイン	「…どうする?⏎<DD>。	Kain: …What do you think? <DD>.
+0730	06B730	FE	39	<DD>	「ヨークレイフ⏎ともにゆきましょう。⏎…ぼくのちからになってください。	<DD>: Yorkleif, come with us. …Please lend me your strength.
+0731	06B762	FE	49	ヨークレイフ	「あなたがたがウワサ⏎のぎゆうぐんですな。⏎…なるほど⏎とうせいのとれた、よいへいだ。	Yorkleif: You're the volunteer army everyone speaks of. …I see, well-disciplined, good soldiers.
+0732	06B795	FE	41		「やみのきしバルドルをうたれる…⏎ときいた。⏎へいは、いくらいても⏎よいでしょう。	I hear you mean to strike down Baldur, the Knight of Darkness. You can never have too many soldiers.
+0733	06B7C2	FE	25		「わたしは…しぬまで⏎まけいぬでありたくはないッ!	I… don't want to die a beaten dog!
+0734	06B7DD	FE	32		「わたしは、はじをしる⏎ゼノビアのきしで⏎ありつづけたいのです!	I want to remain a knight of Zenobia who knows shame!
+0735	06B7FF	FC	26		「…どうぞ、このはいざんのへいを⏎おつれください…。	…Please, take this defeated soldier with you…
+0736	06B81E	FE	37		「…そうですか…。⏎さけによっても、ウデはおとろえて⏎いないのですがなあ…	…I see… Even with the drink, my arm hasn't weakened, you know…
+0737	06B846	FE	39	ヨークレイフ	「かたじけない!⏎…このヨークレイフ⏎かならず、おやくにたちます。	Yorkleif: I am in your debt! …This Yorkleif will surely be of use.
+0738	06B86F	FE	20		ヨークレイフが⏎なかまにくわわりました。	Yorkleif has joined the party.
+0739	06B8B6	FE	24		「あれ?⏎あんたはあの…⏎みちがえちゃったなぁ。	Huh? You're that… I hardly recognized you.
+0740	06B8D5	FE	26		「やあ、このまちでイチバンの⏎よっぱらいをみたかい?	Hey, have you seen the biggest drunk in this town?
+0741	06B8FE	FE	44		「ここからにしにちょっといった⏎ワニックのまちにさ、ゆうめいな⏎よいどれのきしがいるよ。	In the town of Wanick, a little west of here, there's a famous drunkard knight.
+0742	06B92C	FE	47		「もとは、うでききのゼノビアきし⏎だったらしいんだけどさあ…。⏎いやだねぇ、まけいぬはさぁ…。	They say he used to be a skilled knight of Zenobia… How sad, a beaten dog like that…
+0743	06B95D	FE	46		「あ!⏎そうそう…しょうばいを⏎わすれるとこだった。⏎さあ⏎なんでも、かっていってくれよ。⏎	Ah! Right, right… I almost forgot about business. Now, buy whatever you like.
+0744	06B990	FE	22		「さあ、ジャンジャン⏎かっていってくれよ。⏎	Come on, buy, buy, buy!
+0745	06B9BD	FE	32		「おおっ!⏎それはひょっとして⏎シルバードールではありませんか?	Oh! Could that be the Silver Doll?
+0746	06B9DF	FE	41		「ちちのだいから⏎さがしていたものです。⏎ぜひとも⏎ゆずっていただきたいのですが…	We've been searching for it since my father's time. I would dearly love you to part with it…
+0747	06BA0C	FC	31		「どうでしょう、50000ゴート⏎でゆずっていただけませんか?	How about it, would you part with it for 50000 Goth?
+0748	06BA30	FC	28		「では、メイルオブアースとの⏎こうかんではいかがですか?	Then how about a trade for a Mail of Earth?
+0749	06BA51	FE	27		「そうですか…しかたがない。⏎でも、あきらめませんよ。	I see… It can't be helped. But I won't give up.
+0750	06BA6E	FE	30		「ゆずってくださるきになったら⏎またこのまちにきてください。	If you ever feel like parting with it, come back to this town.
+0751	06BA8F	FE	16		「どうも、ありがとうございます。	Thank you very much.
+0752	06BAA1	FE	16		50000ゴートを⏎てにいれた。	Obtained 50000 Goth.
+0753	06BABC	FE	15		「では、これをおもちください。	Then please take this.
+0754	06BAE3	FE	49		「わたしはこのまちのりょうしゅを⏎しております。⏎じつは、とある⏎たからものをさがしておりまして。	I am the lord of this town. The truth is, I'm searching for a certain treasure.
+0755	06BB16	FE	27		「シルバードールという⏎ぎんいろの、てんしのぞうです。	A silver statue of an angel, called the Silver Doll.
+0756	06BB33	FE	23		「ああ…そうですか。⏎おもちではないのですね…	Ah… I see. You don't have it…
+0757	06BB51	FE	39		「どうもありがとうございました。⏎あれは、このまちの⏎たからものといたします。	Thank you very much. It shall be the treasure of this town.
+0758	06BBC0	FE	42	ライアン	「ワッハッハッハ!⏎オレは、たいりくいちの⏎まじゅうつかい、ライアンさまだ。	Ryan: Wa ha ha ha! I'm the greatest beast tamer on the continent, Ryan!
+0759	06BBEC	FE	48		「おっ?⏎なんだ、かねをずいぶん⏎と、もってるじゃねぇか。⏎そうだ⏎100000ゴートよこしな。	Oh? You're carrying quite a lot of money, aren't you. Right, hand over 100000 Goth.
+0760	06BC1E	FE	27		「オレさまが⏎なかまになってやろう。⏎ワッハッハッハ!	And I'll join you. Wa ha ha ha!
+0761	06BC3B	FE	18		ライアンが⏎なかまにくわわりました。	Ryan has joined the party.
+0762	06BC62	FE	39		「バルドルのしょうたいを⏎つきとめる…?⏎ほう、ずいぶんと⏎ごうぎなものだね。	Uncover Baldur's true identity…? Oh, that's quite ambitious.
+0763	06BC8B	FE	32		「これをもっていってください。⏎すこしは、おやくにたつでしょう。	Please take this with you. It should be of some use.
+0764	06BCB9	FE	11		「がんばってくだされ。	Do your best.
+0765	06BCF9	FE	37	アッシュ	「わたしはアッシュ。⏎かつては、きょうせんしと⏎よばれたおとこだ。	Ash: I am Ash. A man once called a berserker.
+0766	06BD20	FE	49		「わたしはグランおうをあんさつし⏎たおとこといわれている。ぬれぎぬ⏎ではあるが、ひていもできまい。	They say I'm the man who assassinated King Gran. A false charge, but I can't deny it either.
+0767	06BD53	FE	25		「グランおうをまもれなかったのは⏎たしかだからな。	After all, it's true that I failed to protect King Gran.
+0768	06BD6E	FE	43		「しにばしょをさがしている⏎おいぼれだが、せんりょくには⏎なるぞ。⏎なかまにしてくれ。	I'm an old man looking for a place to die, but I can still fight. Let me join you.
+0769	06BD9B	FE	18		アッシュが⏎なかまにくわわりました。	Ash has joined the party.
+0770	06BDBA	FE	40		「バルドルが、どこからきて⏎なにをもくてきとするものなのか…⏎だれもしりません。	Where Baldur came from, and what he's after… no one knows.
+0771	06BDE4	FE	49		「やみのきし、といわれているのは⏎しっこくのヨロイにみをつつんで⏎いるので、そうよぶようになった…	He's called the Knight of Darkness because he's clad in jet-black armor, or so…
+0772	06BE17	FE	50		「…というウワサです。そのちから⏎まりょく、カリスマせい…すべてが⏎にんげんばなれしているやつです。	…the rumor goes. His strength, his magic, his charisma… none of it is human.
+0773	06BE74	FE	30		「…ただ…おそらく⏎もうこのよのひとでは⏎ないでしょうな…。	…Still… most likely… he is no longer of this world…
+0774	06BEAC	FE	34	ヨークレイフ	「ぜひエステデールの⏎まちをおたずねください。⏎<DD>さま!	Yorkleif: Please pay a visit to the town of Estedale, Lord <DD>!
+0775	06BED0	FE	41		「もとゼノビアぐんのぐんしを⏎つとめられたグラントどのが⏎おまちしているはずです。	Sir Grant, who served as strategist of the old Zenobian army, should be waiting there.
+0776	06BEFF	FE	14	ケイン	「どんなひとなんだい?	Kain: What kind of person is he?
+0777	06BF0F	FE	48	ヨークレイフ	「…そう、グラント⏎どのは、きょうだいなまりょくを⏎じざいにあやつることができます。	Yorkleif: …Well, Sir Grant can command tremendous magical power at will.
+0778	06BF41	FE	39		「しかも、そのちからをせつどを⏎もってつかうことのできる⏎いだいなおかたです。	And he is a great man who uses that power with restraint.
+0779	06BF6A	FE	41	ケイン	「ふ…ん…そんなスゴイひと⏎が、なかまになってくれると⏎こころづよいけど…。	Kain: Hmm… If someone that amazing joins us, that'd be reassuring…
+0780	06BF95	FE	44	ヨークレイフ	「だいじょうぶです!⏎…すでに、さきまわりして⏎おしらせしておきましたから。	Yorkleif: Don't worry! …I've already gone ahead and let him know.
+0781	06BFC3	FE	41	ケイン	「なんか、てまわしいいなあ⏎…じゃあ、<DD>。⏎いってみようか、エステデールに。	Kain: You work fast, don't you… Well then, <DD>. Shall we go to Estedale?
+0782	06BFF2	FE	14	<DD>	「ああ。⏎そうだね。	<DD>: Yeah. Let's.
+0783	06C007	FE	48	ケイン	「このあたりは、しっちたい⏎なんで、いどうにてまどるとおもう⏎…みんな、ちゅういしてくれ。	Kain: This area is marshland, so moving will take time… Everyone, be careful.
+0784	06C03D	FE	38	<DD>	「…バルドルに⏎かんすること、なんでもいい。⏎ぼくにしらせてほしい。	<DD>: …Anything about Baldur, anything at all. I want to hear it.
+0785	06C066	FE	21	ケイン	「…よし…では⏎かくたいしゅっぱつ!	Kain: …Right… All units, move out!
+0786	06C096	FE	32	キロス	「おまえたちか?⏎バルドルをたおす、とか⏎ほざいてるのは。	Kyros: So it's you? The ones babbling about defeating Baldur.
+0787	06C0B8	FE	40		「…オマエたちは⏎ちのニオイがするな。⏎ずいぶんと⏎ひとをコロしてきたんだろう?	…You reek of blood. You've killed quite a few people, haven't you?
+0788	06C0E2	FE	34		「クックック…⏎ちのニオイをかぐと⏎ムネがおどるよなあ…わかるだろ?	Heh heh heh… The smell of blood makes the heart race… you know what I mean?
+0789	06C106	FE	21		「オマエたちのちは⏎どんなニオイかなぁ…!	I wonder what your blood smells like…!
+0790	06C11D	FE	47		「まぁ、いっておいてやるが…⏎ひるまにきても、いみはないぞ。⏎このしろは、とくべつなまほうで…	Well, I'll tell you this much… coming by day is pointless. This castle, by a special magic…
+0791	06C14E	FE	16		「いつでも、よるにできるからな。	can be made night at any time.
+0792	06C1C5	FE	25		A・かくごするがいい⏎B・いのちだけはたすけてやる	A: Prepare to die⏎B: I'll spare you
+0793	06C1F2	FE	45	キロス	「ふん…あまいな…。⏎しかしおまえたちはつよい…どうだ⏎このおれをなかまにしないか?	Kyros: Hmph… soft, aren't you… But you're strong… What do you say, want me to join you?
+0794	06C221	FE	38		「ヘッ…オマエたちについていけば⏎もっとちのニオイを⏎かげそうだからからな。	Heh… If I follow you, I'll get to smell even more blood.
+0795	06C27A	FE	29	キロス	「ヘッ…まさか⏎じぶんのちのニオイを⏎かぐとはな…!	Kyros: Heh… to think… I'd end up smelling my own blood…!
+0796	06C29D	FE	11		キロスは、いきたえた。	Kyros breathed his last.
+0797	06C2E8	FE	46	バルドル	「にんげんどもよ…⏎わがなは、バルドル…。⏎やみより⏎きたりし、ふくいんのししゃ…。	Baldur: Humans… My name is Baldur… The envoy of good tidings, come from the darkness…
+0798	06C320	FE	7	<DD>	「!!	<DD>: !!
+0799	06C32A	FE	6	ケイン	「!!	Kain: !!
+0800	06C336	FE	22	バルドル	「…あらそいのおわるひは⏎ちかい…。	Baldur: …The day conflict ends is near…
+0801	06C34E	FE	30		「おそれずともよい。⏎やみは、すべてを⏎うけいれるものだ…。	You need not fear. The darkness accepts all…
+0802	06C36E	FE	43		「わがなをたたえ、やみをたたえよ⏎…えいえんなるせいじゃくの⏎しはいをのぞむならば…。	Praise my name, praise the darkness… if you wish for the reign of eternal silence…
+0803	06C3A3	FE	12	<DD>	「………………。	<DD>: ………………
+0804	06C3B2	FE	16	ケイン	「……………………………。	Kain: ………………………………
+0805	06C3C4	FE	27	<DD>	「バルドル…⏎あれが…⏎やみのきしバルドル…。	<DD>: Baldur… So that's… Baldur, the Knight of Darkness…
+0806	06C3EA	FE	26		「このあたりはシャガールと⏎よばれるしっちたいです。	This area is a marshland called Chagall.
+0807	06C417	FE	36		「…バルドルさまは⏎ほんとうはキロスのこと⏎しんじちゃいないとおもうよ。	…I don't think Lord Baldur really trusts Kyros.
+0808	06C43D	FE	43		「キロスも、バルドルさまの⏎めをぬすんでは、まちのひとを⏎しょけいしたりしてるからね。	Kyros executes townspeople behind Lord Baldur's back, after all.
+0809	06C489	FE	28		「キロスは、いちおう…⏎バルドルのはいかってところかな。	Kyros is, well… one of Baldur's followers, I suppose.
+0810	06C4A7	FE	41		でも、ほかのしんじゃとは⏎またちがうなあ。⏎あいつは⏎ひとをコロしすぎるんだよね。	But he's different from the other believers. He kills too many people.
+0811	06C4D2	FE	22		「ほかのしんじゃは⏎そこまで、やらないもの。	The other believers don't go that far.
+0812	06C522	FE	47		「おお!⏎それはにじのチョーカー⏎ですね。⏎ありがとうございます。⏎どうかうけとってください。	Oh! That's the Rainbow Choker. Thank you. Please accept this.
+0813	06C553	FE	18		30000ゴートを⏎てにいれました。	Obtained 30000 Goth.
+0814	06C58F	FE	50		「あと、これはウワサなのですが…⏎ゴーレムがまちのいりぐちに、いす⏎わっているところがあるそうです。	Also, this is just a rumor… but they say a golem is squatting at the entrance to a town.
+0815	06C5C3	FE	39		「このシャガールしっちをぬけた⏎ところにある、ウィンドさきゅうの⏎あたりです。	It's around the Wind Dunes, past this Chagall marsh.
+0816	06C5F7	FE	27		「わたしは、このネトビの⏎しちょうをしているものです。	I am the mayor of Netobi.
+0817	06C614	FE	32		「もうしわけありませんが⏎たのみをきいて⏎もらえないでしょうか?	I'm sorry to ask, but could you do me a favor?
+0818	06C636	FE	48		「サツはんとうのきょうかいにすん⏎でいるしょくにんに、にじのチョー⏎カーをたのんでおいたのです。	I ordered a Rainbow Choker from the craftsman who lives at the church on the Satsu Peninsula.
+0819	06C668	FE	44		「それを、かわりにうけとってきて⏎もらえないでしょうか?⏎かならず、おれいはいたします。	Could you pick it up for me? I'll be sure to reward you.
+0820	06C696	FE	39		「ちかごろは、やみのぐんだんの⏎せいで、とおでをすることが⏎できないのです…。	Lately, because of the army of darkness, I can't travel far…
+0821	06C6C2	FE	42		「サツはんとうのきょうかいに⏎にじのチョーカーをとりに⏎いってもらえないでしょうか?	Could you go to the church on the Satsu Peninsula and fetch the Rainbow Choker?
+0822	06C6EE	FE	15		「きっと、おれいはいたします。	I'll be sure to reward you.
+0823	06C700	FE	17		「どうも、ありがとうございました。	Thank you very much.
+0824	06C71C	FE	40		「やみのきしバルドル…⏎みかけはおそろしげなんだけど⏎らんぼうしたりはしないよ。	Baldur, the Knight of Darkness… He looks frightening, but he isn't violent.
+0825	06C746	FE	41		「ただ、あいつのはなしをきくと⏎なぜか、なんにも⏎かんがえられなくなっちゃうんだ。	It's just that when you listen to him, somehow you can't think about anything anymore.
+0826	06C771	FE	21		「ああいうのをカリスマって⏎いうのかなあ。	I suppose that's what they call charisma.
+0827	06C799	FE	37		「バルドルのしんじゃに⏎いすわられると、しょうばいが⏎やりにくくってねえ。	With Baldur's believers squatting here, business is hard.
+0828	06C7C0	FE	48		「このまちのバザーは、ゆうめい⏎でね。⏎あんたたちも、かいものし⏎ていきなよ。やすくするからさ!	This town's bazaar is famous. You should do some shopping too. I'll make it cheap!
+0829	06C7FD	FE	29		「あんたたちも、なんか⏎かわないかい?⏎やすくするからさ。	Won't you buy something too? I'll make it cheap.
+0830	06C825	FE	44		「ゼテギネアなんて、たいしたこと⏎ないよ。⏎おれたちには⏎バルドルさまが、ついてるんだ。	Zeteginea is nothing special. We've got Lord Baldur on our side.
+0831	06C853	FE	26		「あのかたこそ⏎へいわなよのなかを⏎つくるおかたさ!	He's the one who will create a peaceful world!
+0832	06C878	FE	34		「あなた、バルドルさまの⏎おこえをきいたことある?⏎すばらしいのよ。	Have you ever heard Lord Baldur's voice? It's wonderful.
+0833	06C89C	FE	50		「なんだか、いままでのつらいこと⏎かなしいこと、すべてがくらいやみ⏎のなかにきえていくカンジがして…	It feels as if all the pain and sorrow until now melts away into the dark…
+0834	06C8D0	FE	45		「こころのなかが、とっても⏎しずかになるの。⏎しばらくは⏎なにもするきがおきないくらいよ。	Your heart becomes so very quiet. For a while you don't feel like doing anything at all.
+0835	06C908	FE	49		「ウワサじゃ、バルドルはゼノビア⏎おうけのにんげんをみつけて、また⏎おうさまにするつもりらしいぜ。	Rumor says Baldur means to find someone of the Zenobian royal line and make them king again.
+0836	06C93B	FE	38		「それでさ、ゼテギネアていこくを⏎うちたおすんだってさあ。⏎…ホントかねえ?	And then he'll topple the Zeteginean Empire, they say. …Is it true, I wonder?
+0837	06C98F	FE	27	グラント	「…おまちしておりました⏎トリシュトラムさま。	Grant: …I have been waiting for you, Lord Tristram.
+0838	06C9B0	FE	25	<DD>	「いや…⏎<DD>でけっこうです⏎グラントどの。	<DD>: No… <DD> is fine, Sir Grant.
+0839	06C9C8	FE	35		「…ぐんしグラント。⏎ぼくを、いや、われわれを⏎たすけてもらえますか?	…Strategist Grant. Would you help me, no, help us?
+0840	06C9ED	FE	24	グラント	「おうじ…⏎ひとつ、おたずねいたします。	Grant: Prince… Let me ask you one thing.
+0841	06CA07	FE	27		「あなたは、これから⏎なにをなさるおつもりなのですか?	What do you intend to do from here on?
+0842	06CA24	FE	43	<DD>	「…ひとびとを⏎すくいたいのです。⏎バルドルから⏎…そしてゼテギネアからも…。	<DD>: …I want to save the people. From Baldur… and from Zeteginea too…
+0843	06CA4E	FE	35		「このみだれたよのなかで⏎ひとびとは、まよい、おそれて⏎いきています。	In this chaotic world, people live lost and afraid.
+0844	06CA73	FE	47		「ひとびとが、なににもおびやかさ⏎れることなく、あしたをしんじて⏎いきられるようにすることが…	To let people live believing in tomorrow, without being threatened by anything…
+0845	06CAA4	FE	38		「…そうすることが⏎ゼノビアのおうじとしての⏎ぼくのぎむだ、とおもうのです。	…I believe that is my duty as the Prince of Zenobia.
+0846	06CACC	FE	44		「また、そうすることこそ⏎いまはなきエストラーダさまの⏎いしにそうものだ、とおもいます。	And I believe it is also what the late Lord Estrada would have wished.
+0847	06CAFA	FE	20	グラント	「なるほど…⏎エストラーダの…。	Grant: I see… Estrada's…
+0848	06CB10	FE	28		「わかりました。⏎このとしよりのいのち⏎あなたとともに。	Understood. This old man's life goes with you.
+0849	06CB36	FE	50	グラント	「…ぎゆうぐんのかたがた⏎ですな。…バルドルとたたかう、と⏎ヨークレイフよりきいております。	Grant: …You are the volunteer army. …I heard from Yorkleif that you fight Baldur.
+0850	06CB6A	FE	34		「わたしのなは、グラント。⏎かつて、グランおうに⏎つかえたものです。	My name is Grant. I once served King Gran.
+0851	06CB8E	FE	38		「…いかほどのおやくにたてるか⏎わかりませんが…⏎おともさせていただきます。	…I don't know how much use I can be… but allow me to accompany you.
+0852	06CBB6	FE	18		グラントが⏎なかまにくわわりました。	Grant has joined the party.
+0853	06CBF6	FE	45		「このまちにはもとゼノビアぐんの⏎ぐんしさまがすんでるよ。⏎めったにであるかないんだけど。	A strategist of the old Zenobian army lives in this town. He rarely goes out, though.
+0854	06CC25	FE	43		「ワニックにすんでるヨークレイフ⏎とかいうひとが、ときどきたずねて⏎くるくらいだねえ。	Only someone called Yorkleif, who lives in Wanick, visits him now and then.
+0855	06CC57	FE	11		「がんばってください。	Good luck.
+0856	06CC6D	FE	40		「…かつてオウガバトルとよばれる⏎やみのせかいとのたたかいがあった⏎といいます。	…They say there was once a war with the world of darkness, called the Ogre Battle.
+0857	06CC97	FE	27		「しかし、あれはただの⏎でんせつじゃないんでしょうか?	But isn't that just a legend?
+0858	06CCBD	FE	49		「ドナントにいるウェアタイガーの⏎キロス…きみのわるいヤツだぜ。⏎ちのニオイがすき、とかいってさ…	Kyros, the weretiger in Donant… he's a creepy one. Says he loves the smell of blood…
+0859	06CCF0	FE	41		「バルドルさまがみえられると⏎イヌみたいにおとなしく⏎なるんだから、おかしいよね。	But when Lord Baldur shows up, he turns as meek as a dog. It's funny, really.
+0860	06CD32	FE	15		「あんたらが、ぎゆうぐんだね。	So you're the volunteer army.
+0861	06CD43	FE	32		「どうだい?⏎このけんをかわんか?⏎ペリダートソードというんだ。	How about it? Want to buy this sword? It's called a Peridot Sword.
+0862	06CD65	FC	15		「15000ゴートでどうかね?	How does 15000 Goth sound?
+0863	06CD79	FE	22		「なんだ、そうかね。⏎それじゃしょうがない。	Oh, I see. Well, can't be helped.
+0864	06CDA2	FE	13		「おお。⏎それはよかった。	Oh. That's good.
+0865	06CDC4	FE	44		「かねがたりんようだな。⏎これでもやすくしてるんでね。⏎これいじょうはまけられないんだ。	Looks like you don't have enough money. I'm already selling it cheap. Can't go any lower.
+0866	06CDF3	FE	32		「ふむ…あんたら、よわいやつを⏎さんざんコロしてきたみたいだね。	Hm… seems you've killed plenty of weaklings.
+0867	06CE16	FE	10		「がんばってくれよ。	Good luck.
+0868	06CE35	FE	35		「このまちは、ふるくから⏎ぼうぐをつくるまちとして⏎さかえております。	This town has prospered since old times as a maker of armor.
+0869	06CE5A	FE	50		「ひとつ、これをさしあげましょう⏎…いえいえ、おだいはけっこうです⏎から…はやくたちさってください。	Here, let me give you this… No, no, no charge… just leave quickly, please.
+0870	06CEA8	FE	16		「まだなにか…ごようなんですか?	Is there… something else you need?
+0871	06CECB	FE	36		「ドナントのキロスを⏎やっつけてくれるのかい?⏎じゃあ、これをあげるよ。	You'll take care of Kyros in Donant? Then take this.
+0872	06CF05	FE	10		「がんばってくれよ。	Good luck.
+0873	06CF22	FE	41		「ああ、しろいめがみぞうを⏎おもちですね。⏎それを⏎こちらへおわたしねがえますか?	Ah, you have the White Goddess Statue. Would you hand it over to me?
+0874	06CF4D	FE	16		「かわりに、これをさしあげます。	In exchange, I give you this.
+0875	06CF5F	FE	40		…せいけんブリュンヒルド…⏎これはやみのせかいを⏎ひらくちからをひめたけんです。	…The holy sword Brunhild… A sword that holds the power to open the world of darkness.
+0876	06CF89	FE	29		「バルドルとたたかうのなら⏎これがひつようになるはずです。	If you are to fight Baldur, you will need it.
+0877	06CFB6	FE	32		「やみのせかいは…⏎われらのせかいの…⏎なかにひそんでいます…。	The world of darkness… lurks… within our own world…
+0878	06CFD8	FE	27		「ブリュンヒルドなくして⏎やみのせかいはのぞけません。	Without Brunhild, you cannot look into the world of darkness.
+0879	06CFF6	FE	39		「しろいめがみぞうがないと⏎ここには、はいれません。⏎どうぞ、おひきとりを…。	Without the White Goddess Statue, you cannot enter here. Please leave…
+0880	06D01F	FE	40		「え?⏎どこにあるのかって?⏎たしか、グロスちほうのオラータと⏎いうまちですよ。	What? Where is it? I believe it's in a town called Orata, in the Gross region.
+0881	06D061	FE	29	ナーナ	「…このうみ…⏎すごくよごれてる…。⏎イヤなカンジ。	Nana: …This sea… it's so polluted… It feels awful.
+0882	06D084	FE	32	アクエリアス	「…うみをよごすのは⏎にんげんしかいませんからね…。	Aquarius: …Only humans pollute the sea, after all…
+0883	06D0A6	FE	34		「だからでしょう。⏎うみが、ひとのこころをうつす…⏎といわれるのは。	That must be why they say the sea reflects the hearts of men…
+0884	06D0D5	FE	20	ケイン	「おい、オロソフを⏎みなかったか?	Kain: Hey, have you seen Orosof?
+0885	06D0F3	FE	17	ナーナ	「いいえ。⏎でも、どうして?	Nana: No. But why?
+0886	06D106	FE	37	ケイン	「…いや、すがたがみえない⏎もんだから…。⏎まさか、にげたのかな…。	Kain: …It's just that I can't find him… Don't tell me he ran off…
+0887	06D144	FE	43	アクエリアス	「…むりもないわ。⏎ふつうのひとなら…こわくなって⏎にげだしたとしても…。	Aquarius: …It would be no wonder. For an ordinary person… to get scared and run away…
+0888	06D171	FE	40	ケイン	「う…ん…そんなやつには⏎みえなかったけどなあ…。⏎まあ、しかたないか…。	Kain: Hmm… he didn't seem like that kind of guy… Well, nothing to be done…
+0889	06D19F	FE	37		「う…ん…そんなやつには⏎みえなかったけどなあ…。⏎まあ、しかたないか…。	Hmm… he didn't seem like that kind of guy… Well, nothing to be done…
+0890	06D1CE	FE	33	ナーナ	「ところでケイン。⏎このあたりのじょうほうは⏎あつまったの?	Nana: By the way, Kain. Did you gather any information about this area?
+0891	06D1F9	FE	41	ケイン	「…ああ。⏎このあたりでは⏎アカデミアのマレノアってのが⏎あばれてるらしい。	Kain: …Yeah. Around here, someone called Malenoa of Academia is running wild.
+0892	06D224	FE	39		「マレノアは、うみにすむ⏎かいぶつどもをつかって⏎まちをおそわせてるみたいだ。	Malenoa seems to be using sea monsters to attack the towns.
+0893	06D24D	FE	41		「しかも、バルドルとめいやくを⏎むすんでるっていうウワサもある。⏎…<DD>、いこうぜ!	And there's a rumor she's made a pact with Baldur. …<DD>, let's go!
+0894	06D27C	FE	16	<DD>	「バルドルと⏎めいやく…	<DD>: A pact… with Baldur…
+0895	06D2A6	FE	30	マレノア	「おまえたちが⏎バルドルさまに⏎さからうものたちか。	Malenoa: So you are the ones who defy Lord Baldur.
+0896	06D2C6	FE	21		「なぜだ…⏎なぜだッ?!⏎なぜさからうッ?	Why… Why?! Why do you defy him?
+0897	06D2DD	FE	47		「バルドルさまは、やくそくして⏎くださったのだ。⏎だれもあらそう⏎ことのない…しずかなうみを。	Lord Baldur promised me. A quiet sea… where no one fights.
+0898	06D30E	FE	24		「…あのうつくしいうみを⏎かえしてくださる、と。	…That he would give back that beautiful sea.
+0899	06D328	FE	33		「われわれは⏎おまえたち、にんげんよりも⏎バルドルさまをしんじる!	We believe in Lord Baldur far more than in you humans!
+0900	06D35D	FE	38	マレノア	「うつくしかった…⏎うみをかえせ…へいわだった…⏎あのころをかえせ…	Malenoa: It was beautiful… Give back the sea… Give back… those peaceful days…
+0901	06D385	FE	10		「かえせ…かえして…	Give it back… give it… back…
+0902	06D395	FE	11		マレノアはいきたえた。	Malenoa breathed her last.
+0903	06D3AB	FE	22	アクエリアス	「…マレノアさん⏎…ないてた…。	Aquarius: …Malenoa… she was crying…
+0904	06D3C7	FE	26	ケイン	「…なあ<DD>…⏎これでよかったのか?⏎…これで…	Kain: …Hey, <DD>… Was this really right? …Was this…
+0905	06D3E7	FE	37	<DD>	「…いいわけ…⏎いいわけないじゃないかッ!⏎…いいわけが…ない…。	<DD>: …Of course… Of course it wasn't right! …It couldn't… be…
+0906	06D414	FE	9	アクエリアス	「<DD>…	Aquarius: <DD>…
+0907	06D41F	FE	12	<DD>	「……なんで……	<DD>: ……Why……
+0908	06D42A	FE	49		「なんで、こうなっちゃうんだろう⏎…ねえアクエリアス、こたえてよ…⏎どうして、こうなるんだろう?…	Why does it have to turn out like this… Aquarius, answer me… Why does it come to this?…
+0909	06D45D	FE	13		「バルドルがただしいのか?	Is Baldur right?
+0910	06D46C	FE	35		「あいつのいうとおりにすれば⏎たたかわずにすむのかな…⏎いうとおりに…	If we did as he says, could we avoid fighting… If we just did as he says…
+0911	06D491	FE	10	アクエリアス	「……。	Aquarius: ……
+0912	06D4A1	FE	20	ナーナ	「…なんだろ?⏎あれ?⏎…はね…。	Nana: …What's that? Over there? …A feather…
+0913	06D4BB	FE	24	ケイン	「そらから…はねが…⏎マレノアのうえに…。	Kain: From the sky… a feather… onto Malenoa…
+0914	06D502	FE	38		「おお、それは⏎いかずちのいしではないか!⏎なあ、それをゆずってくれないか?	Oh, isn't that a Thunder Stone! Say, won't you part with it?
+0915	06D52A	FE	50		「むろん、ただとはいわん。ほら!⏎フレイアしょとうへいくためのちず⏎だ。⏎これとのこうかんでどうだ?	Of course, I won't ask for it free. Look! A map to the Freya Islands. How about a trade?
+0916	06D55E	FC	26		「めずらしいものだぞ。⏎わるいはなしではないだろう?	It's a rare thing. Not a bad deal, is it?
+0917	06D581	FE	9		「おお。⏎どうだ?	Oh. Well?
+0918	06D58C	FC	27		いかずちのいしと、ちずをこうかん⏎するきになったかね?	Have you decided to trade the Thunder Stone for the map?
+0919	06D5AC	FE	9		「うむ…そうかね。	Hm… I see.
+0920	06D5BB	FE	40		「まぁしょうがない…⏎しかしワシはここでまっているから⏎きがかわったらきてくれ。	Well, it can't be helped… But I'll be waiting here, so come back if you change your mind.
+0921	06D5E8	FE	35		「しかたないな。⏎ワシはここでまっているから⏎きがかわったらきてくれ。	Can't be helped. I'll be waiting here, so come back if you change your mind.
+0922	06D60E	FE	20		「そうか!⏎ありがとう。⏎ほら、ちずだ!	Really! Thank you. Here, the map!
+0923	06D637	FE	36		「なあ、あんたたち。⏎いかずちのいし、というものを⏎みたことはないかい?	Say, you lot. Have you ever seen something called a Thunder Stone?
+0924	06D65D	FE	18		「ずいぶん⏎めずらしいものなんだが…	It's quite a rare thing…
+0925	06D67F	FE	23		「このあたりはへいわになったよ。⏎ありがとう。	It's peaceful around here now. Thank you.
+0926	06D6A1	FE	48		「…おれたちは、ずっとマレノアに⏎ウソをつきつづけてきたんだ。⏎うみをよごさないようにするって…	…We kept lying to Malenoa all this time. That we'd stop polluting the sea…
+0927	06D6D3	FE	29		「ああ…おれたちは、なんてことを⏎やっちまったんだろう…。	Ah… what have we done…
+0928	06D6FF	FE	46		「バルドルさまは、あいてがなにを⏎かんがえ、なにをのぞんでいるのか⏎すべておみとおしなんだ。	Lord Baldur sees through everything, what people think and what they wish for.
+0929	06D72F	FE	41		「マレノアがのぞんだのは、きっと⏎むかしの…キレイでしずかなうみ…⏎だとおもうよ。	What Malenoa wished for was surely the sea of old… clean and quiet…
+0930	06D75D	FE	6		「マレノア…	Malenoa…
+0931	06D76E	FE	50		「このあたりは、きんぞくのかこう⏎が、さかんなんだ。⏎だからかなあ⏎…うみがすっかりよごれちまって…	Metalworking is big around here. Maybe that's why… the sea's gotten completely fouled…
+0932	06D7A2	FE	48		「これじゃあマレノアがおこるのも⏎ムリもないだろうけど…。…ほかに⏎やりかたはなかったのかな…。	No wonder Malenoa got angry… …But wasn't there some other way…
+0933	06D7DD	FE	42		「どんなよのなかでも⏎さきだつものがないとね。⏎さあ⏎なんでもかっていっておくれよ!	Whatever the world comes to, you need money first. Now, buy whatever you like!
+0934	06D81A	FE	49		「いぜん、マレノアがないてるのを⏎よくみたよ。⏎わけをきくと、うみ⏎がよごれていくのがツライって…	I often saw Malenoa crying, before. When I asked why, she said it hurt to see the sea polluted…
+0935	06D84D	FE	44		「でも、おれたちがいきてゆく⏎ために、うみがよごれるのは⏎かなしいけど、しかたないって…	But she said it was sad, yet couldn't be helped, that the sea got dirty so we could live…
+0936	06D87B	FE	40		「…で、なんにもできないじぶんが⏎みじめでかなしくって⏎なくんだっていってた…。	…And she said she cried because she felt so miserable, unable to do anything…
+0937	06D8A5	FE	27		「…ほんとうは⏎やさしいニクシーなんだよ⏎マレノアは。	…Malenoa is really a kind nixie, you know.
+0938	06D8CD	FE	19		「マレノアは⏎どうしちゃったんだろう?	What happened to Malenoa, I wonder?
+0939	06D8F3	FE	46		「マレノアは、かわっちゃったよ。⏎…むかしは、オレたちともなかよく⏎やってたんだけどなあ…。	Malenoa changed. …We used to get along well with her in the old days…
+0940	06D923	FE	44		「バルドルがあらわれてからだな…⏎きゅうにオレたちをカタキみたいに⏎おそいはじめたんだ。	It was after Baldur appeared… Suddenly she started attacking us like enemies.
+0941	06D970	FE	35		「マレノアのやろう⏎おれにチカラがあれば⏎たたきころしてやるのによぉ!	That damned Malenoa! If I had the strength, I'd beat her to death!
+0942	06D995	FE	45		「あいつのおかげで、おれたちの⏎せいかつはメチャメチャだ!⏎…なにが、うみがよごれる、だ!	Thanks to her, our lives are a wreck! …'The sea is polluted', my foot!
+0943	06D9C4	FE	30		「そんなりゆうで⏎あばれられたんじゃあ⏎やっていけねえよッ!	If she's going to rampage over something like that, we can't go on!
+0944	06DA17	FE	37		「はやくマレノアと⏎かいぶつどもをなんとかせんと⏎わしらはぜんめつじゃ…。	Unless something is done about Malenoa and the monsters soon, we'll all be wiped out…
+0945	06DA3E	FE	33		「なぁ、あんたら。⏎このヤリをあげるから⏎なんとかしてくれんか…。	Say, you lot. I'll give you this spear, so do something about it…
+0946	06DA75	FE	23		「このあたりもへいわになったよ。⏎ありがとう。	It's peaceful around here too now. Thank you.
+0947	06DA9F	FE	40		「ああ!⏎あんまり⏎めだたないようにしてください。⏎せっかくかくれてるんだから。	Ah! Please don't draw attention. We went to all the trouble of hiding here.
+0948	06DAC9	FE	26		「これをさしあげますから⏎はやくでてってくださいよ。	I'll give you this, so please leave quickly.
+0949	06DB1F	FE	50		「あらー。あんたかっこいいねぇ。⏎そうだ、かいほうしてくれたおれい⏎に、これをもっていっておくれよ。	My, aren't you handsome. Right, as thanks for liberating us, take this with you.
+0950	06DB61	FE	27		「ありがとう。⏎おれいにこれあげるわ。⏎がんばってね。	Thank you. Here's something in return. Good luck.
+0951	06DBA6	FE	42		「…このむらもたいへんなんでな。⏎これをかわないか?⏎オウガシールド…いいものだよ。	…This village is in a bad way too. Won't you buy this? An Ogre Shield… it's a good one.
+0952	06DBD2	FC	22		「そうじゃの…⏎20000ゴートでどうじゃ?	Let's see… how about 20000 Goth?
+0953	06DBED	FE	24		「なんだ、そうかね。⏎それじゃしょうがないのぉ。	Oh, I see. Well, can't be helped.
+0954	06DC18	FE	13		「ありがとう。たすかるよ。	Thank you. That helps.
+0955	06DC3A	FE	23		「かねがたりんのか…⏎それじゃあしかたないな。	Not enough money… Well, can't be helped then.
+0956	06DC5C	FE	16		「…このむらもたいへんなんでな。	…This village is in a bad way too.
+0957	06DC7D	FE	23		「ありがとうございました。⏎これはおれいです。	Thank you very much. Here's something in return.
+0958	06DCBD	FE	13		「ありがとうございました。	Thank you very much.
+0959	06DCD9	FE	38		「このあいだ、めずらしいものを⏎ひろったんだ。⏎しろいめがみぞうなんだけど。	The other day I picked up something rare. A White Goddess Statue.
+0960	06DD01	FC	19		「500000ゴートで⏎かわないかい?	Will you buy it for 500000 Goth?
+0961	06DD19	FE	33		「そうかい?⏎めずらしいものだぜ。⏎…きがかわったら、またきなよ。	Really? It's a rare thing. …Come back if you change your mind.
+0962	06DD4D	FE	12		「へへっ、もうかったぜ。	Heh heh, that's a tidy profit.
+0963	06DD70	FE	14		「カネがたりないようだなあ。	Looks like you don't have enough money.
+0964	06DD81	FE	42		「シャガールのほうのきょうかい⏎じゃあ、このしろいめがみぞうは⏎ごしんたいらしいぜ。	At the church over in Chagall, this White Goddess Statue is apparently a sacred relic.
+0965	06DDBE	FE	27		「あたしのむすこは、かいぶつに⏎ころされちまったんだ。	My son was killed by the monsters.
+0966	06DDDB	FE	20		「これをやるから⏎かたきをとっておくれ。	I'll give you this, so avenge him.
+0967	06DDFD	FE	14		「かたきをとっておくれよ……	Avenge him for me……
+0968	06DE0E	FE	38		「ああ…かたきを⏎とってくれたんだね…でも⏎むすこはかえってこないんだねえ…	Ah… you avenged him… but… my son isn't coming back, is he…
+0969	06DE47	FE	34		「あんたら、うみの⏎かいぶつどもとたたかうのは⏎はじめてのようだね?	Looks like it's your first time fighting the sea monsters, isn't it?
+0970	06DE6B	FE	24		「これをあげよう。⏎すこしはやくにたつはずだよ。	I'll give you this. It should be of some use.
+0971	06DEA1	FE	42		「それは…ブリュンヒルド!⏎…そうですか…あなたがたは⏎バルドルとたたかうのですね。	That's… Brunhild! …I see… so you are going to fight Baldur.
+0972	06DECD	FE	47		「けんによって、みをたてたものは⏎けんによってほろびる…このことば⏎を、わすれないでください。	He who lives by the sword dies by the sword… Please don't forget those words.
+0973	06DF27	FE	44		「バルドルは、やみのせかいから⏎きた…というのですか?⏎これはただごとではありませんよ。	Baldur came from the world of darkness… you say? This is no small matter.
+0974	06DF55	FE	45		「あの、でんせつのオウガバトルの⏎さいらい…になるかもしれません。⏎…おそろしいことです。	It could become… a second coming of the legendary Ogre Battle. …A terrible thing.
+0975	06DF87	FE	18		「さまよえるたましいに⏎やすらぎを…	Peace to the wandering souls…
+0976	06DFA4	FE	39		「このあたりのうみは、むかしは⏎それはうつくしかったのですがね。⏎いまでは…。	The sea around here used to be so beautiful. But now…
+0977	06DFCD	FE	45		「うみは、ひとのこころをうつす⏎のでしょう。⏎すさんだこころが⏎うみをけがしていくのです。	The sea must reflect the hearts of men. Hardened hearts defile the sea.
+0978	06E00D	FE	48	ケイン	「バルドルは、みなみのレク⏎というところにきょてんをかまえて⏎まるで、りょうしゅきどりだ。	Kain: Baldur has set up his base in a place called Rek, to the south, acting like he's lord of the land.
+0979	06E043	FE	28	ナーナ	「…じゃあ、レクにむかって⏎しんぐん…ってわけね。	Nana: …Then we march on Rek… is that it?
+0980	06E061	FE	48	ケイン	「ところが、やっかいなのは⏎レクのまわりには、きょうりょくな⏎けっかいがはられているんだ。	Kain: The trouble is, a powerful barrier has been raised around Rek.
+0981	06E097	FE	30	<DD>	「…どうすれば⏎そのけっかいが⏎やぶれるんだろう…?	<DD>: …How can we break that barrier…?
+0982	06E0B4	FE	47	ケイン	「…たぶん、レクのまわりに⏎じんどってるくろいローブをきた⏎れんちゅうが、かんけいある…	Kain: …I think the black-robed fellows camped around Rek have something to do with it…
+0983	06E0E5	FE	45		「と、おもうんだ。あのれんちゅう⏎すべてをたおせば、けっかいは⏎きえるんじゃないかなあ…。	That's my guess. If we defeat all of them, the barrier should disappear…
+0984	06E114	FE	42	<DD>	「…では⏎かくぶたいはじんけいをたもちつつ⏎レクしゅうへんをこうりゃくする。	<DD>: …Then each unit will keep formation and take the area around Rek.
+0985	06E13D	FE	48		「ぬけがけはするな。⏎…かならず⏎れんけいをとるようにするんだ。⏎…………よし、しんぐんかいし!	No charging ahead alone. …Be sure to coordinate. …………All right, begin the advance!
+0986	06E1E8	FE	13		「けっかいがはられている!	A barrier has been raised!
+0987	06E212	FE	33	こだま	「われらは⏎やみのせかいのじゅうにん。⏎やみのきしのこだま。	Echo: We are the dwellers of the world of darkness. The echoes of the Knight of Darkness.
+0988	06E235	FE	47		「やみのせかいに、あらそいはない⏎…あるのはただ、えいえんにつづく⏎かんぜんなるせいじゃく…。	In the world of darkness there is no conflict… only perfect silence, lasting for all eternity…
+0989	06E266	FE	44		「おそれずともよい。⏎ヒトはみな⏎そこよりいでて、やがてそこに⏎かえるものなのだから…。	You need not fear. All people come from there, and in time return there…
+0990	06E2CE	FE	29	アクエリアス	「<DD>…⏎あなたはつよいわ…⏎つよすぎるほど…。	Aquarius: <DD>… You are strong… Too strong, even…
+0991	06E2ED	FE	35		「でも、そのつよさは⏎わたしが、もとめているものとは⏎ちがうようです。	But that strength seems different from what I am seeking.
+0992	06E316	FE	19	ケイン	「とつぜん⏎なにをいいだすんだ。	Kain: What are you saying, all of a sudden?
+0993	06E32B	FE	42	アクエリアス	「あなたのたたかいを⏎みていると、わたしには、あなたが⏎わからなくなる。	Aquarius: Watching you fight, I no longer understand you.
+0994	06E357	FE	42		「なにをのぞんでいるの?⏎めいよ?⏎ちから?⏎それとも⏎ゼノビアおうこくのふっこう?	What do you want? Honor? Power? Or the restoration of the Kingdom of Zenobia?
+0995	06E383	FE	41		「…わたしは、こんなきもちのまま⏎いっしょにいることはできません。⏎…さようなら。	…I cannot stay with you feeling this way. …Goodbye.
+0996	06E3B2	FE	21		アクエリアスは⏎にげるようにさっていった。	Aquarius left as if fleeing.
+0997	06E3CD	FE	19	ケイン	「おい!⏎<DD>!⏎ひきとめなきゃ…	Kain: Hey! <DD>! We have to stop her…
+0998	06E3E6	FE	43	<DD>	「…しかたないよ⏎ケイン…アクエリアスにはわかって⏎もらえないとおもってた…。	<DD>: …It can't be helped, Kain… I knew Aquarius would never understand…
+0999	06E410	FE	40		「ケイン、どうしていま⏎ひとびとは、こんなにふあんなまま⏎くらしているとおもう?	Kain, why do you think people live in such fear these days?
+1000	06E43A	FE	48		「それは、ほんとうのおうがいない⏎からだ。⏎しんにひとびとをすくい⏎みちびくひとがいないからだ。	It's because there is no true king. Because there's no one to truly save and guide the people.
+1001	06E46C	FE	44		「ぼくは、そういうものになりたい⏎…ケイン、ナーナ、みんな…⏎ぼくはまちがっているか…?	I want to become that person… Kain, Nana, everyone… Am I wrong…?
+1002	06E49E	FE	26	ナーナ	「いいえ、おうじ。⏎まちがってなんかいません。	Nana: No, Prince. You are not wrong.
+1003	06E4BE	FE	36	ケイン	「…ああ、そうだな。⏎わかったよ、<DD>。⏎おれたちは、ついていくぜ。	Kain: …Yeah, you're right. Got it, <DD>. We're with you.
+1004	06E4EC	FE	24	<DD>	「…ケイン⏎ぼくは…けっしんがついたよ。	<DD>: …Kain, I've… made up my mind.
+1005	06E507	FE	5	ケイン	「?	Kain: ?
+1006	06E50E	FE	19	<DD>	「…ぼくは⏎バルドルをたおす。	<DD>: …I will defeat Baldur.
+1007	06E520	FE	30		「…やつが⏎なにものであったとしても⏎たおさなきゃならない。	…Whatever he may be, he must be defeated.
+1008	06E540	FE	49		「もしかしたら、みんながバルドル⏎のいうことをきくようになれば…⏎あらそいはなくなるかもしれない。	Maybe, if everyone did as Baldur says… conflict would disappear.
+1009	06E573	FE	37		「でも、どうじに⏎きぼう、というだいじなものまで⏎うしなってしまうだろう。	But at the same time, we would lose something precious… hope.
+1010	06E59A	FE	50		「…ぼくはゼノビアのおうじとして⏎ではなく、このせかいにいきるにん⏎げんとして、バルドルにいどむ…!	…I challenge Baldur not as the Prince of Zenobia, but as a human being living in this world…!
+1011	06E5D2	FE	9	ナーナ	「…おうじ…	Nana: …Prince…
+1012	06E5E6	FE	14	アクエリアス	「……⏎<DD>さま…	Aquarius: …… Lord <DD>…
+1013	06E5FA	FE	37	ケイン	「<DD>⏎おまえがそのつもりなら、おれたち⏎は、どこまでもついていくぜ。	Kain: <DD>, if that's what you've decided, we'll follow you to the end.
+1014	06E621	FE	24	<DD>	「ありがとう⏎みんな。⏎…さあ、いこう!	<DD>: Thank you, everyone. …Now, let's go!
+1015	06E648	FE	22		「ありがとう、このへんも⏎へいわになったよ。	Thank you, this area is at peace now too.
+1016	06E675	FE	25		「…あくまでも、やみをこばむか…⏎…オロカモノめ…	…You reject the darkness to the very end… …Fools…
+1017	06E69B	FE	49		「あなたがたはなにをしたのです?⏎バルドルさまのつかいに、なんて⏎ことをッ!⏎…でていってくれッ!	What have you done? To do such a thing to Lord Baldur's envoy! …Get out!
+1018	06E6EB	FE	30		「えいえんにつづくせいじゃく…⏎へいわとは…そういうものだ…	Silence lasting for all eternity… That… is what peace is…
+1019	06E716	FE	50		「…あのくろいローブをきたやつは⏎にんげんじゃなかったんですかね?⏎ずっとヘンなぎしきをしてたけど…	…Was that black-robed fellow even human? He kept performing some strange ritual…
+1020	06E755	FE	22		「たすかりました。⏎ありがとうございました。	You saved us. Thank you very much.
+1021	06E78A	FE	34		「やみのせかい…⏎すべてのいのちのふるさと…⏎おそれることはない…。	The world of darkness… the homeland of all life… There is nothing to fear…
+1022	06E7B9	FE	49		「おそれおおいことをしましたね。⏎あなたがたには、バルドルさまが⏎きっとバツをくだされるでしょう。	You've done something outrageous. Lord Baldur will surely punish you.
+1023	06E80B	FE	36		「われらこそが…やすらぎを…⏎…ひかりのせかいに、やすらぎは…⏎ない…。	We alone… bring peace… …In the world of light, there is… no peace…
+1024	06E88A	FE	40		「このまちじゃ⏎ひとりだけおそわれたんだ。うん⏎どこかにつれていかれたみたいだ。	In this town, only one person was attacked. Yes, it seems they were taken away somewhere.
+1025	06E8D1	FE	28		「われはこだま…⏎やみのせかいより…⏎おとずれしもの…。	I am an echo… One who has come… from the world of darkness…
+1026	06E8FA	FE	38		「…たとえアンタらが⏎なにをいっても、おれたちは⏎バルドルさまをしんじるよ。	…Whatever you say, we believe in Lord Baldur.
+1027	06E922	FE	30		「あのかたなら⏎ほんとうにせかいを⏎かえられるだろうからね。	He's the one who can truly change the world, after all.
+1028	06E961	FE	30		「いきとし、いけるもの…⏎すべてのたましいに…⏎やすらぎを…	To all living things… to every soul… peace…
+1029	06E98C	FE	49		「わたしのむすこはバルドルさまに⏎ささげました。…わたしのココロの⏎へいわはヤクソクされたのです。	I gave my son to Lord Baldur. …The peace of my heart has been promised.
+1030	06E9BF	FE	24		「ああ…こんなみちたりたキモチは⏎はじめてです。	Ah… I've never felt so fulfilled before.
+1031	06E9F8	FE	29		「やみはせいじゃく…ひかりは…⏎そうらんをひきおこすのみ…	Darkness is silence… Light… only brings strife…
+1032	06EA22	FE	41		「ハイランドとゼノビアのせんそう⏎…リヒトフロスのそうらん…もう…⏎たくさんだ…。	The war between Highland and Zenobia… the turmoil in Lichtfloss… I've had… enough…
+1033	06EA4D	FE	49		「…あんたらも、ぎゆうぐんなんて⏎バカなことはやめて、バルドルさま⏎に、したがったほうがいいよ…。	…You should give up this foolish volunteer army business and follow Lord Baldur too…
+1034	06EAD9	FE	33		「バルドルさまにだまされている?⏎わたしたちが?⏎…バカバカしい。	Deceived by Lord Baldur? Us? …How absurd.
+1035	06EAFC	FE	35		「あのおかたが⏎わたしたちをだまして⏎いったいなんのとくがあるんです?	What could he possibly gain by deceiving us?
+1036	06EB21	FE	40		「アンタらこそ、なんだ?⏎とくいになって、けんを⏎ふりまわしてるだけじゃないか!	What about you? You're just swinging your swords around, pleased with yourselves!
+1037	06EB5E	FE	40		「このまちは、かくれてたおかげで⏎あのくろいローブのれんちゅうが⏎きてないんだ。	Thanks to being hidden, those black-robed fellows haven't come to this town.
+1038	06EB88	FE	50		「あのれんちゅうにせんきょされた⏎まちをみたかい?すっかりせいきが⏎なくなっちまって…ああイヤだ…。	Have you seen the towns they've occupied? All the life has gone out of them… Ah, how awful…
+1039	06EBC7	FE	12		「どうだい?ちょうしは。	How's it going?
+1040	06EBE6	FE	32		「もう、だれにもバルドルをとめる⏎ことができないんじゃないかな。	I wonder if no one can stop Baldur anymore.
+1041	06EC08	FE	50		「これでもし、ゼノビアのおうぞく⏎なんかが、あいつにかつがれたら…⏎バルドルのていこくのかんせいかな	If some Zenobian royal were to be set up as his puppet now… that would complete Baldur's empire.
+1042	06EC3C	FE	50		「…それでも、あんたらはたたかう⏎んだろうな。…これをもっていきな⏎…こしぬけにはいらないものさ…。	…Even so, you're going to fight, aren't you. …Take this… cowards have no use for it…
+1043	06EC84	FE	10		「がんばってくれよ。	Good luck.
+1044	06ECA1	FE	49		「…なんでも、ゼノビアのおうじが⏎いきてるらしいな。バルドルとその⏎はいかが、さがしまわってるぜ。	…I hear the Prince of Zenobia is alive. Baldur and his followers are searching everywhere.
+1045	06ECD4	FE	49		「なあ、あんた。ひとには、おうが⏎ひつようなのかい?だれかにおさめ⏎てもらわないとダメなのかい…?	Say, you. Do people really need a king? Do we have to be ruled by someone…?
+1046	06ED07	FE	33		「じゆうにいきるには、こうやって⏎かくれてくらすしかないのかな…。	To live freely, is hiding away like this the only way…
+1047	06ED2A	FE	21		「どうか、このむらには⏎こないでください。	Please, don't come to this village.
+1048	06ED52	FE	50		「…ごらんのとおり、このあたりは⏎すっかりバルドルのりょうちみたい⏎でさ…しょうばいにひびくんだよ。	…As you can see, this whole area is practically Baldur's territory now… it's bad for business.
+1049	06ED86	FE	30		「せめて、あんたらはジャンジャン⏎かいものしていってくれよ!	At least you lot should buy, buy, buy!
+1050	06EDB1	FE	29		「このまちにはバザーがあるんだ。⏎なにか、かっていくかい?	This town has a bazaar. Want to buy something?
+1051	06EDDF	FE	32		「あなたがたがぎゆうぐんですか…⏎では、これをさしあげましょう。	So you are the volunteer army… Then let me give you this.
+1052	06EE28	FE	11		「がんばってください。	Good luck.
+1053	06EE48	FE	37		「…このよのなかに⏎ぜったいに、ただしいものがある⏎とアンタはおもうかい?	…Do you believe there is anything in this world that is absolutely right?
+1054	06EE6F	FE	20		A・ある、とおもう⏎B・そんなものはない	A: I think there is⏎B: No such thing
+1055	06EEA7	FE	41		「…なるほどな。じゃあアンタには⏎このけんがふさわしいだろう。⏎…れいはいらんよ。	…I see. Then this sword will suit you. …No need to thank me.
+1056	06EEE3	FE	7		「がんばれよ。	Good luck.
+1057	06EF0E	FE	35	デネブ	「あら?⏎あなたのもってる、そのガラスの…⏎そう、そのカボチャ。	Deneb: Oh my? That glass thing you're holding… yes, that pumpkin.
+1058	06EF33	FE	30		「なんだか、すごくイイかんじネ!⏎とっても、イイかんじだわ…	It has such a lovely feel to it! Such a very lovely feel…
+1059	06EF53	FE	4		「………	………
+1060	06EF59	FE	34		「え?⏎ひょっとしたら⏎それを、あたしにくださるの?⏎まぁウレシイ!	What? Could it be… you'll give it to me? Oh, how wonderful!
+1061	06EF7D	FE	27		「おれいに、あたしが⏎あなたのなかまになってあげるわ。	As thanks, I'll become your companion.
+1062	06EF9A	FE	17		デネブが⏎なかまにくわわりました。	Deneb has joined the party.
+1063	06EFCC	FE	48		「バルドルは…ひとびとに、へいわ⏎をといてまわっています。…しかし⏎あのものがいうへいわ、とは…	Baldur… goes about preaching peace to the people. …But the peace he speaks of…
+1064	06EFFE	FE	29		「やみとちんもくのしはいする⏎しのせかいにほかなりません。	is nothing other than a world of death, ruled by darkness and silence.
+1065	06F01D	FE	50		「このせかいのいけるものすべてが⏎しねば、あらそいごとはなくなる…⏎といっているのにひとしいのです。	It's as good as saying that if every living thing in this world died, conflict would end.
+1066	06F051	FE	20		「なぜ、みな⏎きがつかないのでしょう…?	Why does no one realize it…?
+1067	06F068	FE	22		「あなたがたに⏎かみのごかごがあらんことを…	May God's protection be with you…
+1068	06F089	FE	36		「くろいローブをきたれんちゅうは⏎バルドルのししゃ…⏎とよばれています。	The ones in black robes are called… Baldur's envoys.
+1069	06F0AF	FE	38		「ひとびとが、かれらを⏎うけいれはじめていることが⏎おそろしくてなりません。	It frightens me that people are starting to accept them.
+1070	06F0E4	FE	31		「あなたがたには⏎よりおおきなかみのかごが⏎ひつようでしょう。	You will need an even greater measure of God's protection.
+1071	06F105	FE	12		「これをおもちください。	Please take this.
+1072	06F12F	FE	29		「バルドルとてきたいするあなたに⏎これをさしあげましょう。	To you who oppose Baldur, I give this.
+1073	06F180	FE	40	ケイン	「<DD>!⏎まちがいない、オーマがバルドルの⏎ほんきょちだ。⏎…いよいよだな。	Kain: <DD>! No doubt about it, Orma is Baldur's headquarters. …This is it.
+1074	06F1AE	FE	42	<DD>	「ああ…⏎いよいよだ!⏎バルドルをたおせば⏎ひとつのけっちゃくがつくはずだ。	<DD>: Yeah… this is it! If we defeat Baldur, one chapter should come to a close.
+1075	06F1D7	FE	14		「さあ、いこう!⏎オーマへ!	Now, let's go! To Orma!
+1076	06F1EB	FE	36	ケイン	「<DD>。⏎オーマというところに、バルドル⏎のほんきょちがあるらしい。	Kain: <DD>. Baldur's headquarters is said to be in a place called Orma.
+1077	06F211	FE	13		「…ほんとうに、いくのか?	…Are you really going?
+1078	06F224	FE	38	<DD>	「…うん。⏎たたかうか、たたかわずにすむか⏎それはわからないけれど…	<DD>: …Yes. Whether we end up fighting or not, I don't know…
+1079	06F249	FE	50		「…とにかく、バルドルをさけては⏎とおれない。⏎…みんなの…そして⏎…ぼくじしんのあすのためにも…。	…Either way, there's no getting around Baldur. …For everyone's tomorrow… and… for my own…
+1080	06F27D	FE	15		「けっちゃくを、つけなきゃ…。	We have to settle this…
+1081	06F28E	FE	50	ケイン	「…なにがあっても、おれは⏎おまえのそばにいるぜ。⏎やくそく⏎したもんな、エストラーダさまと。	Kain: …Whatever happens, I'll be at your side. I promised Lord Estrada, after all.
+1082	06F2CB	FE	29	アクエリアス	「わたしも⏎おともします。⏎なにがあっても…。	Aquarius: I will come with you too. Whatever happens…
+1083	06F2EE	FE	17	ナーナ	「…おうじ⏎…いえ、<DD>さま。	Nana: …Prince… no, Lord <DD>.
+1084	06F301	FE	27		「ここにいるものは、みんな⏎あなたとともにあゆみます。	Everyone here walks with you.
+1085	06F31E	FE	26		「あなたが、ゼノビアのおうじ⏎だからじゃありません。	Not because you are the Prince of Zenobia.
+1086	06F33A	FE	25		「みんな、あなたのなかに⏎みらいをみているのです。	Everyone sees the future in you.
+1087	06F355	FE	29	<DD>	「…うん。⏎じゃあ、いこうか、みんな。⏎オーマへ!	<DD>: …Yeah. Then let's go, everyone. To Orma!
+1088	06F39D	FE	33	バルドル	「まっていたぞ…⏎このひを…⏎フィクス・トリシュトラム…。	Baldur: I have waited… for this day… Fix Tristram…
+1089	06F3C4	FE	21	<DD>	「おまえが⏎やみのきし…バルドル!	<DD>: You're the Knight of Darkness… Baldur!
+1090	06F3D8	FE	40	バルドル	「…トリシュトラムよ…⏎せかいを、やみのちからで⏎しはいするきはないか?	Baldur: …Tristram… Have you no wish to rule the world with the power of darkness?
+1091	06F406	FE	37	ケイン	「おれたちは⏎このせかいをまもるために⏎おまえをたおしにきたんだッ!	Kain: We came to defeat you, to protect this world!
+1092	06F42D	FE	41	バルドル	「おまえたちのせかい…?⏎…おまえたちのせかいが⏎まもるにあたいするのか?	Baldur: Your world…? …Is your world worth protecting?
+1093	06F458	FE	47		「せいじつなものは、こうかつな⏎ものにだまされ…よわいものは⏎つよいものにしはいされつづける…	The honest are deceived by the cunning… the weak are forever ruled by the strong…
+1094	06F489	FE	48		「それが、おまえたちのせかいでは⏎ないか。そんなせかいが、ほんとう⏎に、まもるにあたいするのか?	Is that not your world? Is such a world truly worth protecting?
+1095	06F4BB	FE	14		「こたえよ…トリシュトラム…	Answer me… Tristram…
+1096	06F4CF	FE	27		A・…それでもまもるんだ⏎B・……なにがいいたいんだ?	A: Even so, I will⏎B: Meaning what?
+1097	06F4FE	FE	45	バルドル	「わたしのふるさと…⏎やみのせかいは、えいえんの⏎せいじゃくがしはいするせかい…。	Baldur: My homeland… the world of darkness, is a world ruled by eternal silence…
+1098	06F52D	FE	43		「そこには、かこもみらいもない。⏎よろこびもかなしみもない。⏎そして…せいもしもない。	There is no past there, no future. No joy, no sorrow. And… no life, no death.
+1099	06F55A	FE	44		「やみはすべてのはじまり…⏎そしてすべてのおわり。⏎おそれる⏎ことなどなにもないはず…。	Darkness is the beginning of all things… and the end of all things. There is nothing to fear…
+1100	06F588	FE	44		「トリシュトラム…おまえが⏎のぞむこと…わたしがかなえて⏎やろうではないか。⏎…どうだ?	Tristram… what you desire… I shall grant it for you. …What say you?
+1101	06F5B6	FE	33		A・…おまえのちからはかりない!⏎B・…よし…やみにしたがおう…。	A: I don't need you!⏎B: Fine… I'll obey
+1102	06F5FD	FE	42	オロソフ	「…おまちしておりました⏎…フィクス・トリシュトラム…⏎…ゼノビアのおうじ…	Orosof: …I have been waiting for you… Fix Tristram… Prince of Zenobia…
+1103	06F631	FE	11	<DD>	「オロソフ?!	<DD>: Orosof?!
+1104	06F63F	FE	21	ケイン	「なにやってんだ?⏎こんなところで?	Kain: What are you doing? In a place like this?
+1105	06F656	FE	7	<DD>	「!!	<DD>: !!
+1106	06F65C	FE	6	ケイン	「?!	Kain: ?!
+1107	06F66C	FE	33	バルドル	「まっていたぞ…⏎このひを…⏎フィクス・トリシュトラム…。	Baldur: I have waited… for this day… Fix Tristram…
+1108	06F6A3	FE	20	ケイン	「オ、オロソフを⏎どうしたんだ?!	Kain: Wh-what did you do to Orosof?!
+1109	06F6B9	FE	47	バルドル	「…あのおとこは、あわれ⏎なやつだ。23ねんまえのせんそう⏎で、すべてをうばわれた…。	Baldur: …That man is a pitiful one. He lost everything in the war twenty-three years ago…
+1110	06F6EA	FE	43		「ぜつぼうにしずんだあのおとこの⏎たましいをすくったのが⏎…このわたし…というわけだ。	It was I… who saved the soul of that man, sunk in despair.
+1111	06F717	FE	47		「…トリシュトラムよ…ゼノビアと⏎いうなは、いままでどれだけの⏎いのちときぼうをうばってきた?	…Tristram… how many lives and hopes has the name Zenobia stolen until now?
+1112	06F748	FE	31		「いままでにおまえは、どれだけの⏎いのちをうばってきたのだ…?	How many lives have you taken so far…?
+1113	06F769	FE	32		「…これから、どれだけのいのちを⏎うばえば、きがすむというのだ?	…And how many more lives must you take before you are satisfied?
+1114	06F78B	FE	16		「…こたえよ…トリシュトラム…。	…Answer me… Tristram…
+1115	06F7A1	FE	29		A・きさまに…とうしかくはない!⏎B・……ぼくは…………。	A: Not to you!⏎B: I…………
+1116	06F7D2	FE	34	バルドル	「…のろわれし⏎ゼノビアのこよ…⏎そのいのち…やみにささげよ	Baldur: …Cursed child of Zenobia… Offer your life… to the darkness.
+1117	06F7FC	FE	44	<DD>	「…ぼくはこれ⏎いじょうだれもきずつけたくはない⏎…だれのぎせいものぞまない…!	<DD>: …I don't want to hurt anyone anymore… I don't want anyone's sacrifice…!
+1118	06F82B	FE	43	ケイン	「<DD>、なにを⏎いってるんだ?⏎おまえはじぶんの⏎よくぼうでたたかってきたのか?!	Kain: <DD>, what are you saying? Have you been fighting for your own ambition?!
+1119	06F858	FE	45		「ちがうだろ!⏎だれかが、そのて⏎をよごさなければ…しんのへいわは⏎きずくことができない…	That's not it! Unless someone dirties their hands… true peace can never be built…
+1120	06F887	FE	28		「そうしんじてきたから⏎そのけんをふるってきたんだろッ!	You swung your sword because you believed that, didn't you!
+1121	06F8A5	FE	35		「たたかえッ!⏎たたかうんだッ!⏎<DD>!⏎やみのなかにみらいはないッ!!	Fight! Fight, <DD>! There's no future in the darkness!!
+1122	06F8CA	FE	32		A・…そうだ…みらいのために!⏎B・…だめだ…ぼくはたたかえない	A: For the future!⏎B: I can't fight…
+1123	06F908	FE	29	バルドル	「…しかたない…。⏎では…たたかおうではないか…。	Baldur: …So be it… Then… let us fight…
+1124	06F92B	FE	28	バルドル	「…おろかものめ…⏎ならば…ちりとかすがよい!!	Baldur: …Fools… Then… turn to dust!!
+1125	06F951	FE	25	バルドル	「…ならば⏎そのいのち…われにささげよ…!	Baldur: …Then offer that life… to me…!
+1126	06F980	FE	23		「…おまえではない。⏎わたしがまねいたのは…。	…Not you. The one I summoned was…
+1127	06F9B4	FE	13		ここにはもう、なにもない。	There is nothing here anymore.
+1128	06FA0B	FE	49		「バルドルさまが、やみのせかいの⏎ひとでも、かんけいありません。⏎わたしたちはしんじているのです。	It doesn't matter if Lord Baldur is from the world of darkness. We believe in him.
+1129	06FA4D	FE	49		「…バルドルさまのやみのチカラを⏎もってすれば、このよのすべての⏎あらそいをなくすことができる…。	…With Lord Baldur's power of darkness, every conflict in this world can be ended…
+1130	06FA80	FE	43		「…あんたらは、どうだい?⏎そんなこと、できるかい?⏎むりだろうな…あんたらじゃあな。	…What about you? Can you do that? I doubt it… not you lot.
+1131	06FABC	FE	35		「バルドルさま…バンザイ!⏎…おまえたちはバカだ!⏎せんそうバカだ!!	Long live Lord Baldur! …You're fools! War-mad fools!!
+1132	06FAE1	FE	29		「あらそいごとがなくなるんだぞ!⏎ステキなことじゃないか!	Conflict will come to an end! Isn't that wonderful!
+1133	06FB0F	FE	30		「もう、あらそいごとに⏎おびえてくらすのは⏎こりごりじゃ…。	I've had enough of living in fear of conflict…
+1134	06FB2F	FE	48		「バルドルさまは、へいわを…⏎わしらがいちばんほしかったものを⏎やくそくしてくださったのじゃ…。	Lord Baldur promised us peace… the thing we wanted most of all…
+1135	06FB70	FE	29		「やみのきしさまは⏎したがうものを⏎しいたげることはない。	The Knight of Darkness does not oppress those who follow him.
+1136	06FB8F	FE	50		「たかいぜいきんをとりたてるわけ⏎でもない、いくさにかりだすわけで⏎もない…。ありがたいことだよ…。	He doesn't levy heavy taxes, he doesn't drag us off to war… We're grateful…
+1137	06FBD2	FE	36		「うまれてこのかた⏎あらそいごとのないじだいなんて⏎なかったからねえ…。	In all my life, there's never been an age without conflict…
+1138	06FBF8	FE	39		「…バルドルさまには⏎はやくこのせかいすべてを⏎おさめていただきたいものだ…。	…I wish Lord Baldur would hurry and rule this whole world…
+1139	06FC34	FE	48		「われわれは、バルドルさまに⏎したがうものです。⏎あなたがたは⏎ここに、なにをしにきたのですか?	We are followers of Lord Baldur. What did you come here to do?
+1140	06FC66	FE	35		「バルドルさまは⏎ここをあしがかりに⏎せかいをかえてゆかれるのです…。	From this foothold, Lord Baldur will go on to change the world…
+1141	06FC8B	FE	22		「あらそいのない⏎へいわなしずかなせかいへ。	To a quiet, peaceful world without conflict.
+1142	06FCA8	FE	26		「バルドルさまのジャマをするなら⏎ゆるしませんよ…。	If you get in Lord Baldur's way, I won't forgive you…
+1143	06FCD3	FE	41		「あなたがたが、バルドルさまに⏎さからうひとたちですね…。⏎…なんと、あわれな…。	So you are the ones who defy Lord Baldur… …How pitiful…
+1144	06FCFE	FE	42		「たたかうことが、そんなに⏎たのしいですか?⏎へいわが⏎そんなにつまらないのですか?	Is fighting really that much fun? Is peace really that boring?
+1145	06FD39	FE	45		「あらそいごとは、もうたくさん!⏎わたしたちは、バルドルさまを⏎たよっていきていくのです。	We've had enough of conflict! We will live relying on Lord Baldur.
+1146	06FD77	FE	27		「あんたらとバルドルさま⏎どっちをしんじるか…だって?	Which do we believe, you or Lord Baldur… you ask?
+1147	06FD94	FE	48		「…あんたら、にんげんだもんな。⏎にんげんがじぶんのちからだけで⏎あらそいをなくすのはムリだよ。	…You're only human. Humans can't end conflict by their own strength alone.
+1148	06FDC6	FE	27		「あんたらも⏎よくかんがえたほうが⏎いいんじゃないか?	You'd do well to think it over yourselves, wouldn't you?
+1149	06FDF6	FE	47		「…おれたちはバルドルとたたかう⏎ゆうきなんてないよ。⏎かくれて⏎くらすので、せいいっぱいさ。	…We don't have the courage to fight Baldur. Living in hiding is all we can manage.
+1150	06FE27	FE	48		「でも、あんたがたはちがうよな。⏎そのゆうきが、どうやってわいて⏎くるのか、わからないけれど…。	But you're different. I don't know where that courage comes from, but…
+1151	06FE59	FE	38		「…これをもっていってくれ。⏎これくらいしか、おれたちには⏎できないんだ…。	…Take this with you. It's about all we can do…
+1152	06FE8D	FE	16		「たのむぜ。⏎がんばってくれよ。	We're counting on you. Good luck.
+1153	06FEB0	FE	39		「わたしたちは、たとえこうして⏎ずっとかくれたままでも⏎ここでいきていきます。	Even if we have to stay hidden like this forever, we will live on here.
+1154	06FED9	FE	48		「わたしたちのおやも、またその⏎おやも…ずっと、ここでうまれて⏎ここでねむりについたのですから。	Our parents, and their parents… were all born here and laid to rest here.
+1155	06FF0D	FE	25		「なんとしても、ここで⏎くらしつづけたいのです…。	Whatever it takes, we want to go on living here…
+1156	06FF39	FE	46		「たしかに…やみのきしバルドルに⏎は、きょうだいなチカラと⏎そこしれないカリスマがあります。	It's true… Baldur, the Knight of Darkness, has tremendous power and fathomless charisma.
+1157	06FF69	FE	46		「しかし、それにしたがってしまえ⏎ば、わたしはこどもたちに⏎なんといっていいのかわからない。	But if we submit to him, I wouldn't know what to tell my children.
+1158	06FF99	FE	48		「こどもたちには、じぶんのちから⏎で、あすをいきてほしいのです。⏎みらいをしんじてほしいのです。	I want my children to live tomorrow by their own strength. To believe in the future.
+1159	06FFCD	FE	21		「わたしたちに⏎ゆうきをあたえてください。	Please, give us courage.
+1160	06FFF5	FE	45		「なにかをしんじなければ⏎いきていけない…そういういきもの⏎なのでしょうね、わたしたちは。	We can't live without believing in something… That's the kind of creatures we are, I suppose.
+1161	070024	FE	41		「…ならば、バルドルを⏎しんじるよりも、わたしたちは⏎あなたがたをしんじましょう。	…Then rather than believe in Baldur, we will believe in you.
+1162	07004F	FE	12		「これをおもちください。	Please take this.
+1163	070071	FE	23		「われわれは、これから⏎なににすがっていけば…	What are we supposed to cling to now…
+1164	07009B	FE	34		「バルドルと⏎たたかってるひとがいるってのは⏎ほんとうだったんだね。	So it was true, that there are people fighting Baldur.
+1165	0700BF	FE	41		「…そうだよね。⏎じぶんの⏎みらいがあんなあやしいやつに⏎きめられてたまるもんか!	…That's right. I'm not letting some shady character decide my future!
+1166	0700EA	FE	26		「これをつかってくれよ。⏎すこしはやくにたつはずさ。	Use this. It should be of some use.
+1167	07011E	FE	38		「…バルドルのいうへいわ、とは⏎ほんとうのへいわじゃないような⏎きがします。	…I feel that the peace Baldur speaks of isn't true peace.
+1168	070146	FE	37		「あらそいがない、というだけで⏎へいわだ、というのは⏎かなしすぎますよね。	To call it peace just because there's no conflict… that's too sad.
+1169	07017A	FE	46		「…このよのなかにぜつぼうした⏎ひとびとのこころが、バルドルを⏎まねいたのかもしれません…。	…Perhaps the despairing hearts of the people of this world are what summoned Baldur…
+1170	0701AB	FE	15		「やすらぎをえられますように…	May you find peace…
+1171	0701C9	FE	41		「バルドルのことばには⏎まりょくがあるようです。⏎どうかまどわされないでください。	There seems to be a magic in Baldur's words. Please don't be led astray.
+1172	070201	FE	42		「バルドルにたよることが⏎あやまちであることを、ひとびとに⏎つたえようとしました…。	I tried to tell the people that relying on Baldur is a mistake…
+1173	07022D	FE	43		「しかし、わたしたちには⏎ひとびとを、なっとくさせるだけの⏎チカラもなにもありません。	But we have no power to persuade them, nothing at all.
+1174	07025A	FE	13		「なさけないはなしですね…	It's a sorry state of affairs…
+1175	070276	FE	45		「なげかわしいことです。⏎このあたりのひとびとは、すべて⏎バルドルにしたがってしまいます。	It's deplorable. Everyone around here has submitted to Baldur.
+1176	0702A5	FE	28		「われわれは、このちを⏎はなれなくてはならないでしょう。	We will probably have to leave this land.
+1177	0703F5	FE	8		「…さらばだ…。	…Farewell…
+1178	070403	FE	27		バルドルは⏎ひくいわらいごえをのこして⏎きえていった。	Baldur vanished, leaving behind a low laugh.
+1179	070420	FE	16		バルドルとのたたかいはおわった。	The battle with Baldur was over.
+1180	07043A	FE	18		<DD>は、ぎゆうぐんを⏎かいさんした…。	<DD> disbanded the volunteer army…
+1181	07044E	FE	26		なかまたちは⏎それぞれのばしょへと⏎かえっていった。	The companions each returned to their own homes.
+1182	07046E	FE	24	ケイン	「…なあ⏎<DD>。⏎これから、どうするんだい?	Kain: …Hey, <DD>. What will you do now?
+1183	070494	FE	38	<DD>	「…ケイン。⏎ゼテギネアにいこう。⏎ぼくは、ゼテギネアをたおしたい。	<DD>: …Kain. Let's go to Zeteginea. I want to bring down Zeteginea.
+1184	0704B9	FE	14	ケイン	「え?⏎…なんだって?	Kain: Huh? …What did you say?
+1185	0704C9	FE	30	<DD>	「ていこくを⏎たおすには⏎いまのちからではむりだ…。	<DD>: To topple the Empire, our present strength isn't enough…
+1186	0704E6	FE	34		「もっとおおきなちからを⏎えるために…⏎ケイン、てをかしてくれるな?	To gain greater power… Kain, you'll lend me a hand, won't you?
+1187	07050A	FE	16	ケイン	「あ…ああ。⏎わかったよ。	Kain: Y… yeah. All right.
+1188	070520	FE	29		…そのご、<DD>と⏎ケインが、どのようなみちを⏎あゆんだのか…	…What path <DD> and Kain walked after that…
+1189	07053F	FE	30		…それはまた⏎べつのきかいにかたられる⏎ものがたりである…。	…is a story to be told another time…
+1190	070563	FE	44		「トリシュトラム…おまえが⏎のぞむこと…わたしがかなえて⏎やろうではないか。⏎…どうだ?	Tristram… what you desire… I shall grant it for you. …What say you?
+1191	070599	FE	38	<DD>	「…ケイン。⏎このままゼテギネアていこくの⏎ほしいままにしていたら…	<DD>: …Kain. If we leave the Zeteginean Empire to do as it pleases…
+1192	0705BE	FE	46		「しんのへいわは、やってこない…⏎そうおもうんだ。…なにができるか⏎それはわからないけれど…	true peace will never come… that's what I think. …I don't know what I can do, but…
+1193	0705EE	FE	35		「これからのじんせいは⏎ていこくをたおすために⏎つかおうとおもうんだ。	I mean to spend the rest of my life bringing down the Empire.
+1194	070613	FE	12		「…どうだろうケイン…?	…What do you say, Kain…?
+1195	070621	FE	13	ケイン	「…わかったよ⏎<DD>。	Kain: …Got it, <DD>.
+1196	070630	FE	26		「いったろ?⏎おれは、どこまでも⏎ついていくって…。	I told you, didn't I? I'll follow you to the end…
+1197	07064C	FE	23		「よし!⏎そうときまれば⏎さっそくじゅんびだ!	Right! Now that it's decided, let's get ready!
+1198	070665	FE	14	<DD>	「いこう!⏎ケイン!	<DD>: Let's go! Kain!
+1199	070676	FE	29		…そのご、<DD>と⏎ケインが、どのようなみちを⏎あゆんだのか…	…What path <DD> and Kain walked after that…
+1200	070695	FE	30		…それはまた⏎べつのきかいにかたられる⏎ものがたりである…。	…is a story to be told another time…
+1201	0706B9	FE	27		「…よいか、<DD>。⏎へいわとは⏎つくりあげるものなのだ。	…Listen well, <DD>. Peace is something you build.
+1202	0706D6	FE	22		「けして、しぜんにできあがるもの⏎ではない。	It never comes about on its own.
+1203	0706EE	FE	49		「そして、そのへいわをつくるては⏎いつも、ちにまみれている。…だが⏎だれかが、それをやらなければ…	And the hands that build that peace are always stained with blood. …But someone has to do it…
+1204	070721	FE	46		「ちからよわきものは、いつまでも⏎しいたげられつづけることになる。⏎…このこと、わすれるな。	Otherwise the weak will go on being oppressed forever. …Never forget that.
+1205	070759	FE	34		<DD>は、ぎゆうぐんを⏎かいさんし、ケインとふたり⏎たびだっていった…。	<DD> disbanded the volunteer army and set out on a journey, with Kain alone…
+1206	07077D	FE	47		ぎゆうぐんのなかまたちがふたたび⏎かれらのなをみみにするのは⏎ゼテギネアていこくのほうかいご…	The companions of the volunteer army would hear their names again only after the fall of the Zeteginean Empire…
+1207	0707AE	FE	34		…しかし、それはまた⏎べつのきかいにかたられる⏎ものがたりである…。	…But that is a story to be told another time…
+1208	0707DA	FE	41	<DD>	「…エストアへ⏎かえろう…ケイン、ぼくは…⏎これいじょうは、たたかわない。	<DD>: …Let's go back to Estoa… Kain, I… won't fight anymore.
+1209	070802	FE	47		「おくびょうでいってるんじゃない⏎…たたかって、かっても、それは⏎ほんとうのしょうりじゃない。	I'm not saying this out of cowardice… Even if we fight and win, it isn't a true victory.
+1210	070833	FE	32		「ひとのいのちを⏎ぎせいにするへいわは⏎しんのへいわではないよ。	A peace bought with people's lives is not true peace.
+1211	070855	FE	31		「しんのへいわをきずくほうほうを⏎エストアでかんがえたいんだ。	I want to think about how to build true peace, back in Estoa.
+1212	070876	FE	25	ケイン	「…わかったよ⏎<DD>。⏎かえろう、エストアへ。	Kain: …Got it, <DD>. Let's go home, to Estoa.
+1213	070891	FE	29		…そのご、<DD>と⏎ケインが、どのようなみちを⏎あゆんだのか…	…What path <DD> and Kain walked after that…
+1214	0708B0	FE	30		…それはまた⏎べつのきかいにかたられる⏎ものがたりである…。	…is a story to be told another time…
+1215	0708D4	FE	40		「<DD>、いえ、おうじ⏎ゼノビアのたみをすくい、みちびく⏎のは、あなたしかいません。	<DD>, no, Prince. You alone can save and guide the people of Zenobia.
+1216	0708FE	FE	38		「いつか、はれてあなたさまが⏎ゼノビアのおうじとして、たたれる⏎そのひまで…	Until the day you can stand openly as the Prince of Zenobia…
+1217	070926	FE	32		「そのひだけを、こころまちにして⏎バーニャは、いきてまいります。	I, Vanya, will live on, waiting only for that day.
+1218	070948	FE	29		「おうじ…<DD>。⏎かならず、かならず⏎ふたたびあえることを。	Prince… <DD>. I pray that we shall surely, surely meet again.
+1219	07096F	FE	20		そして、<DD>は⏎ぎゆうぐんをかいさんした。	And so, <DD> disbanded the volunteer army.
+1220	070989	FE	23	ケイン	「なあ、おい!⏎<DD>…⏎<DD>をみなかったか?	Kain: Hey, you! <DD>… Have you seen <DD>?
+1221	0709AB	FE	26	アクエリアス	「いいえ?⏎ナーナはどう?⏎みなかった?	Aquarius: No? What about Nana? Did you see him?
+1222	0709CB	FE	20	ナーナ	「ケイン⏎いっしょじゃなかったの?	Nana: Kain, wasn't he with you?
+1223	0709E1	FE	30	ケイン	「…<DD>…⏎どこへ…?⏎…どこへいくっていうんだよッ?!	Kain: …<DD>… where… Where did you go?!
+1224	070A01	FE	12		「…おれは、どうすれば…	…What am I supposed to do…
+1225	070A0F	FE	36	ナーナ	「…おうじは⏎わたしたちのことをかんがえて⏎みをかくされたのよ…。	Nana: …The Prince went into hiding… thinking of us…
+1226	070A35	FE	42		「このバルドルのそうどうを⏎ゼテギネアが、ほうっておくわけは⏎ないわ。⏎…だから…。	Zeteginea won't ignore this uproar with Baldur. …That's why…
+1227	070A6A	FE	26	アクエリアス	「ケイン…。⏎さがしましょう、おうじを。	Aquarius: Kain… Let's search for him. For the Prince.
+1228	070A86	FE	26		「おうじひとりを⏎つらいたびにだしては⏎いけないわ…	We can't let the Prince set out alone on such a hard journey…
+1229	070AA2	FE	9	ケイン	「……ああ。	Kain: ……Yeah.
+1230	070AAD	FE	35		「…バカだな…<DD>。⏎おれたちは、いつでも⏎いっしょにいきてきたのに…。	…You idiot… <DD>. We always… lived through everything together…
+1231	070AD6	FE	32		そのご、ケインが⏎<DD>とめぐりあえたか⏎どうかは、さだかではない…	Whether Kain ever found <DD> again… is not known…
+1232	070AF8	FE	35		…<DD>のそのごは…⏎また、べつのきかいにかたられる⏎ものがたりである…。	…What became of <DD>… is a story to be told another time…
+1233	070B7E	FE	38	バーキン	「おまえらか。⏎オレのなわばりをあらしまわってる⏎やつら、ってのは。	Birkin: So it's you. The ones running wild through my territory.
+1234	070BA6	FE	26		「あんまりらんぼうなことは⏎したくねぇんだけどなぁ。	I'd rather not get too rough, you know.
+1235	070BC2	FE	29		「しかたがねぇ。⏎しょうしょう⏎いためつけてやるとするか。	No helping it. Guess I'll rough you up a little.
+1236	070BE9	FE	23	バーキン	「うー、なんか……⏎きもちがわるい……	Birkin: Ugh, somehow… I feel sick…
+1237	070C02	FE	20		「ちょっと⏎かんべんしてくれないかなぁ?	Could you give me a break for now?
+1238	070C18	FE	27		「ひがおちたぐらいのほうが⏎はなしやすいんだがなぁ……	It'd be easier to talk once the sun's gone down…
+1239	070C35	FC	14		「でなおしてきてくれないか?	Could you come back later?
+1240	070C48	FE	38	バーキン	「くっ。しかたがねぇか。⏎どうせおおかみおとことしての⏎じんせいだ。	Birkin: Tch. No helping it, huh. It's a werewolf's life either way.
+1241	070C70	FE	16		「ここらでまくをひくとするかッ!	Guess I'll bring the curtain down right here!
+1242	070C8C	FE	27	バーキン	「おお。⏎そうか。⏎またよるにきてくれよ、な。	Birkin: Oh. I see. Come back at night, all right?
+1243	070CE9	FE	27	バーキン	「クッ。⏎ざまぁねぇな。⏎そら、とどめをさせ。	Birkin: Tch. What a sorry sight. Go on, finish me off.
+1244	070D16	FE	21	アクエリアス	「あなたは…⏎ウェアウルフね。	Aquarius: You're… a werewolf.
+1245	070D2D	FE	9	バーキン	「……ッ!	Birkin: ……!
+1246	070D38	FE	43		「…そうだよ。⏎こんなに⏎なっちまったからには、まちの⏎なかでくらすわけにもいかねぇ。	…That's right. Having turned into this, I can't exactly live in a town.
+1247	070D65	FE	12		「こうしてやまのなかで…	So I live out here in the mountains…
+1248	070D73	FE	26	アクエリアス	「あなたは⏎こころのやさしいひとですね。	Aquarius: You are a kind-hearted person.
+1249	070D8F	FE	43	バーキン	「………ハッハッハ。⏎そういわれたのは、はじめてだ。⏎あんたかわったひとだな。	Birkin: ………Ha ha ha. That's the first time anyone's said that. You're a strange one.
+1250	070DBC	FE	44	アクエリアス	「わたしたちには⏎あなたのような、こころの⏎やさしいひとがひつようなんです。	Aquarius: We need kind-hearted people like you.
+1251	070DEA	FE	44		「どうでしょう?⏎ひとびとを⏎くるしみからすくうたびに⏎あなたもついてきてくれませんか?	What do you say? Won't you come with us, on our journey to save people from suffering?
+1252	070E18	FE	38	バーキン	「このオレを⏎なかまにするっていうのか?⏎うつるかもしれねぇんだぜ?	Birkin: You want me to join you? It might be contagious, you know?
+1253	070E40	FE	27		「いつ⏎ウェアウルフになっちまうか⏎わからねぇんだぜ?	You never know when I'll turn into a werewolf, you know?
+1254	070E5D	FE	34	アクエリアス	「いえ。⏎みたところ、こころまでは⏎かわらないようです。	Aquarius: No. From what I see, your heart hasn't changed.
+1255	070E81	FE	29		「それなら、すがたがかわっても⏎おなじことじゃないですか。	If so, then even if your form changes, you're still the same.
+1256	070EA0	FE	31		「ひとのかちをきめるのは⏎すがたじゃありません。⏎こころです。	It isn't appearance that decides a person's worth. It's the heart.
+1257	070EC1	FE	41	バーキン	「………ハッハッハ。⏎そうだな。⏎そうかもしれん。⏎あんたのいうとおりだ。	Birkin: ………Ha ha ha. True. Maybe you're right. It's just as you say.
+1258	070EEC	FE	19		「あんたたちの⏎なかまにしてもらおう。	I'll join you, then.
+1259	070F01	FE	18		バーキンが⏎なかまにくわわりました。	Birkin has joined the party.
+1260	070F32	FE	37	バーキン	「…クッ。⏎…ざまぁねぇ、な……⏎つまんねぇじんせいだった…ぜ……	Birkin: …Tch. …What a sorry sight… It was a dull life… wasn't it…
+1261	070F69	FE	17		すっかり、はいきょになっている…⏎	It has fallen completely into ruin…
+1262	070F86	FE	27	バーキン	「なつかしいな…⏎でもはいきょになってやがる。	Birkin: Brings back memories… But it's a ruin now.
+1263	070FA3	FE	28		「まぁ、とうぞくどもが⏎ねぐらにしていないだけマシかな?	Well, at least the bandits haven't made it their den, right?
+1264	070FD2	FE	35		「ここを、ずっと⏎にしのほうにいくと⏎へんなしゅうだんのボスがいるよ。	If you go far to the west from here, there's the boss of some strange group.
+1265	070FF7	FE	44		「ここいらいったいを⏎しはいしているけど、あまりひどい⏎やつじゃないようなきがするなぁ。	He rules this whole area, but somehow he doesn't seem like such a bad guy.
+1266	071025	FE	28		「いちにちのはんぶんは⏎おおかみをおがんでいるんだとさ。	They say he spends half of every day worshipping wolves.
+1267	071046	FE	10		「きみがわるいよな。	Creepy, isn't it.
+1268	071053	FE	37		「まえとはべつの⏎なんかくろいローブのれんちゅうを⏎みかけることがあるぜ。	Sometimes you see black-robed fellows around, different from the ones before.
+1269	07108B	FE	42		「いまじゃ、このくにも⏎とうぞくだらけですけどね。⏎このへんはちょっとちがいますよ。	These days this country's full of bandits too. But around here it's a bit different.
+1270	0710B7	FE	41		「すこしまえまでは、このあたりも⏎まちのそとはあるけなかったぐらい⏎だったんです。	Until a little while ago, you couldn't even walk outside town around here.
+1271	0710E2	FE	16		「とうぞくだらけだったんですよ。	It was crawling with bandits.
+1272	0710F4	FE	38		「でも、バーキンがきてから⏎なにかべつのしゅうだんに⏎かわってしまいまして。	But after Birkin came, they turned into a different sort of group.
+1273	07111C	FE	24		「たしかに、しょうにんを⏎おそったりはしますが。	True, they do attack merchants.
+1274	071136	FE	36		「おそわれるほうが⏎あくどくもうけてるしょうにん⏎だったりするんですよ。	But the ones who get attacked tend to be merchants making dishonest profits.
+1275	07115C	FE	28		「ただのらんぼうなやつらとは⏎ちょっとちがうみたいです。	They seem a bit different from plain thugs.
+1276	0711BF	FE	50		「バーキンは、まえはゼノビアへい⏎だったときいてるぜ。⏎レンジャー⏎ぶたいのせいえいだったんだとさ。	I hear Birkin used to be a Zenobian soldier. An elite of the ranger corps, they say.
+1277	0711F3	FE	48		「それが、ハイランドにまけて⏎にげているあいだに、なんかへんな⏎びょうきにかかっちまったんだと。	Then, while fleeing after the defeat by Highland, he caught some strange disease.
+1278	071225	FE	43		「でもとうぞく10にんが⏎たばになってもかなわないのに⏎びょうきなんてほんとうかねぇ?	But ten bandits together are no match for him, so is that disease story really true?
+1279	071271	FE	23		「バーキンがあらわれたのは⏎3ねんほどまえよ。	Birkin showed up about three years ago.
+1280	07128A	FE	39		「わたしたちがてをやいていた⏎らんぼうなとうぞくどもに⏎たたかいをいどんだの。	He challenged the violent bandits we couldn't handle.
+1281	0712B3	FE	35		「あっというまに⏎ぜんいんをのしちゃって⏎それでボスのざについたのね。	He flattened every one of them in no time, and so took the boss's seat.
+1282	0712D8	FE	46		「らんぼうはへったけど、なんか⏎へんなものをおがんでいるって⏎きいてるし。⏎きみがわるいわ。	The violence has lessened, but I hear he worships something strange. It's creepy.
+1283	071323	FE	35		おや、めずらしい。⏎きゃくじんですか。⏎あまりさわがないでくださいね。	Oh, how rare. Visitors? Please don't make too much noise.
+1284	07136A	FE	42	ロード	「おお。⏎それは⏎ティンクルスターですね。わたしは⏎ゆめでけいじをうけました。	Rhode: Oh. That's a Twinkle Star. I received a revelation in a dream.
+1285	071396	FE	24		「ティンクルスターをもつものと⏎ともにたたかう…	To fight alongside the one who holds the Twinkle Star…
+1286	0713B0	FE	36		「わたしは、このときを⏎まっていました。⏎さぁ、ともにたたかいましょう。	I have been waiting for this moment. Come, let us fight together.
+1287	0713D6	FE	17		ロードが⏎なかまにくわわりました。	Rhode has joined the party.
+1288	07140C	FE	38		「このちには、ふるくからつたわる⏎きみょうなでんせんびょうが⏎ありましてな。	In this land there is a strange contagious disease that has been passed down since old times.
+1289	071434	FE	48		「それにかかったものは、ひるは⏎ひとのすがたでも、よるはべつの⏎ものにかわってしまうのですじゃ。	Those who catch it keep human form by day, but at night they change into something else.
+1290	071466	FE	35		「ただ、いまだにそのやまいが⏎のこっているのかどうかは⏎わかりません。	But whether that sickness still remains, I cannot say.
+1291	07148B	FE	37		「のこっているとすれば…⏎かかっているものがいる⏎ということになりますな。	If it does remain… then it means there is someone who has it.
+1292	0714B2	FE	11		「ふこうなことですが…	An unfortunate thing…
+1293	0714CA	FE	22		あなたがたに⏎かみのごかごがありますように。	May God's protection be with you.
+1294	071500	FE	20		「ジェンガさま、ころした⏎おまえたちか?	You… the ones who killed… Lord Jenga?
+1295	071516	FE	19		「かたき、うつ。⏎おまえたち、ころす。	Revenge. You… I kill.
+1296	071552	FE	23		「このあたりも、へいわになったよ⏎ありがとう。	It's peaceful around here now too. Thank you.
+1297	071578	FE	30		「うみのかいぶつに⏎りくのきょじんじゃからな。⏎てにおえん。	Monsters in the sea, giants on the land… It's more than we can handle.
+1298	071598	FE	44		「ジェンガが、ちえをつけたらしい⏎が……そんなことがにんげんに⏎できるのじゃろうかなぁ?	They say Jenga gave them intelligence… but could a human really do such a thing?
+1299	0715C7	FE	23		「このあたりも、へいわになったよ⏎ありがとう。	It's peaceful around here now too. Thank you.
+1300	0715F1	FE	28		「え?⏎あなたがたがきょじんたいじを⏎してくださるので?	What? You'll deal with the giants for us?
+1301	07160F	FE	33		「それはありがたい。⏎こちらもおうえんをしなければ⏎なりませんな。	That's a relief. We'll have to do our part to support you, then.
+1302	071634	FE	12		「がんばってくださいね。	Good luck.
+1303	071665	FE	24		「もうたいへんだよ。⏎なにがおこっているのやら。	It's terrible. I don't know what's going on anymore.
+1304	07167F	FE	28		「ジャイアントがところかまわず⏎おそいまくっているのさ。	The giants are attacking everywhere, without rhyme or reason.
+1305	07169D	FE	32		「あのどでかいからだで⏎うみもあらすから⏎りょうもできやしねぇ。	With those huge bodies they churn up the sea too, so we can't even fish.
+1306	0716C0	FE	23		「このあたりも、へいわになったよ⏎ありがとう。	It's peaceful around here now too. Thank you.
+1307	0716EA	FE	25		「ジェンガをたおしてくれたのは⏎あなたがたですか。	Are you the ones who defeated Jenga?
+1308	071705	FE	31		「これをおもちください。⏎きっとやくにたって⏎くれるでしょう。	Please take this. I'm sure it will be of use to you.
+1309	071752	FE	11		「がんばってください。	Good luck.
+1310	071760	FE	19		「このあたりも、へいわに⏎なりました。	It's peaceful around here now too.
+1311	0717A7	FE	28		「このよのものではない⏎じゅつをかけられたにちがいない。	They must be under some spell not of this world.
+1312	0717C5	FE	30		「これをおもちください。⏎きっと⏎おやくにたつことでしょう。	Please take this. I'm sure it will be of use.
+1313	071808	FE	12		「がんばってくださいね。	Good luck.
+1314	07183D	FE	38		「あのフィボルグは、ジェンガに⏎おんをかんじているようじゃ!⏎いまいましい!	That Fibolg seems to feel indebted to Jenga! How infuriating!
+1315	071865	FE	23		「これをつかって⏎さっさところしてやってくれ!	Use this and go kill him, quickly!
+1316	071892	FE	23		「このあたりも、へいわになったよ⏎ありがとう。	It's peaceful around here now too. Thank you.
+1317	0718B4	FE	24		「かいぶつにちえをつける…⏎おそろしいことです。	Giving intelligence to monsters… A terrible thing.
+1318	0718CE	FE	46		「しかし、ジェンガは、それが⏎もくてきだったのでしょうか?⏎それともなにかべつのおもいが…?	But was that Jenga's goal? Or did he have some other intention…?
+1319	0718FE	FE	23		「いまとなっては⏎だれもしることはできません。	Now, no one can ever know.
+1320	071A2D	FE	23	バーキン	「クンクン…⏎ふん、においはちがうな。	Birkin: Sniff, sniff… Hm, the scent is different.
+1321	071A4A	FE	14	だんしゃく	「なにか…なにか…	Baron: Something… something…
+1322	071A5E	FE	35	くろいローブ	「ハナシハ⏎ソコマデダ。⏎ソロソロ、ジェンガノ、カタキヲ…	Black Robe: THAT IS ENOUGH TALK. IT IS TIME… TO AVENGE JENGA…
+1323	071A83	FE	19		「ダンシャクニ⏎トッテモラウトシヨウ。	THE BARON SHALL DO IT FOR US.
+1324	071AA1	FE	35	ケイン	「ジェンガだと!?⏎やはりおまえは…⏎おまえたちは、ジェンガの…	Kain: Jenga?! So you are… you're Jenga's…
+1325	071AC6	FE	14	くろいローブ	「フッ…イクゾ!	Black Robe: HEH… GO!
+1326	071B13	FE	20	だんしゃく	「いつか…とおい…⏎どこかで…	Baron: Someday… far away… somewhere…
+1327	071B2D	FE	13		だんしゃくは、いきたえた。	The Baron breathed his last.
+1328	071B40	FE	20	ケイン	「ちくしょう!⏎なんだったんだ!?	Kain: Damn it! What was all that about?!
+1329	071B5A	FE	7	<DD>	「……	<DD>: ……
+1330	071B98	FE	39		「たすかりました。⏎あなたがたが、あのゴーレムを⏎たおしてくださったのですね。	You saved us. You're the ones who defeated that golem, aren't you.
+1331	071BC1	FE	46		「2ねんほどまえから、だんしゃく⏎と、そのてしたが、あのゴーレムを⏎ばらまきはじめたんです。	About two years ago, the Baron and his men started scattering those golems about.
+1332	071BF1	FE	27		「さいきんでは⏎まちのではいりでさえ⏎おそろしくて……	Lately even going in and out of town has been terrifying…
+1333	071C19	FE	39		「たすかりました。⏎あなたがたが、あのゴーレムを⏎たおしてくださったのですね。	You saved us. You're the ones who defeated that golem, aren't you.
+1334	071C5E	FE	36		「あの、ローブのおとこを⏎たおすには、ふつうのぶきでは⏎だめでしょうな。	To defeat that robed man, ordinary weapons won't do, I'd say.
+1335	071C84	FE	30		「ワシは、あれは⏎このよのものではないと⏎にらんでおります。	I suspect that one is not of this world.
+1336	071CA4	FE	45		「だんしゃくは、あのおとこに⏎じゅつをかけられて、りよう⏎されているだけかもしれませんな。	The Baron may simply be under that man's spell, being used by him.
+1337	071D04	FE	29		「なんのためのゴーレムかなんて⏎おれたちにもわからないよ。	What the golems are for, we have no idea either.
+1338	071D23	FE	28		「そういえば⏎このまちのにんげんは⏎おそわないな、うん。	Come to think of it, they don't attack the people of this town, no.
+1339	071D41	FE	45		「あんたたち、おそわれたのかい?⏎ふぅん。⏎なにかあのゴーレムに⏎しかけがあるんだろうな。	You were attacked? Hmm. There must be some trick to those golems.
+1340	071D79	FE	14		「あんたたち、きをつけなよ。	You be careful.
+1341	071DA5	FE	21		「うつろなめをした⏎だんしゃくさまだよね。	The Baron with the hollow eyes, you mean.
+1342	071DBC	FE	47		「まぁあたしは、だんしゃくさま⏎よりも、あのぶかのローブのおとこ⏎のほうがきみがわるいけどね。	Well, if you ask me, that robed man under him is creepier than the Baron.
+1343	071DED	FE	42		「あのローブのおとこは⏎かおをみせたことがないよ。⏎いつもローブのなかはまっくらさ。	That robed man has never shown his face. It's always pitch black inside the robe.
+1344	071E19	FE	41		「どんなやつなのかねぇ?⏎まさか、くらいからって⏎なかみがないってことはないよね。	What kind of fellow is he, I wonder? Surely it's not that there's nothing inside, just dark.
+1345	071E4D	FE	24		「あのローブのおとこは⏎どんなやつだったんだい?	What kind of fellow was that robed man?
+1346	071E83	FE	45		「だんしゃくは、とてもつよいと⏎きいています。⏎けんをもたせたら⏎かなうあいてがいないと。	I hear the Baron is very strong. With a sword in hand, no one is a match for him.
+1347	071EB2	FE	44		「ただ、あのハイハンドラじょう⏎からめったにでてこないので⏎なかでなにをしてるのやら……	But he rarely comes out of that Hihandra Castle, so who knows what he does inside…
+1348	071EE9	FE	22		「あのだんしゃくは⏎にんげんだったのですか?	Was that Baron… human?
+1349	071F1D	FE	40		「いつごろから、あのだんしゃくが⏎ハイハンドラじょうに⏎すむようになったのか……	When did that Baron start living in Hihandra Castle, I wonder…
+1350	071F47	FE	39		「ハイハンドラ……ハイランド……⏎にてるねぇ。⏎なにかかんけいがあるのかねぇ?	Hihandra… Highland… Similar, aren't they. Is there some connection?
+1351	071F79	FE	25		「このあたりも、へいわに⏎なったよ。⏎ありがとう。	It's peaceful around here now too. Thank you.
+1352	071FB0	FE	21		「え?⏎だんしゃくのなまえかい?⏎さぁ……	What? The Baron's name? Well…
+1353	071FC7	FE	31		「このあたりで⏎だんしゃくといえば⏎あのおとこだけだからねぇ。	Around here, when you say 'the Baron', there's only that one man.
+1354	071FFC	FE	36		そういえば、あんた⏎あのだんしゃくに、どことなく⏎にてるんじゃないかい?	Come to think of it, don't you look a bit like that Baron somehow?
+1355	072022	FE	40		「ううん、とおくから、いちどみた⏎だけだから、よくわかんないけど⏎なんとなくさ。	Well, I only saw him once from a distance, so I can't be sure, but sort of.
+1356	072055	FE	38		「なんかあのだんしゃくを⏎おもいだすと、かわいそうに⏎かんじるんだけどねぇ。	Somehow, whenever I think of that Baron, I feel sorry for him.
+1357	07207D	FE	30		「べつに、あたしにかんけいが⏎あるわけじゃないんだけどねぇ…	Not that it's any of my business…
+1358	0720BD	FE	37		「おお。⏎ありがとうございます。⏎あのタロスには⏎うんざりしておりました。	Oh. Thank you. I was sick and tired of that Talos.
+1359	0720E4	FE	19		「おれいに、これを⏎さしあげましょう。	As thanks, let me give you this.
+1360	072115	FE	11		「がんばってください。	Good luck.
+1361	07215F	FE	39	ウォーレン	「おや?⏎あなたとは、いぜん、どこかで⏎あったことはありませんかな?	Warren: Oh? Haven't we met somewhere before?
+1362	072188	FE	34		「ふむ、きのせいですか。⏎しかし、なにかなつかしい⏎かんじがします。	Hm, my imagination, perhaps. But there's something nostalgic about you.
+1363	0721AC	FE	43		「あなたといっしょに⏎ちからだめしをしたくなりました。⏎おともさせていただきましょう。	I'd like to test my strength alongside you. Allow me to accompany you.
+1364	0721D9	FE	19		ウォーレンが⏎なかまにくわわりました。	Warren has joined the party.
+1365	072216	FE	41		「あなたがたのかつやくを⏎みせていただきました。⏎おれいにこれをさしあげましょう。	I saw how you fought. As thanks, let me give you this.
+1366	07224B	FE	33		「へっへっへ、みてたぜ。⏎たすかったよ。⏎あのタロスがこわくてね。	Heh heh heh, I saw that. You saved me. I was scared of that Talos.
+1367	07226E	FE	34		「これで、ではいりじゆうに⏎なったってわけだ。⏎これは、おれいだよ。	Now I can come and go freely. This is my thanks.
+1368	0722DE	FE	26		「ほう。⏎あのタロスをたおすとは⏎たいしたもんじゃ。	Oh. Defeating that Talos… impressive.
+1369	0722FA	FE	15		「おれいにこれをさしあげよう。	As thanks, let me give you this.
+1370	07232F	FE	21		あのタロスをたおすとは⏎たいしたもんじゃ。	Defeating that Talos… impressive.
+1371	07234F	FE	41		「くろいローブのものたちは⏎ひとのちからのおよばぬまほうを⏎てにしているようです。	The ones in black robes seem to have magic beyond human power.
+1372	07237A	FE	36		「あやつらにとっては⏎したいを、うごかすことなど⏎かんたんなのでしょう。	For them, moving a corpse must be a simple matter.
+1373	0723A0	FE	46		「しかし、したいをうごかすことと⏎したいを、よみがえらせることは⏎まったくべつのはなしです。	But moving a corpse and bringing it back to life are entirely different things.
+1374	0723ED	FE	36		「ゴーレムたちをつくりだして⏎まちにおいたのは⏎くろいローブのものです。	It was the black-robed ones who created the golems and placed them in the towns.
+1375	072413	FE	28		「あのものたちのじゅつは⏎かなりきょうりょくなようです。	Their arts seem to be quite powerful.
+1376	072431	FE	50		「ひょっとしたら、べつのものから⏎ひとをつくりだすようなわざでさえ⏎も、あやつらならかのうなのかも…	Perhaps they could even create a person out of something else…
+1377	072465	FE	39		「いや、いくらなんでも、これは⏎あくまのしょぎょうですな。⏎わすれてください。	No, that would be the work of demons. Forget I said it.
+1378	0724CB	FE	29	ベルゴ	「くっ。⏎おれさまのじゃまをしてるのは⏎きさまらか。	Bergo: Tch. So you're the ones getting in my way.
+1379	0724EA	FE	33		「やみのきしから⏎たかいかねをつまれて⏎こっちはがんばってるんだ。	The Knight of Darkness pays me handsomely, so I'm working hard here.
+1380	07250D	FE	35		「もっとも、にげまどう⏎ガキどもをやきころすのは⏎きぶんがいいけどな。	Though burning the brats to death as they run around screaming does feel good.
+1381	072532	FE	22		「おまえらもひとつ⏎こんがりとやいてやろう。	Let me roast you lot nice and crisp too.
+1382	072553	FE	38	ハヤト	「なるほど、あなたですか。⏎これはちょっと…⏎ゆるせないはなしですね。	Hayato: I see, so it's you. This is something… I can't let pass.
+1383	072584	FE	21	アクエリアス	「ざんこくなことを…⏎かみよ…	Aquarius: Such cruelty… Oh God…
+1384	0725A4	FE	33	ゴールディ	「あんたには…⏎つぐないということを⏎おしえてやるよッ!	Goldie: I'll teach you… what atonement means!
+1385	07260D	FE	36		「ベルゴがいなくなったけど⏎ドラゴンがひとをおそうのは⏎かわってないよ。	Bergo is gone, but the dragons still attack people, same as before.
+1386	07263C	FE	30		「このあたりは、ふるくから⏎かいぶつがおおかったのですがな。	This area has had many monsters since old times.
+1387	07265C	FE	32		「いぜんは⏎おとなしかったのですが……⏎なにがあったのですかな?	They used to be docile, though… What could have happened?
+1388	07268F	FE	39		「ベルゴはおそろしいおとこじゃ。⏎じぶんのよくぼうのためなら⏎なんでもしよる。	Bergo is a frightening man. He'll do anything for his own desires.
+1389	0726B8	FE	31		「あんなおとこにつかわれておる⏎ドラゴンもかわいそうじゃのう。	I feel sorry for the dragons being used by a man like that.
+1390	0726E4	FE	36		「ベルゴがいなくなったけど⏎ドラゴンがひとをおそうのは⏎かわってないよ。	Bergo is gone, but the dragons still attack people, same as before.
+1391	07271B	FE	38		「はんとしまえに、とつぜんだよ。⏎ドラゴンとかグリフォンが⏎おそってきてさ。	It was sudden, half a year ago. Dragons and griffons started attacking.
+1392	072743	FE	19		「かざんのふんかとかが⏎げんいんかな?	Maybe the volcanic eruptions are the cause?
+1393	07275B	FE	19		「さいきん、へんなことが⏎おおいよな。	There's been a lot of strange things lately, hasn't there.
+1394	072771	FE	36		「ベルゴがいなくなったけど⏎ドラゴンがひとをおそうのは⏎かわってないよ。	Bergo is gone, but the dragons still attack people, same as before.
+1395	0727A4	FE	47		「ベルゴよ、ドラゴンマスターの。⏎あいつがあらわれてから、あちこち⏎おそわれるようになってさ。	Bergo, the dragon master. Ever since he appeared, places everywhere have been attacked.
+1396	0727D5	FE	34		「このあたりでも⏎いっかみなごろしにあったところは⏎すくなくないよ。	Around here too, more than a few families were slaughtered.
+1397	0727F9	FE	20		「たのむよ⏎あいつをやっつけておくれよ…	Please, take him down for us…
+1398	072810	FE	29		「あんたたちが⏎かたきをとってくれたんだね。⏎ありがとう。	You took revenge for us. Thank you.
+1399	07286B	FE	31		「まちのなかに⏎かいぶつどもがはいるのは⏎ふせげたんだけどね。	We managed to keep the monsters from getting inside the town, though.
+1400	07288C	FE	35		「とりかこまれたように⏎なっていたんで、どうしょうも⏎なかったんだよ。	But it was like being surrounded, so there was nothing we could do.
+1401	0728B1	FE	43		「うっかりとまちのそとに⏎でていって、かいぶつに、かじられ⏎でもしたら、いたいもんね。	If you carelessly went outside town and got chewed on by a monster, that would hurt.
+1402	0728DE	FE	32		「もちろん⏎きられても、いたいけどさ。⏎いたいのは、いやだよね。	Of course, getting cut hurts too. I don't like pain.
+1403	072900	FE	21		「でも、これでボクのやくめも⏎おわりかな。	But I guess my job here is done now.
+1404	072917	FE	26		「ねぇ?⏎どうだろう?⏎ボクをやとってくれないかな?	Say? What do you think? Would you hire me?
+1405	072933	FE	30		「いたいのはいやだけど⏎いきていくには⏎おかねがいるからね。	I don't like pain, but you need money to live.
+1406	072955	FC	15		「50000ゴートでどうだい?	How about 50000 Goth?
+1407	072969	FE	48		「まぁしょうがないか。ボクはもう⏎しばらくここにいるから、やとえる⏎ようになったら、またきてね。	Well, can't be helped. I'll be here a while longer, so come back when you can hire me.
+1408	0729AC	FE	14		「ああ、おかねがたりないね…	Ah, you don't have enough money…
+1409	0729CC	FE	22		「でも、これいじょう⏎「やとえなさそうだね…	But it looks like you can't hire anyone else…
+1410	0729EC	FE	23		「ああ、ありがたい。⏎またごはんをたべられる。	Ah, I'm grateful. I'll be able to eat again.
+1411	072A05	FE	14		「じゃあ、よろしくたのむね。	Then, I'm in your hands.
+1412	072A15	FE	17		ハヤトが⏎なかまにくわわりました。	Hayato has joined the party.
+1413	072A5D	FE	36		「ベルゴがいなくなったけど⏎ドラゴンがひとをおそうのは⏎かわってないよ。	Bergo is gone, but the dragons still attack people, same as before.
+1414	072A98	FE	28		「ハヤトってサムライを⏎しってるかい?⏎かれはすごいよ。	Do you know a samurai called Hayato? He's amazing.
+1415	072AB6	FE	41		「たたかってるのをいちどだけ⏎みたんだけどさ。いちげきで⏎ドラゴンをまっぷたつさ。	I only saw him fight once. He split a dragon clean in two with a single stroke.
+1416	072AE1	FE	21		「あれだけつよいおとこは⏎そうはいないね。	There aren't many men that strong.
+1417	072AFB	FE	22		「ベルゴをだれか⏎やっつけてくれないかねぇ。	Won't someone take care of Bergo?
+1418	072B14	FE	36		「ベルゴがいなくなったけど⏎ドラゴンがひとをおそうのは⏎かわってないよ。	Bergo is gone, but the dragons still attack people, same as before.
+1419	072B3A	FE	21		「そりゃ、まえより⏎すこしはマシだけどね。	Well, it's a little better than before, at least.
+1420	072BC1	FE	16		「なんかかっていってくれんかね?	Won't you buy something?
+1421	072BDE	FE	16		「なんかかっていってくれんかね?	Won't you buy something?
+1422	072C01	FE	38		「ああ、たすかった。⏎ドラゴンつかいのベルゴに⏎おそわれてばかりだったんだ。	Ah, you saved us. We were constantly being attacked by Bergo the dragon tamer.
+1423	072C29	FE	20		「これはおれいだよ。⏎もっていってくれ。	This is my thanks. Take it with you.
+1424	072C53	FE	11		「ああ、たすかった。⏎	Ah, you saved us.
+1425	072C71	FE	43		「このあたりは、かざんが⏎おおくてね。⏎しまがおおいと⏎どうしてもそうなるみたいだな。	There are a lot of volcanoes around here. With so many islands, that's how it goes, it seems.
+1426	072C9E	FE	47		「このむらのやしろにまつってある⏎ドラゴンメイルだが、かざってる⏎だけじゃどうしょうもないな。	The Dragon Mail enshrined at this village's shrine is no use just sitting on display.
+1427	072CCF	FE	46		「あんたらがやくにたててくれよ。⏎どうやっても、もやすことが⏎できないがんじょうなよろいさ。	Put it to use for us. It's a sturdy armor that can't be burned no matter what.
+1428	072D3F	FE	45		「このまちは、まもりだけはつよい⏎ので、ドラゴンどものしんにゅうは⏎ふせいでいたのですが。	This town's defenses are strong, so we kept the dragons from getting in.
+1429	072D6E	FE	33		「わたしたちのちからだけでは⏎おいはらうことは⏎できませんでした。	But with our strength alone, we couldn't drive them off.
+1430	072D91	FE	31		「こんなぶきを⏎つくってみたのですが⏎あつかうのがむずかしく…	We tried making a weapon like this, but it's hard to handle…
+1431	072DB2	FE	16		「どうぞ、もっていってください。	Please, take it with you.
+1432	072DCE	FE	22		「このまちは⏎ぶぐしょくにんのまちでしてな。	This is a town of armorers.
+1433	072DE6	FE	41		「りっぱなかたには、それなりの⏎かっこうをしていただきたいと⏎おもっておりますが…	We feel that fine people ought to be dressed accordingly…
+1434	072E1A	FE	22		「このまちは⏎ぶぐしょくにんのまちでしてな。	This is a town of armorers.
+1435	072E3F	FE	44		「ベルゴのざんぎゃくさは⏎めにあまります。⏎われわれの⏎いのりもちからぶそくのようです。	Bergo's cruelty is beyond bearing. Our prayers seem powerless against it.
+1436	072E6D	FE	38		「やみのきしにたのまれて⏎さわぎをおこしているだけという⏎うわさもあります。	There's also a rumor that he's only causing trouble at the request of the Knight of Darkness.
+1437	072E95	FE	15		「どうか、おきをつけください。	Please, be careful.
+1438	072EA7	FE	15		「やすらぎをえられますように…	May you find peace…
+1439	072EC9	FE	29		「わがきょうかいには⏎ふるくからつたわる⏎ぶぐがあります。	Our church has a piece of armor handed down since ancient times.
+1440	072EE8	FE	38		「いつか、かみのつかいが⏎やってきて、つかわれるものと⏎いわれておりました。	It was said that one day a messenger of God would come and use it.
+1441	072F10	FE	35		「あなたがたこそ⏎かみのつかいかもしれません。⏎これをおもちください。	Perhaps you are the messengers of God. Please take this.
+1442	072F40	FE	16		「かみのごかごがありますように…	May God's protection be with you…
+1443	072F81	FE	33		「うむ…なにもいわなくとも⏎わかります。⏎これをもっていきなされ。	Mm… no need to say anything, I understand. Take this with you.
+1444	072FB2	FE	27		「うむ…なるほどのぉ。⏎めはこころのまどともうします…	Mm… I see. They say the eyes are the windows of the soul…
+1445	072FCF	FE	8		「なるほどのぉ…	I see…
+1446	072FE2	FE	16		「かみのごかごがありますように…	May God's protection be with you…
+1447	073021	FE	34		「いつか…⏎そうとおくない、しょうらい…⏎しんじつの、ときのなかで…	Someday… in a not-so-distant future… within the time of truth…
+1448	073045	FE	23		…⏎あなたがたには⏎これをさしあげましょう…。	… Let me give you this…
+1449	073118	FE	28	ギルバルト	「まて!⏎カノープス!⏎このオレをわすれたか!	Gilbard: Wait! Canopus! Have you forgotten me?!
+1450	073136	FE	21	カノープス	「ギルバルト!⏎なぜ、おまえが?	Canopus: Gilbard! Why are you here?
+1451	07314D	FE	30	ギルバルト	「おまえのいもうと⏎ユーリアからのてがみをよんだ。	Gilbard: I read the letter from your sister Yuria.
+1452	07316D	FE	32		「ついに…⏎しんのへいわをめざすときが⏎やってきたのかもしれん。	At last… the time to seek true peace may have come.
+1453	07318F	FE	36	カノープス	「しんのへいわか…⏎それがほんとうかどうか⏎オレにはわからん。	Canopus: True peace, huh… Whether that's real or not, I can't say.
+1454	0731B5	FE	37		「しかし、おまえのいうことだ。⏎ここはおまえをしんじて⏎このみをたくそう。	But if you say so, I'll trust you and put my life in your hands.
+1455	0731DC	FE	19		カノープスが⏎なかまにくわわりました。	Canopus has joined the party.
+1456	073225	FE	42	アーレス	「やれやれ、オレもやきが⏎まわったな。あんたらみたいのに⏎やられちまうとは。	Ares: Good grief, I must be losing my edge. Beaten by the likes of you.
+1457	073251	FE	49		「ん?⏎つよいやつをあつめている⏎のか?⏎なるほど、それならオレは⏎どうだ。⏎かなりやくにたつぜ。	Hm? You're gathering strong fighters? I see. In that case, how about me? I'd be quite useful.
+1458	073284	FE	29		「よし、きまりだ。⏎きょうからは、なかまだ。⏎よろしくな。	Right, it's decided. From today, we're comrades. Pleased to meet you.
+1459	0732A3	FE	18		アーレスが⏎なかまにくわわりました。	Ares has joined the party.
+1460	0732D5	FE	22		グングニルが1めい⏎なかまにくわわりました。	One Gungnir has joined the party.
+1461	07330F	FE	22		トルーパーが1めい⏎なかまにくわわりました。	One Trooper has joined the party.
+1462	095357	FE	19		セーブするエリアをえらんでください。⏎	Please choose a save area.
+1463	0995C8	FE	15		わたしのなまえはウォーレン。⏎	My name is Warren.
+1464	0995D9	FE	44		てんくうにうかぶあまたのほしぼしより⏎ひとのうんめいをかいまみる⏎せんせいじゅつし…。⏎	An astrologer who glimpses the fates of men in the countless stars above…
+1465	099607	FE	49		これより、あなたがわれらのリーダーに⏎ふさわしいかどうかを⏎このタロットでうらなってみましょう。⏎	Now, with these tarot cards, let us see whether you are fit to be our leader.
+1466	09963A	FE	28		そのまえに、まずあなたのなまえを⏎おしえてください…。⏎	But first, tell me your name…
+1467	099659	FE	16		それではうらなってみましょう。⏎	Now, let us begin the reading.
+1468	09966C	FE	41		では、さいごにあなたじしんのてで⏎タロットカードを1まいだけえらん⏎でください。⏎	Finally, choose one tarot card with your own hand.
+1469	099698	FE	37		せいなるかみがみよ、われらがリーダー⏎に⏎ゆうきとせいぎをあたえたまえ。⏎	Holy gods, grant our leader courage and justice.
+1470	0996BF	FE	22		そしてわれらに⏎えいこうとしょうりをッ!!⏎	And grant us glory and victory!!
+1471	09971A	FE	52		あなたは、おうさまからまほうのくすり⏎をつくるようにめいれいされました。⏎どんなくすりをつくりますか?⏎	The king has ordered you to brew a magic potion. What kind of potion will you make?
+1472	09978E	FE	47		ひととして、してはならないことのなか⏎で、いちばんたいせつだとおもうのは⏎どんなことですか?⏎	Of the things one must never do, which do you consider the gravest?
+1473	0997F8	FE	53		あなたが、せかいをしはいしとうちする⏎ために、おうじゃとしてたりないと⏎おもうのは、どんなところですか?⏎	To rule and govern the world, what do you feel you lack as a king?
+1474	099858	FE	47		あなたが、おうじゃにのぞむ、⏎さいていでもひつようとおもわれる⏎ししつは、どんなものですか?⏎	What is the one quality a king must have above all else?
+1475	0998B3	FE	55		じぶんとしそうのことなるたにんを⏎しどうするのはむずかしいもの。あなた⏎は、しどうしゃになにをもとめますか?⏎	Leading those whose ideals differ from yours is hard. What do you ask of a leader?
+1476	099911	FE	56		りそうどおりのこいびとを⏎みつける⏎ことは、なかなかできません。こいびと⏎に、いちばんのぞむものはなんですか?⏎	Finding the ideal lover is no easy thing. What do you desire most in a lover?
+1477	099977	FE	57		しそうのことなるいくつかのみんぞくを⏎たばねるために、なにでしはいするのが⏎1ばんよいほうほうだとおもいますか?⏎	To unite peoples of differing beliefs, what is the best means of rule?
+1478	0999E0	FE	46		あなたにとって、きしどうをつらぬくと⏎いうことは、なにをおもんじることだと⏎おもいますか?⏎	To you, what does upholding the code of chivalry mean valuing most?
+1479	099A31	FE	52		はげしいたたかいのすえ、ざんねんにも⏎あなたのしきするぐんたいはまけてしま⏎いました。そのげんいんは?⏎	After a fierce battle, the army under your command has been defeated. The cause?
+1480	099A94	FE	46		しょうぶはときのうん⏎といわれますが⏎あなたはうんめいを、どのように⏎かんがえていますか?⏎	They say victory is a matter of luck. How do you see fate?
+1481	099AFE	FE	53		ひとのちょうしょをうつしだすという⏎おおきなカガミが1まいあります。⏎あなたのなにを、うつしていますか?⏎	There is a great mirror said to reflect a person's strengths. What of yours does it show?
+1482	099B57	FE	53		あなたのミスがもとで、あなたのぐんは⏎たいきゃくしなければなりません。⏎あなたはなにを、かんがえますか?⏎	Because of your mistake, your army must retreat. What goes through your mind?
+1483	099BCB	FE	44		あなたのしんらいする、なかまのなかに⏎うらぎりものがいました。⏎あなたはどうしますか?⏎	A traitor was found among your trusted companions. What will you do?
+1484	099C33	FE	45		あなたのまえに、かみのつかいを⏎なのるものが、あらわれました。⏎それはどんなひとですか?⏎	One claiming to be a messenger of the gods appears before you. What is this person like?
+1485	099C97	FE	57		あなたによびだされたあくまはねがいを⏎きくかわりに、あなたのたいせつなもの⏎を、ようきゅうしてきました。それは?⏎	The demon you summoned will grant your wish, but demands something precious in return. What is it?
+1486	099CF5	FE	51		あなたのおさめるおうこくないで、⏎いきょうとたちが、はんらんをおこし⏎ました。あなたはどうしますか?⏎	Heretics have risen in revolt within your kingdom. What will you do?
+1487	099D65	FE	55		たたかいのぜんや、よぞらをいくつもの⏎りゅうせいがひがしにむかって、おちて⏎いきました。なにをねがいますか?⏎	On the eve of battle, shooting stars streak across the night sky toward the east. What do you wish for?
+1488	099DD2	FE	49		たたかいのぜんや、そらにうかぶ⏎まんげつは、あなたのこころを⏎なごませます。なにをおもいますか?⏎	On the eve of battle, the full moon soothes your heart. What do you think of?
+1489	099E35	FE	53		あなたはたたかいのすえ、ついに⏎しょうりを、てにすることができました⏎あなたはなにに、かんしゃしますか?⏎	After a hard battle, victory is finally yours. What do you give thanks to?
+1490	099E9F	FE	50		せんかのなかで、かぞくのなかから⏎ひとりだけしかすくえないとしたら⏎あなたはだれを、たすけますか?⏎	If, amid the flames of war, you could save only one of your family, whom would you save?
+1491	099F02	FE	54		たのきしたちに、おろかなふるまいを⏎つつしむように、めいれいしました。⏎とくにちゅういしておきたいことは?⏎	You have ordered your knights to refrain from foolish conduct. What do you stress above all?
+1492	099F71	FE	56		たたかいのぜんや、ともにたたかうきし⏎たちと、わかれのワインをくみかわして⏎います。グラスのワインのりょうは?⏎	On the eve of battle, you share a parting cup of wine with your fellow knights. How full is your glass?

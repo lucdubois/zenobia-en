@@ -1,0 +1,191 @@
+index	rom_addr	header	japanese	english
+0	016836			
+1	016836	09280000	キュアポーション	Cure Potion
+2	016842	01460000	キュアストーン	Cure Stone
+3	01684D	01c80000	ソウルコール	Soul Call
+4	016857	03440000	エコーのチャイム	Echo Chime
+5	016863	02c80000	キュアアンク	Cure Ankh
+6	01686D	051e0500	ワンダーエッグ	Wonder Egg
+7	016878	05680100	まんげつのいし	Full Moon Stone
+8	016883	05c80000	ジョーカーのふだ	Joker Card
+9	01688F	03c80000	リターンハーフ	Return Half
+10	01689A	05c40900	ダウジングロッド	Dowsing Rod
+11	0168A6	05010000	トレードチケット	Trade Ticket
+12	0168B2	052c0100	オールサモンズ	All Summons
+13	0168BD	03881300	ラブアンドピース	Love and Peace
+14	0168C9	032c0100	7リーグブーツ	7-League Boots
+15	0168D4	050a0000	トロイのもくば	Trojan Horse
+16	0168DF	05900100	やみのかおり	Dark Scent
+17	0168E9	05900100	ひかりのささやき	Light Whisper
+18	0168F5	0d100e00	クリスタルボール	Crystal Ball
+19	016901	189033800d	ソニックブレード	Sonic Blade
+20	01690E	189c36800c	デュランダル	Durandal
+21	016919	182c33800b	ビゼンオサフネ	Bizen Osafune
+22	016925	18e060c00f03	ゼピュロス	Zephyros
+23	016930	18c43bc01404	ファフニール	Fafnir
+24	01693C	1d1a318012	ザンジバル	Zanzibar
+25	016946	1d76898014	ブリュンヒルド	Brunhild
+26	016952	101e008003	くろぬりのカタナ	Black Katana
+27	01695F	1044008004	つらぬきのつるぎ	Piercing Sword
+28	01696C	10cc018008	ソードオブミカド	Mikado Sword
+29	016979	10b004800b	はしゃのごうけん	Conqueror Sword
+30	016986	103408800f	コクおうのつるぎ	Black King Sword
+31	016993	10c0128014	オウガブレード	Ogre Blade
+32	01699F	11aa008006	ほむらのつるぎ	Flame Sword
+33	0169AB	11280a800c	ムサシズブレード	Musashi Blade
+34	0169B8	11620cc00f03	イスケンデルベイ	Iskenderbey
+35	0169C6	122d008003	こおりのシミター	Ice Scimitar
+36	0169D3	12af008007	アイスブレード	Ice Blade
+37	0169DF	12c805800b	ペリダートソード	Peridot Sword
+38	0169EC	1ab833c00f03	エウロス	Euros
+39	0169F6	1aac0d810f14	クイックソード	Quick Sword
+40	016A03	12300cc012fc	マラカイトソード	Malachite Sword
+41	016A11	1352038007	スムマーヌス	Summanus
+42	016A1C	13f631c00f03	ノトス	Notos
+43	016A25	1304108013	シグムンド	Sigmund
+44	016A2F	1034008004	おれたまけん	Broken Sword
+45	016A3A	10d4018008	しのかぎづめ	Death Claw
+46	016A45	108a02c00803	イービルブレード	Evil Blade
+47	016A53	108016c018f0	レリクスソード	Relics Sword
+48	016A60	1548008005	せいりゅうのつめ	Azure Claw
+49	016A6D	15b80bc0080a	かみやどりのけん	Godsword
+50	016A7B	154808800f	クサナギブレード	Kusanagi Blade
+51	016A88	15b40f8011	カラドボルグ	Caladbolg
+52	016A93	20a4018007	りゅうきしのやり	Dragoon Spear
+53	016AA0	205a05800c	ベンケイグレイブ	Benkei Glaive
+54	016AAD	29ac0d90140c	アダマントランス	Adamant Lance
+55	016ABB	227a0dc00e07	オズリックスピア	Osric Spear
+56	016AC9	2326028009	サンダースピア	Thunder Spear
+57	016AD5	2dac0d81120f	ホワイトランス	White Lance
+58	016AE2	39e803800b	ようがんのおの	Lava Axe
+59	016AEE	39a2358011	ボレアス	Boreas
+60	016AF7	32ce04800b	いてついたせんぷ	Frozen Cyclone
+61	016B04	301c07c010f8	あんこくのせんぷ	Dark Cyclone
+62	016B12	350a0a800f	ルーンアックス	Rune Axe
+63	016B1E	400f008003	バトルファン	Battle Fan
+64	016B29	4132004003	しゃくねつのつえ	Scorching Staff
+65	016B36	4990014008	ほのおのロッド	Flame Rod
+66	016B42	4178008004	フレイムフレイル	Flame Flail
+67	016B4F	43d2008006	らいじんのムチ	Raijin Whip
+68	016B5B	407003c00cfc	デビルハンマー	Devil Hammer
+69	016B68	45af018008	クーカイのロッド	Kukai Rod
+70	016B75	45c602c00207	しんぴのメイス	Mystic Mace
+71	016B82	4d5230400e	リプルズロッド	Ripple Rod
+72	016B8E	4de803810b08	ぎんのロッド	Silver Rod
+73	016B9A	4ddc05810e09	ホーリーロッド	Holy Rod
+74	016BA7	58ac0da00f0f	シールドボウ	Shield Bow
+75	016BB3	53b2008007	ライトニングボウ	Lightning Bow
+76	016BC0	504200c00302	ダークダーツ	Dark Darts
+77	016BCC	6048001c030303	せいれいのごふ	Spirit Charm
+78	016BDA	60b414c30b05100e	エルダーサイン	Elder Sign
+79	016BE9	68a438ff0cf60a0f040d04fa	きりゅうのツノ	Mist Dragon Horn
+80	016BFC	612c011005	ベルオブフレイム	Bell of Flame
+81	016C09	61f005b0040608	ヒドラのきば	Hydra Fang
+82	016C16	622c010805	ベルオブコールド	Bell of Cold
+83	016C23	62a00a48070c	ビャッコのきば	Byakko Fang
+84	016C30	62800c580bf80e	ゆきのオーブ	Snow Orb
+85	016C3D	632c010405	ベルオブサンダー	Bell of Thunder
+86	016C4A	63b806840611	いかずちのオーブ	Thunder Orb
+87	016C58	60f005c308fc0df0	あんこくのごふ	Dark Charm
+88	016C67	68f401410303	くろいじゅうじか	Black Cross
+89	016C75	652c010103	ヤドリギのハ	Mistletoe Leaf
+90	016C80	65241361100717	だいてんしのはね	Archangel Wing
+91	016C8F	6df401410202	てつのロザリオ	Iron Rosary
+92	016C9C	6df401410202	しろいじゅうじか	White Cross
+93	016CAA	706c07c012f9	リングオブパワー	Ring of Power
+94	016CB8	701405c0f410	ことだまのゆびわ	Kotodama Ring
+95	016CC6	719c0490060e	かりゅうのゆびわ	Fire Dragon Ring
+96	016CD4	73640585030f06	らいめいのゆびわ	Thunder Ring
+97	016CE3	708809430b13f5	らくいんのゆびわ	Brand Ring
+98	016CF2	70ec13831511f1	ルシファーリング	Lucifer Ring
+99	016D01	75d60661050c0e	かごのゆびわ	Blessing Ring
+100	016D0E	801f00a00202	バトルビューグル	Battle Bugle
+101	016D1C	902d00220302	ニンジャガーブ	Ninja Garb
+102	016D29	9044002005	サムライアーマー	Samurai Armor
+103	016D36	9051002007	メイルオブネイル	Mail of Nail
+104	016D43	900c03200c	おうごんのよろい	Golden Armor
+105	016D50	90800c211007	メイルオブアース	Mail of Earth
+106	016D5E	99ac0d101e	ドラゴンメイル	Dragon Mail
+107	016D6A	91f60430070b	ホウオウのローブ	Phoenix Robe
+108	016D78	9a0807280b10	スノーマント	Snow Mantle
+109	016D84	906200230804fd	しっこくのよろい	Jet Black Armor
+110	016D93	90000a230d11f5	しにがみのマント	Reaper Mantle
+111	016DA2	954800210403	セイントのガーブ	Saint Garb
+112	016DB0	95720121050d	せいやくのせいふ	Vow Vestment
+113	016DBE	a01c002002	かいぞくのかぶと	Pirate Helm
+114	016DCB	a02000210301	ぎんのヘルメット	Silver Helmet
+115	016DD9	a0b400210308	ぎんのティアラ	Silver Tiara
+116	016DE6	a0b30119070b05	しんぴのベール	Mystic Veil
+117	016DF4	a0dc052011	はおうのかんむり	Conqueror Crown
+118	016E01	a12b001806fc	バーニングバンド	Burning Band
+119	016E0F	a2260018f707	こおりのバンダナ	Ice Bandana
+120	016E1D	a30e01240508	らいめいのヘルム	Thunder Helm
+121	016E2B	a04001230408fa	デビルマスク	Devil Mask
+122	016E38	a56d0121070d	ホーリークラウン	Holy Crown
+123	016E46	b014002002	てっけんのこて	Iron Fist Glove
+124	016E52	b35800240304	サンダーグラブ	Thunder Glove
+125	016E5F	c078002006	スパイクシールド	Spike Shield
+126	016E6C	c03c053813f8fb	こんじょうのたて	Guts Shield
+127	016E7B	c0d002210e07	みがわりのたて	Decoy Shield
+128	016E88	c02c1a221215	オウガシールド	Ogre Shield
+129	016E95	c11c0230090c	しゃくねつのたて	Scorch Shield
+130	016EA3	c2760228080f	コールドシールド	Cold Shield
+131	016EB1	c3580224070e	らいじゅうのたて	Nue Shield
+132	016EBF	01d00700	ドラゴストーン	Dragostone
+133	016ECA	01900600	ししゃのつえ	Staff of Dead
+134	016ED4	01b80b00	ししゃのゆびわ	Ring of Dead
+135	016EDF	01381800	ブラッドスペル	Blood Spell
+136	016EEA	01c01200	ドリームクラウン	Dream Crown
+137	016EF6	01010000	くさったカボチャ	Rotten Pumpkin
+138	016F02	01dc0500	くろのらくいん	Black Brand
+139	016F0D	01d80e00	かたいぼくとう	Hard Bokuto
+140	016F18	01fc0800	しろきちかい	White Oath
+141	016F22	01fc0800	くろきちかい	Black Oath
+142	016F2C	09140500	キャッツトンガ	Cat Tongue
+143	016F37	013c0f00	シルバークロス	Silver Cross
+144	016F42	01500500	ゆうしゃのかけら	Hero Shard
+145	016F4E	01d00700	からだのみなもと	Body Essence
+146	016F5A	01dc0500	ソードシンボル	Sword Symbol
+147	016F65	01a40600	スピードギア	Speed Gear
+148	016F6F	01dc0500	マグスペーパー	Mage Paper
+149	016F7A	01e80300	ハートオブレオ	Heart of Leo
+150	016F85	01e80300	こころのかがみ	Heart Mirror
+151	016F90	01340800	うんめいのうつわ	Vessel of Fate
+152	016F9C	08010000	ガラスのカボチャ	Glass Pumpkin
+153	016FA8	08010000	ティンクルスター	Twinkle Star
+154	016FB4	08e80300	シルバードール	Silver Doll
+155	016FBF	08d00700	しろいめがみぞう	Goddess Statue
+156	016FCB	08e80300	いかずちのいし	Thunder Stone
+157	016FD6	08c80000	どうのおとめぞう	Bronze Maiden
+158	016FE2	08e80300	きよめたルビー	Pure Ruby
+159	016FED	08d00700	こはくのナイフ	Amber Knife
+160	016FF8	08f40100	にじのチョーカー	Rainbow Choker
+161	017004	08010000	ユーリアのてがみ	Yuria Letter
+162	017010	0df40100	カオスアップ	Chaos Up
+163	01701A	0df40100	カオスダウン	Chaos Down
+164	017024	00f40100	ゲージアップ	Gauge Up
+165	01702E	00f40100	ゲージダウン	Gauge Down
+166	017038	00640000	トルネード	Tornado
+167	017041	00780000	ペドロブレス	Petrobless
+168	01704B	00500000	ファイアーボール	Fireball
+169	017057	005a0000	ブリザード	Blizzard
+170	017060	00640000	ライトニング	Lightning
+171	01706A	005a0000	ナイトメア	Nightmare
+172	017073	00b00400	チャーム	Charm
+173	01707B	00080700	バニッシュ	Banish
+174	017084	00320000	ヒーリング	Healing
+175	01708D	00c80000	しんかい	Deep Sea
+176	017095	00c80000	そうげん	Grassland
+177	01709D	00c80000	せつげん	Snowfield
+178	0170A5	00c80000	しんりん	Forest
+179	0170AD	00c80000	あれち	Wasteland
+180	0170B4	00c80000	しっち	Marsh
+181	0170BB	00c80000	やま	Mountain
+182	0170C1	00c80000	ゆきやま	Snow Mountain
+183	0170C9	00c80000	かざん	Volcano
+184	0170D0	00c80000	がけ	Cliff
+185	0170D6	00c80000	さばく	Desert
+186	0170DD	00c80000	きょてん	Base
+187	0170E5	002c0100	ひかり	Light
+188	0170EC	002c0100	やみ	Dark
+189	0170F2	08010000	みらいへのきずな	Future Bond

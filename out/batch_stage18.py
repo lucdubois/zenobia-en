@@ -1,0 +1,16 @@
+T={
+'073021':"Someday… in a not-so-distant future… within the time of truth…",
+'073045':"… Let me give you this…",
+'073136':"Canopus: Gilbard! Why are you here?",
+'07314D':"Gilbard: I read the letter from your sister Yuria.",
+'07316D':"At last… the time to seek true peace may have come.",
+'07318F':"Canopus: True peace, huh… Whether that's real or not, I can't say.",
+'0731B5':"But if you say so, I'll trust you and put my life in your hands.",
+'0731DC':"Canopus has joined the party.",
+'073225':"Ares: Good grief, I must be losing my edge. Beaten by the likes of you.",
+'073251':"Hm? You're gathering strong fighters? I see. In that case, how about me? I'd be quite useful.",
+'073284':"Right, it's decided. From today, we're comrades. Pleased to meet you.",
+'0732A3':"Ares has joined the party.",
+'0732D5':"One Gungnir has joined the party.",
+'07330F':"One Trooper has joined the party.",
+}

@@ -1,0 +1,23 @@
+id	cmd_addr	japanese	english
+00	099750	Aどくやく。 | Bおおがねもちになるくすり。 | Cふろうふしのくすり。	A: Poison | B: Wealth potion | C: Eternal life
+01	0997BF	Aたにんをあざむくこと。 | Bたにんをぎせいにすること。 | Cたにんのものをぬすむこと。	A: Deceiving | B: Sacrificing | C: Stealing
+02	09982F	Aはってんせい。 | Bのうりつせい。 | Cじっこうせい。	A: Growth | B: Efficiency | C: Decisiveness
+03	099889	Aじっこうりょく。 | Bしどうりょく。 | Cしはいりょく。	A: Initiative | B: Leadership | C: Authority
+04	0998EC	Aじひしん。 | Bじそんしん。 | Cせいぎしん。	A: Compassion | B: Pride | C: Justice
+05	09994B	Aやさしさ。 | Bきよらかさ。 | Cがいけんてきなうつくしさ。	A: Kindness | B: Purity | C: Beauty
+06	0999B2	Aぐんじりょく。 | Bしゅうきょう。 | Cじんぼう、カリスマせい。	A: Military might | B: Religion | C: Charisma
+07	099A10	Aせいぎ。 | Bめいよ。 | Cしんねん。	A: Justice | B: Honor | C: Conviction
+08	099A67	Aせんりょくぶそく。 | Bしどうりょくのふび。 | Cときのうん。	A: Weak forces | B: Bad leadership | C: Bad luck
+09	099AC4	Aじぶんできりひらくもの。 | Bのがれられないもの。 | Cふうんとこううんはひょうり1たい	A: You forge it | B: Inescapable | C: Two-sided coin
+10	099B35	Aたいりょく。 | Bちせい。 | Cモラル。	A: Strength | B: Intellect | C: Morals
+11	099B8E	Aじぶんのミスをくやむ。 | Bせきにんをとってしきかんをおりる | Cうんめいだったとあきらめる。	A: Regret it | B: Step down | C: Accept fate
+12	099BF9	Aムチうち200かい。 | Bうでをきり、えいきゅうついほう。 | Cうらぎりものには、しを。	A: 200 lashes | B: Maim and exile | C: Death
+13	099C62	Aつえをついたろうじん。 | Bみなりのよくないわかもの。 | Cうつくしいむすめ。	A: Old man | B: Shabby youth | C: Fair maiden
+14	099CD2	Aぜんざいさん。 | Bいのち。 | Cかぞく。	A: All my wealth | B: My life | C: My family
+15	099D2A	Aわかいのためししゃをはけん。 | Bぐんたいをはけん。 | Cおしえにしたがい、おういをわたす	A: Send an envoy | B: Send the army | C: Give up throne
+16	099D9E	Aわれらに、こううんを。 | Bわれらに、ゆうきを。 | Cわれらに、しょうりを。	A: Good fortune | B: Courage | C: Victory
+17	099E05	Aたたかいのゆくすえ。 | Bのこしてきたかぞく。 | Cいとしいこいびと	A: The battle | B: Family at home | C: My beloved
+18	099E6C	Aじぶんのこううんに。 | Bともにたたかったなかまに。 | Cかみのごかごに。	A: My own luck | B: My comrades | C: The gods
+19	099ED3	Aとしおいたははおや。 | Bいとしいこいびと。 | Cじぶんのこども。	A: My aged mother | B: My beloved | C: My child
+20	099F3A	Aおきてをまもれ。 | Bからやくそくをするな。 | Cだれにもかかわらずしんせつにせよ	A: Obey the law | B: No empty vows | C: Be kind to all
+21	099FAB	Aなみなみとつがれている。 | Bはんぶんていど。 | Cほとんどはいっていない。	A: Brimming full | B: About half | C: Nearly empty

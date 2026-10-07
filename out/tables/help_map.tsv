@@ -1,0 +1,10 @@
+index	rom_addr	header	japanese	english
+0	0C3CA0		ユニットいちらんや⏎としいちらんをひょうじします。	Shows the unit list⏎and the city list.
+1	0C3CBB		ユニットをはけんします。	Deploys a unit.
+2	0C3CC9		へんせいがめんにうつります。	Opens the army⏎screen.
+3	0C3CD9		しょじしたアイテムをつかったり⏎そうびしたりできます。	Use or equip the⏎items you carry.
+4	0C3CF6		ほじしているタロットカードを⏎かくにんすることができます。	Check the tarot⏎cards you hold.
+5	0C3D15		けっさんのよそうを⏎かくにんすることができます。	Check the expected⏎balance sheet.
+6	0C3D2F		がめんのセッティングを⏎かえることができます。	Change the screen⏎settings.
+7	0C3D48		それまでのデータをいちじほぞんし⏎ゲームをちゅうだんします。	Save progress and⏎suspend the game.
+8	0C3D68		ゲームをちゅうだんし⏎マップセレクトがめんへもどります。	Quit the game and⏎return to map⏎select.

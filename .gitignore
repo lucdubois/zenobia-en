@@ -1,0 +1,33 @@
+# Copyrighted game data and firmware: never commit
+*.ngc
+*.ngp
+*.npc
+*.bin
+*.rom
+*.zip
+mame/roms/
+
+# Emulator runtime state
+mame/sta/
+mame/nvram/
+mame/cfg/
+mame/debug.log
+cfg/
+nvram/
+*.sta
+
+# Generated build output (rebuild with tools/build.sh)
+out/zenobia_en.ngc
+out/*.bin
+out/dasm/
+out/zoom/
+out/*.png
+
+# Large derived dumps of the original script and strings (regenerate with the tools)
+out/script_dump.txt
+out/script_structure*.txt
+out/system_strings_raw.txt
+
+# Python / OS noise
+__pycache__/
+.DS_Store

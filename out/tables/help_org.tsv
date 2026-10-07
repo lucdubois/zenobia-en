@@ -1,0 +1,11 @@
+index	rom_addr	header	japanese	english
+0	0C3F1D		キャラクターのさくじょや⏎クラスチェンジをおこないます。	Remove characters⏎or change class.
+1	0C3F3B		ユニットへキャラをついかしたり⏎しんきにユニットをへんせいできます。	Add characters to⏎a unit, or form a⏎new unit.
+2	0C3F5F		ユニットからキャラをはずします。⏎リーダーをえらぶと⏎ユニットかいさんです。	Removes a member.⏎Picking the leader⏎disbands the unit.
+3	0C3F87		ユニットのばんごうを⏎いれかえます。	Swaps the unit⏎numbers.
+4	0C3F9B		キャラクターのはいちを⏎かえることができます。	Change the position⏎of characters.
+5	0C3FB4		ユニットのリーダーを⏎へんこうします。	Changes the unit⏎leader.
+6	0C3FC9		しょじしたアイテムをつかったり⏎そうびしたりできます。	Use or equip the⏎items you carry.
+7	0C3FE6		キャラクターのステータスを⏎かくにんすることができます。	Check character⏎status.
+8	0C4004		キャラクターをさくじょします。	Removes a⏎character.
+9	0C4015		キャラクターのクラスを⏎へんこうします。	Changes a⏎character's class.
