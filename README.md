@@ -19,7 +19,7 @@ tools/play.sh --en -state title      # MAME
 - `out/script_sheet.tsv`: dialogue (fill the `english` column)
 - `out/options_sheet.tsv`, `out/system_sheet.tsv`, `out/fixed_sheet.tsv`: menus, system messages, fixed-width labels
 - `out/tables/*.tsv`: classes, items, item descriptions, character names, help texts
-- `out/batch_*.py`, `out/sys_block*.py`, `out/tables_batch*.py`: the translation batches that produced the sheets
+- The sheets are the source of truth: edit them directly and rebuild. (`out/translate_*.py` can bulk-apply a dictionary of translations to a sheet, but overwrites existing English.)
 - `tools/glossary.md`: naming conventions
 
 Formats and findings are documented in the docstrings of `tools/*.py`.
