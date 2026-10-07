@@ -1,0 +1,208 @@
+rom_addr	slot	stage	type	japanese	english	note
+026377	8	1	0	エストア	Estoa	
+026387	8	1	0	バルザック	Balzac	
+026397	8	1	2	グリング	Gring	
+0263A7	8	1	1	ハインド	Hind	
+026651	8	2	0	グロリエ	Glorie	
+026661	8	2	0	とりで1	Fort 1	
+026671	8	2	0	とりで2	Fort 2	
+026681	8	2	0	とりで3	Fort 3	
+026691	8	2	5	ダカツ	Dakatsu	
+0266A1	8	2	8	ホインハイム	Hoinheim	
+0266B1	8	2	2	レッカート	Reckart	
+0266C1	8	2	8	オラータ	Orata	
+0266D1	8	2	3	ケーム	Keem	
+026A70	8	3	0	カルコフ	Kharkov	
+026A80	8	3	0	ラード	Rard	
+026A90	8	3	8	ムグント	Mugunt	
+026AA0	8	3	5	カフ	Kaf	
+026AB0	8	3	2	ヨシ	Yoshi	
+026AC0	8	3	2	コロンバン	Colomban	
+026AD0	8	3	3	パーナ	Pana	
+026AE0	8	3	6	イジリコ	Ijiriko	
+026FB5	8	4	0	リヒトフロス	Lichtfls	abbrev. of Lichtfloss
+026FC5	8	4	0	フルダ	Fulda	
+026FD5	8	4	4	カーカルコ	Karkalko	
+026FE5	8	4	2	シュトムンド	Shtmund	abbrev. of Shutomund
+026FF5	8	4	8	カミクロス	Kamikros	
+027005	8	4	5	ハイデ	Heide	
+027015	8	4	1	サツラマ	Saturama	
+027025	8	4	2	リンデ	Linde	
+027486	8	5	0	ゲインバラ	Gainbara	
+027496	8	5	0	ブリュン	Brun	
+0274A6	8	5	4	ヘルムト	Helmut	
+0274B6	8	5	8	ジグラマ	Zigrama	
+0274C6	8	5	5	ポルルック	Polluk	
+0274D6	8	5	3	オブヘルムト	ObHelmut	abbrev. of Ob-Helmut
+0274E6	8	5	2	イスランド	Island	
+027945	8	6	0	ガイス	Gaiss	
+027955	8	6	0	デスタート	Destart	
+027965	8	6	2	ククリット	Kukrit	
+027975	8	6	5	サリット	Sarit	
+027985	8	6	3	ウリット	Urit	
+027995	8	6	6	ハイデッカー	Heideckr	abbrev. of Heidecker
+027D64	8	7	0	カサンドロ	Casandro	
+027D74	8	7	0	ナニッテ	Nanitte	
+027D84	8	7	4	インデムーラ	Indemura	
+027D94	8	7	5	カルダイ	Kardai	
+027DA4	8	7	8	サットーニ	Sattoni	
+027DB4	8	7	1	サクラー	Sakura	
+027DC4	8	7	2	クマール	Kumar	
+027DD4	8	7	5	イブス	Ibs	
+027DE4	8	7	8	デッカ	Decca	
+027DF4	8	7	2	ポーアイ	Poai	
+027E04	8	7	3	カシミワール	Kashmwar	abbrev. of Kashimiwar
+027E14	8	7	8	サガール	Sagar	
+027E24	8	7	3	ハカッテ	Hakatte	
+027E34	8	7	2	リューク	Ryuk	
+027E44	8	7	4	ゴトーレ	Gotore	
+027E54	8	7	7	スペワー	Supewa	
+02829F	8	8	0	パルマゴワ	Palmagwa	abbrev. of Palmagowa
+0282AF	8	8	0	シクトかんごく	Shikt	abbrev. of Shikt Prison
+0282BF	8	8	5	ハイテル	Haitel	
+0282CF	8	8	6	ガルーシャ	Garusha	
+0282DF	8	8	4	ペジャワル	Pejawar	
+0282EF	8	8	2	ロロム	Rorom	
+0282FF	8	8	8	クレーベル	Kleber	
+02830F	8	8	2	コンサーナ	Consana	
+02831F	8	8	7	フォルト	Forte	
+028840	8	9	0	ゴルドバ	Gordoba	
+028850	8	9	0	メガホルテン	Megahort	abbrev. of Megahorten
+028860	8	9	4	デンデール	Dendale	
+028870	8	9	2	ファンタス	Fantas	
+028880	8	9	5	ワニック	Wanick	
+028890	8	9	2	カラス	Karas	
+0288A0	8	9	3	ガワフール	Gawafur	
+0288B0	8	9	6	シールダ	Shielda	
+028EE7	8	10	0	メイレイ	Meirei	
+028EF7	8	10	0	ドナント	Donant	
+028F07	8	10	4	カルカル	Karkal	
+028F17	8	10	1	スツーカ	Stuka	
+028F27	8	10	6	ネトビ	Netobi	
+028F37	8	10	8	クター	Kuta	
+028F47	8	10	2	ドドンゴ	Dodongo	
+028F57	8	10	2	カイバン	Kaiban	
+028F67	8	10	5	サルワール	Salwar	
+028F77	8	10	8	ミント	Mint	
+028F87	8	10	4	エステデール	Estedale	
+028F97	8	10	7	ミツゴル	Mitsugol	
+028FA7	8	10	2	カタリーナ	Katarina	
+028FB7	8	10	3	カベ	Kabe	
+028FC7	8	10	7	ベムベガ	Bembega	
+028FD7	8	10	6	クラト	Kurato	
+029632	8	11	0	レゴン	Legon	
+029642	8	11	0	アカデミア	Academia	
+029652	8	11	5	ホワイティ	Whitey	
+029662	8	11	4	エイエフ	A.F.	
+029672	8	11	8	ビキニ	Bikini	
+029682	8	11	1	ニュークロフト	Newcroft	
+029692	8	11	2	アリク	Arik	
+0296A2	8	11	2	サモン	Samon	
+0296B2	8	11	6	クランチ	Crunch	
+0296C2	8	11	3	ハーモン	Harmon	
+0296D2	8	11	3	クリエラ	Kuriela	
+0296E2	8	11	3	イウォー	Iwo	
+0296F2	8	11	2	ラウル	Raoul	
+029702	8	11	8	ポートモ	Portmo	
+029712	8	11	7	シエッチ	Sietch	
+029722	8	11	4	ジーピス	Gepis	
+029732	8	11	3	クシャト	Kushat	
+029742	8	11	2	ムガ	Muga	
+029C4F	8	12	0	ビドード	Bidord	
+029C5F	8	12	0	レク	Rek	
+029C6F	8	12	4	リコン	Ricon	
+029C7F	8	12	4	カンガワ	Kangawa	
+029C8F	8	12	8	ウベド	Ubedo	
+029C9F	8	12	5	サンニル	Sannil	
+029CAF	8	12	2	ナガナガ	Naganaga	
+029CBF	8	12	6	イルナ	Iruna	
+029CCF	8	12	7	オアナミ	Oanami	
+029CDF	8	12	5	フチモニ	Fuchimon	abbrev. of Fuchimoni
+029CEF	8	12	7	ドノアキ	Donoaki	
+029CFF	8	12	4	トマタ	Tomata	
+029D0F	8	12	2	ミグ	Mig	
+029D1F	8	12	2	キテッペ	Kiteppe	
+029D2F	8	12	6	ブランコ	Blanco	
+029D3F	8	12	4	トミ	Tomi	
+02A2C2	8	13	0	ドリアポロ	Doriapol	abbrev. of Doriapolo
+02A2D2	8	13	0	オーマ	Orma	
+02A2E2	8	13	5	エルストホルン	Elsthorn	
+02A2F2	8	13	8	パナソック	Panasock	
+02A302	8	13	1	ヨウガンガ	Yoganga	
+02A312	8	13	2	トスライ	Tosrai	
+02A322	8	13	7	リカンテスド	Licantes	abbrev. of Licantesd
+02A332	8	13	7	イクセモニカ	Ixmonica	abbrev. of Ixemonica
+02A342	8	13	8	ショウカ	Shoka	
+02A352	8	13	4	グリンガ	Gringa	
+02A362	8	13	4	ティリテ	Tirite	
+02A372	8	13	2	イラー	Ilah	
+02A382	8	13	1	シーレック	Sealeck	
+02A392	8	13	7	レゴンド	Legond	
+02A3A2	8	13	3	ハムスゴン	Hamsgon	
+02A3B2	8	13	2	スペランカス	Spelunca	
+02A3C2	8	13	3	クラビノ	Clavino	
+02A3D2	8	13	7	メイデン	Maiden	
+02A3E2	8	13	4	イクローン	Iclone	
+02A995	8	14	0	エルミダール	Elmidar	
+02A9A5	8	14	0	ウルトモ	Ultomo	
+02A9B5	8	14	2	ノハ	Noha	
+02A9C5	8	14	5	ポッカ	Pokka	
+02A9D5	8	14	4	スピルト	Spirt	
+02A9E5	8	14	6	ガガール	Gagar	
+02A9F5	8	14	2	カミノール	Kaminol	
+02ADCE	8	15	0	ノーフロスト	Nofrost	
+02ADDE	8	15	0	ギガント	Gigant	
+02ADEE	8	15	8	ボルグ	Borg	
+02ADFE	8	15	2	イデムント	Idemund	
+02AE0E	8	15	4	ウインダ	Winda	
+02AE1E	8	15	5	ウェット	Wet	
+02AE2E	8	15	7	クル	Kul	
+02AE3E	8	15	1	ポルカ	Polka	
+02B217	8	16	0	ウル	Ul	
+02B227	8	16	0	ハイハンドラ	Hihandra	
+02B237	8	16	5	テンテ	Tente	
+02B247	8	16	8	イクツテ	Ikutsute	
+02B257	8	16	2	カンロ	Kanro	
+02B267	8	16	3	イエローツ	Yellots	
+02B277	8	16	2	リガ	Riga	
+02B287	8	16	1	ノックス	Knox	
+02B297	8	16	4	イロノベール	Ironobel	
+02B2A7	8	16	5	エスタブル	Estable	
+02B2B7	8	16	3	クインロック	Quinlock	
+02B2C7	8	16	7	ワルトムード	Waltmood	
+02B8F6	8	17	0	フレイア	Freya	
+02B906	8	17	0	ドノ	Dono	
+02B916	8	17	2	ボス	Boss	
+02B926	8	17	8	メガルタ	Megarta	
+02B936	8	17	4	カットイト	Catoito	
+02B946	8	17	5	クレー	Clay	
+02B956	8	17	6	ブレイア	Breia	
+02B966	8	17	1	アールト	Aalto	
+02B976	8	17	2	モウリー	Mowry	
+02B986	8	17	5	カツーラ	Katsura	
+02B996	8	17	3	シジミ	Shijimi	
+02B9A6	8	17	7	サクリ	Sakuri	
+02BE62	8	18	0	ワランピンジ	Walpinji	abbrev. of Waranpinji
+02BE72	8	18	8	バンヌ	Bannu	
+02BE82	8	18	1	バハーワルプル	Bhawlpur	abbrev. of Bahawalpur
+02BE92	8	18	1	サジガバード	Sajgabad	abbrev. of Sajigabad
+02BEA2	8	18	2	チャンジカル	Chanjkal	abbrev. of Chanjikal
+02BEB2	8	18	3	レナニカン	Renanikn	abbrev. of Renanikan
+02BEC2	8	18	1	ペシャワール	Peshawar	
+02BED2	8	18	8	アナトリア	Anatolia	
+02C3AE	8	19	0	マトグロッソ	MtGrosso	abbrev. of Mato Grosso
+02C3BE	8	19	2	ミナスシェライス	Minas	abbrev. of Minas Gerais
+02C3CE	8	19	6	セルジッペ	Sergipe	
+02C3DE	8	19	2	バイア	Bahia	
+02C3EE	8	19	2	ロライマ	Roraima	
+02C3FE	8	19	1	ロードニア	Rodonia	
+02C40E	8	19	2	マラニオン	Maranion	
+02C41E	8	19	4	アラゴアス	Alagoas	
+02C42E	8	19	1	ゴヤス	Goyas	
+02C792	8	20	0	トランプゾン	Trampzon	
+02C7A2	8	20	8	カイセリー	Kayseri	
+02C7B2	8	20	2	ガシアンテップ	Gaziantp	abbrev. of Gaziantep
+02C7C2	8	20	1	エルズルム	Erzurum	
+02C7D2	8	20	5	クラスノダール	Krasndar	abbrev. of Krasnodar
+02C7E2	8	20	4	アレッポハレブ	Aleppo	abbrev. of Aleppo-Haleb
+02C7F2	8	20	4	アンタルヤ	Antalya	

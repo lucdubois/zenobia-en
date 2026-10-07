@@ -2,7 +2,7 @@
 """Adds a lowercase Latin font WITHOUT touching the Japanese glyphs.
 
 How: the dialogue glyph copier (0x200BEC) uses XIZ = font_base+0x10 and src = XIZ + (code-1)*16, i.e. font at ROM 0xC79.
-We copy the font to free space (ROM FONT_DST), write new glyphs at codes 0xDC and 0xDF-0xFB, and point XIZ at the copy.
+We copy the font to free space (ROM FONT_DST), write new glyphs at codes 0xDF-0xFB, and point XIZ at the copy.
 The text handler (0x200893) treats bytes >=0xDF as terminators; a stub in free space extends literals to 0xDF-0xFB
 (real terminators are 0xFC/0xFE/0xFF; 0xDD = player name, 0xDE = substitution).
 usage: font_latin.py IN_ROM OUT_ROM"""
@@ -41,9 +41,9 @@ g('z','........','........','#####...','....#...','..##....','.#......','#####..
 g("'",'..#.....','..#.....','.#......')
 g('-','........','........','........','.####...')
 g('"','.#.#....','.#.#....','.#.#....')
-# code assignment: 0xDF..0xF8 = a..z, 0xF9 = space, 0xFA = ', 0xFB = -, 0xDC = "
+# code assignment: 0xDF..0xF8 = a..z, 0xF9 = space, 0xFA = ', 0xFB = - (0xDC is left alone: blank padding tile used by menus)
 NEW={chr(ord('a')+i):0xDF+i for i in range(26)}
-NEW.update({' ':0xF9,"'":0xFA,'-':0xFB,'"':0xDC})
+NEW.update({' ':0xF9,"'":0xFA,'-':0xFB})  # 0xDC stays the original blank tile (menu padding), so no '"'
 def encode_tile(rows):
     out=bytearray()
     for r in rows:
@@ -90,7 +90,7 @@ if __name__=='__main__':
     open(sys.argv[2],'wb').write(rom)
     tbl=dict(NEW)
     for i,ch in enumerate("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"): tbl[ch]=2+i
-    tbl.update({'?':0xC8,'!':0xC9,'.':0xCD,',':0xCE,'/':0xD1,'+':0xD2,'=':0xD4,':':0xD5,'%':0xD6,'&':0xD7,'…':0xDA,'『':0xC6,'』':0xC7,'「':0xD8,'」':0xD9})
+    tbl.update({'?':0xC8,'!':0xC9,'.':0xCD,',':0xCE,'/':0xD1,'+':0xD2,'=':0xD4,':':0xD5,'%':0xD6,'&':0xD7,'…':0xDA,'『':0xC6,'』':0xC7,'「':0xD8,'」':0xD9,'・':0xCF})
     here=os.path.dirname(os.path.abspath(__file__))
     with open(os.path.join(here,'english.tbl'),'w',encoding='utf-8') as f:
         for ch,code in sorted(tbl.items(),key=lambda kv:kv[1]): f.write(f'{code:02X}={ch}\n')

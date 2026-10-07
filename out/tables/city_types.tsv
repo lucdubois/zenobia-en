@@ -1,10 +1,10 @@
 index	rom_addr	header	japanese	english
 0	073348			
-1	073348		じょうさいとし	Fort City
-2	07334F		ぼうえきとし	Trade City
-3	073355		まほうとし	Magic City
-4	07335A		じゆうとし	Free City
-5	07335F		こうぎょうとし	Factory City
-6	073366		しんせいとし	Holy City
-7	07336C		しゅうきょうとし	Church City
-8	073374		じちとし	Free Town
+1	073348		じょうさいとし	Fort City 
+2	07334F		ぼうえきとし	Trade Hub 
+3	073355		まほうとし	Mage City 
+4	07335A		じゆうとし	Free City 
+5	07335F		こうぎょうとし	Mill Town 
+6	073366		しんせいとし	Holy City 
+7	07336C		しゅうきょうとし	Sanctuary 
+8	073374		じちとし	Free Town 

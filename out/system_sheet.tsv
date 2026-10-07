@@ -127,9 +127,9 @@ msg	rom_addr	bytes	pointer	japanese	english
 0092	008864	6	ptr@00831C	のユニットが	
 0092	00886B	16	-	いどうをしゅうりょうしました。を	
 0092	00887C	23	-	かいほうしました。タロットカードをひきますか?	
-0093	0088B7	22	ptr@0087CE	カオスフレームいご、タロットカードのこうかは	The card's effect
-0093	0088CE	15	-	はけんちゅうのユニットすべてが	now applies to all
-0093	0088DE	11	-	たいしょうとなります。	deployed units.
+0093	0088B7	22	ptr@0087CE	カオスフレームいご、タロットカードのこうかは	
+0093	0088CE	15	-	はけんちゅうのユニットすべてが	
+0093	0088DE	11	-	たいしょうとなります。	
 0094	00890B	9	-	はっけんしました。	found!
 0095	008924	7	-	Uユ…ムうユさ	
 0096	00893D	6	-	はUさネけは	
@@ -137,8 +137,8 @@ msg	rom_addr	bytes	pointer	japanese	english
 0098	0089AC	4	-	ォカみは	
 0099	008AB3	4	-	ォサみは	
 0100	008AE8	5	-	Uォサみは	
-0101	008CC6	9	-	ストックしますか?	Stock it?
-0102	008CE2	6	-	ひきました。	Drawn.
+0101	008CC6	9	-	ストックしますか?	
+0102	008CE2	6	-	ひきました。	
 0103	008D00	9	ptr@003C8C,007C9C	どれかすてますか?	Discard one?
 0104	008D27	8	-	づそ。テ?ぴSベ	
 0104	008D30	4	ptr@0084E6,01364F,013B59	みこノU	
@@ -174,9 +174,8 @@ msg	rom_addr	bytes	pointer	japanese	english
 0127	009E27	5	-	べてニ5は	
 0128	00A04A	5	-	べてニ5は	
 0129	00A39C	4	-	Iがきま	
-0130	00A3C1	5	-	チひづP+	
-0130	00A3C8	6	-	ほんきょちを	Your base was
-0130	00A3CF	10	-	てきたいせいりょくに	taken by enemies
+0130	00A3C8	6	-	ほんきょちを	Your HQ fell to
+0130	00A3CF	10	-	てきたいせいりょくに	the enemy!
 0130	00A3DA	12	-	うばわれてしまいました。	-
 0131	00B885	4	-	にェはェ	
 0132	00BAB5	4	-	じとご7	
@@ -501,7 +500,6 @@ msg	rom_addr	bytes	pointer	japanese	english
 0318	015F4E	14	ptr@0159B0,0159B7	ユニットをえらんでください。	Choose a unit.
 0319	015F5E	15	ptr@0159D9	このアイテムをへんせいがめんで	This item can't be
 0319	015F6E	12	-	つかうことはできません。	used on this screen.
-0320	016113	5	-	ゾRUィて	
 0320	016122	14	-	ストックには、つかえません。	Not for stock.
 0321	016228	17	ptr@01621D	うもれたざいほうは、ないようです。	No treasure here.
 0322	016260	6	-	」でナ5ょU	

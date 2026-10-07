@@ -1,0 +1,29 @@
+id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
+00	copy	008864	22	00831B	008320	<unit>のユニットが⏎いどうをしゅうりょうしました。	's unit⏎finished moving.
+01	copy	00887A	11	008449	00844E	<town>を⏎かいほうしました。	⏎was liberated!
+02	copy	008848	28	008473	008478	<unit>ひきいるユニットを⏎ほんきょちへ、きかんさせますか?⏎⏎	's unit:⏎Return to HQ?⏎⏎
+03	cmd9c	008885	16	008548	-	タロットカードをひきますか?⏎⏎	Draw a tarot card?⏎⏎
+04	inplace	0030F5	9	-	-	はい<01><01>いいえ⏎⏎	Yes<01>No⏎⏎
+05	copy1	008CD1	25	008C97	008CB1	「<card>」のカードを⏎<01>×9ひきました。⏎⏎	'<NAME>' card⏎drawn!⏎⏎
+06	cmd9c	008CB7	27	008931	-	タロットカードを⏎<01>×6ストックしますか?⏎⏎	Stock this tarot⏎card?⏎⏎
+07	cmd9c	008CEA	39	008959	-	タロットカードのストックが⏎いっぱいです。<01>どれかすてますか?⏎⏎	Tarot stock full.⏎Discard one?⏎⏎
+08	stat_char	008895	7	008624	008629	キャラクターの	Character's 
+09	stat_chaos	0088B7	7	0087CD	0087D2	カオスフレーム	Chaos Frame
+10	stat_mid	00889C	15	0087D5	00864E	が⏎<01>×8Nポイント	⏎N pts
+11	stat_up	0088AB	6	-	008652	アップ。⏎⏎	 up!⏎⏎
+12	stat_down	0088B1	6	-	008652	ダウン。⏎⏎	 down.⏎⏎
+13	inplace	002E5D	10	-	-	よろしいですか?⏎⏎	Confirm?⏎⏎
+14	copy	00A3CD	27	00A3A7	00A3AC	<town>を⏎てきたいせいりょくに⏎うばわれてしまいました。⏎⏎	⏎was taken by⏎enemy forces!⏎⏎
+15	table	0E17E3	6	3	8	editor: spoils	None|Random|Select
+16	table	0E2284	6	3	8	summary: spoils	None|Random|Select
+17	table	0E180E	6	2	8	victory condition	Damage|All KO
+18	table	0E1833	7	3	8	editor: terrain/time chooser	Random|Winner|Loser
+19	table	0E2296	7	3	8	summary: terrain/time chooser	Random|Winner|Loser
+20	table	0E187A	5	3	8	turn order	CPU|You|Rival
+21	table	0E18A2	5	3	8	gauge speed	Slow|Normal|Fast
+22	patch16	0E21FA	2	919C	9198	summary value column -> 12 (row 6)	-
+23	patch16	0E2212	2	91DC	91D8	summary value column -> 12 (row 7)	-
+24	patch16	0E222A	2	921A	9218	summary value column -> 12 (row 8)	-
+25	patch16	0E2242	2	925A	9258	summary value column -> 12 (row 9)	-
+26	patch16	0E225A	2	929E	9298	summary value column -> 12 (row 10)	-
+27	patch16	0E2272	2	92DE	92D8	summary value column -> 12 (row 11)	-

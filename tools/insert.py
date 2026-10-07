@@ -23,6 +23,7 @@ def encode(text):
         ch=text[i]
         if text.startswith('<DD>',i): out.append(NAME); i+=4; continue
         if text.startswith('<DE>',i): out.append(0xDE); i+=4; continue
+        if text.startswith('<01>',i): out.append(0x01); i+=4; continue  # blank tile (menu padding)
         if ch=='\n' or ch=='⏎': out.append(NL); i+=1; continue
         if ch not in tbl: raise ValueError(f'char {ch!r} not in font')
         out.append(tbl[ch]); i+=1
@@ -102,6 +103,8 @@ if os.path.exists(a.options):
 #            DA ptr -> [84 newmsg 00 00] [1B jp back to original end+2];  (c) otherwise in place only.
 if os.path.exists(a.system):
     srows=[l.rstrip('\n').split('\t') for l in open(a.system,encoding='utf-8')]
+    if os.path.exists('out/system_e_sheet.tsv'):  # bank 0x0E (link/versus mode), same format, msg ids E000..
+        srows+=[l.rstrip('\n').split('\t') for l in open('out/system_e_sheet.tsv',encoding='utf-8')][1:]
     sh={h:i for i,h in enumerate(srows[0])}; stats['sys_inplace']=0; stats['sys_relocated']=0; stats['sys_trampoline']=0; stats['sys_skipped']=0
     SP=tbl[' ']
     msgs={}
@@ -111,6 +114,9 @@ if os.path.exists(a.system):
     for mid,lines in msgs.items():
         if not any(l[sh['english']].strip() for l in lines): continue
         first=int(lines[0][sh['rom_addr']],16); last=lines[-1]; end=int(last[sh['rom_addr']],16)+int(last[sh['bytes']])
+        gap=[l for l,m in zip(lines,lines[1:]) if int(l[sh['rom_addr']],16)+int(l[sh['bytes']])+1!=int(m[sh['rom_addr']],16)]
+        if gap:  # rows must be consecutive 00-separated lines, else the rebuild would overwrite whatever lies between them (code)
+            print(f'WARNING msg {mid}: rows are not contiguous after {gap[0][sh["rom_addr"]]}; skipped'); stats['sys_skipped']+=1; continue
         if not (rom[end]==0 and rom[end+1]==0):
             # template message (continues with non-text bytes): replace each translated line in place only
             for l in lines:
@@ -149,13 +155,85 @@ if os.path.exists(a.system):
             rom[first-1:first+3]=bytes([0xDA,t&0xFF,(t>>8)&0xFF,t>>16]); stats['sys_trampoline']+=1
         else:
             print(f'WARNING msg {mid} at {first:06X}: English too long ({len(newmsg)}B > {orig_len}B) and not relocatable; skipped'); stats['sys_skipped']+=1
+# native strings with hard-coded lengths/pointers (out/native_sheet.tsv); english: ⏎ = 00, <01> = 01 (blank tile)
+#   copy:    `ld XIY,#src` at ptr_at + `ld BC,#len` at len_at copy the string after a name in the message buffer -> relocate, patch both
+#   cmd9c:   bytecode `9C ptr32` at ptr_at -> relocate, patch the pointer;  inplace: overwrite rom_addr, must fit in bytes
+if os.path.exists('out/native_sheet.tsv'):
+    nrows=[l.rstrip('\n').split('\t') for l in open('out/native_sheet.tsv',encoding='utf-8')]
+    nh={h:i for i,h in enumerate(nrows[0])}; stats['native']=0
+    stat={}
+    for r in nrows[1:]:
+        eng=r[nh['english']].rstrip('\r') if len(r)>nh['english'] else ''
+        if not eng.strip(): continue
+        kind=r[nh['kind']]; ra=int(r[nh['rom_addr']],16); n=int(r[nh['bytes']]); src=ra+0x200000
+        if kind.startswith('stat_'): stat[kind]=eng; continue
+        if kind=='table':  # fixed-stride table read as `muls r,#stride` + `add Xrr,#base`: ptr_at = entry count, len_at = new stride
+            cnt=int(r[nh['ptr_at']]); ns=int(r[nh['len_at']]); items=[s.strip() for s in eng.split('|')]; assert len(items)==cnt, f'table {ra:06X}: {len(items)} items, expected {cnt}'
+            blob=bytearray()
+            for s in items:
+                e=encode(s); assert len(e)<=ns-2, f'table {ra:06X}: {s!r} longer than {ns-2}'
+                blob+=e+b'\x01'*(ns-2-len(e))+b'\x00\x00'
+            t=free+0x200000; sites=[]
+            for i in range(ra&~0xFFFF,(ra&~0xFFFF)+0x10000):
+                if 0xE8<=rom[i]<=0xEF and rom[i+1]==0xC8 and rom[i+2:i+6]==src.to_bytes(4,'little'): sites.append(i)
+            assert sites, f'table {ra:06X}: no add #base site'
+            for i in sites:
+                assert 0xC8<=rom[i-3]<=0xCF and rom[i-2]==0x09 and rom[i-1]==n, f'{i:06X}: no muls #{n} before add'
+                rom[i-1]=ns; rom[i+2:i+5]=t.to_bytes(3,'little')
+            rom[free:free+len(blob)]=blob; free+=len(blob); stats['native']+=1
+            if a.verbose: print(f'table {ra:06X} -> {t:06X}, stride {n}->{ns}, {len(sites)} sites')
+            continue
+        if kind=='patch16':  # 16-bit immediate after the opcode byte at rom_addr: ptr_at = old value, len_at = new value
+            old=int(r[nh['ptr_at']],16); new=int(r[nh['len_at']],16)
+            assert rom[ra+1]|(rom[ra+2]<<8)==old, f'{ra:06X}: immediate is not {old:04X}'
+            rom[ra+1:ra+3]=bytes([new&0xFF,new>>8]); stats['native']+=1; continue
+        enc_=lambda t: bytes([1]).join(encode(s) for s in t.split('<01>'))
+        pre,_,post=eng.rpartition('<NAME>')  # <NAME> marks where the game inserts the name (copy: before the text, copy1: after 1 byte)
+        enc=enc_(pre)+enc_(post)
+        if kind=='copy1': assert len(enc_(pre))==1, f'native {ra:06X}: copy1 needs exactly 1 byte before <NAME>'
+        if kind=='inplace':
+            if len(enc)>n: print(f'WARNING native {ra:06X}: {len(enc)}B > {n}B; skipped'); continue
+            rom[ra:ra+len(enc)]=enc; stats['native']+=1; continue
+        pa=int(r[nh['ptr_at']],16); t=free+0x200000; tb=bytes([t&0xFF,(t>>8)&0xFF,t>>16])
+        if kind in ('copy','copy1'):  # copy1: first byte copied by a separate ldi, then the length at len_at covers the rest
+            la=int(r[nh['len_at']],16); k=1 if kind=='copy1' else 0
+            assert rom[pa]==0x45 and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not ld XIY,#{src:06X}'
+            rom[pa+1:pa+4]=tb
+            if rom[la]==0x31:  # ld BC,#imm16
+                assert rom[la+1]|(rom[la+2]<<8)==n-k, f'{la:06X}: not ld BC,#{n-k}'; rom[la+1:la+3]=bytes([(len(enc)-k)&0xFF,(len(enc)-k)>>8])
+            else:  # ld C,#imm8
+                assert rom[la]==0x23 and rom[la+1]==n-k and len(enc)-k<256, f'{la:06X}: not ld C,#{n-k}'; rom[la+1]=len(enc)-k
+        elif kind=='cmd9c':
+            assert rom[pa]==0x9C and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not 9C {src:06X}'
+            rom[pa+1:pa+4]=tb
+        else: raise ValueError(f'native {ra:06X}: unknown kind {kind}')
+        rom[free:free+len(enc)]=enc; free+=len(enc); stats['native']+=1
+        if a.verbose: print(f'native {ra:06X} ({kind}) -> {t:06X} ({len(enc)}B)')
+    # stat change message (tarot cards), built in RAM 0x6000 by 0x208620 (character: prefix+stat name+mid+up/down) and
+    # 0x2087C9 (Chaos Frame: prefix+mid+up/down). Character prefix, mid, up, down must be contiguous (XIZ = end of prefix,
+    # down = up+len); the digit is written 5 bytes before the end of mid; up and down share one length.
+    if len(stat)==5:
+        pre,chaos,mid,up,down=(encode(stat[k]) for k in ('stat_char','stat_chaos','stat_mid','stat_up','stat_down'))
+        assert len(mid)>=5 and mid[-5]==tbl['N'], 'stat_mid: the digit placeholder N must be 5 bytes before the end'
+        assert up.endswith(b'\0\0') and down.endswith(b'\0\0'), 'stat_up/down must end with ⏎⏎'
+        L=max(len(up),len(down)); SP=tbl[' ']; up=up[:-2]+bytes([SP])*(L-len(up))+b'\0\0'; down=down[:-2]+bytes([SP])*(L-len(down))+b'\0\0'
+        def chk(at,b): assert rom[at:at+len(b)]==b, f'{at:06X}: unexpected code {rom[at:at+len(b)].hex()}'
+        chk(0x8624,bytes.fromhex('4395882000')); chk(0x8629,bytes.fromhex('f00731')); chk(0x864E,bytes.fromhex('230f')); chk(0x8652,bytes.fromhex('2306'))
+        chk(0x87CD,bytes.fromhex('43b7882000')); chk(0x87D2,bytes.fromhex('f00731')); chk(0x87D5,bytes.fromhex('469c882000'))
+        blk=pre+mid+up+down; t=free+0x200000; rom[free:free+len(blk)]=blk; free+=len(blk)
+        tm=t+len(pre); rom[0x8625:0x8628]=t.to_bytes(3,'little'); rom[0x862A]=len(pre); rom[0x864F]=len(mid); rom[0x8653]=L; rom[0x87D6:0x87D9]=tm.to_bytes(3,'little')
+        t=free+0x200000; rom[free:free+len(chaos)]=chaos; free+=len(chaos); rom[0x87CE:0x87D1]=t.to_bytes(3,'little'); rom[0x87D3]=len(chaos)
+        stats['native']+=1
 # fixed-width padded slots (attack/tactic/tarot names, terrain types, small labels): English padded with 0x01
-if os.path.exists('out/fixed_sheet.tsv'):
-    frows=[l.rstrip('\n').split('\t') for l in open('out/fixed_sheet.tsv',encoding='utf-8')][1:]; stats['fixed']=0
-    for r in frows:
-        if len(r)<3 or not r[2].strip(): continue
-        fa=int(r[0],16); slot=int(r[1]); enc=encode(r[2].strip())
-        if len(enc)>slot: print(f'WARNING fixed {fa:06X}: {r[2]!r} longer than slot {slot}'); continue
+# (out/towns_sheet.tsv: town names, 8-byte slots in the per-stage town lists, shown after the city type)
+stats['fixed']=0
+for fpath in ('out/fixed_sheet.tsv','out/towns_sheet.tsv'):
+    if not os.path.exists(fpath): continue
+    frows=[l.rstrip('\n').split('\t') for l in open(fpath,encoding='utf-8')]; fh={h:i for i,h in enumerate(frows[0])}
+    for r in frows[1:]:
+        if len(r)<=fh['english'] or not r[fh['english']].strip(): continue
+        fa=int(r[fh['rom_addr']],16); slot=int(r[fh['slot']]); enc=encode(r[fh['english']].strip())
+        if len(enc)>slot: print(f'WARNING fixed {fa:06X}: {r[fh["english"]]!r} longer than slot {slot}'); continue
         rom[fa:fa+slot]=enc+b'\x01'*(slot-len(enc)); stats['fixed']+=1
 # offset-indexed tables (classes, items, help texts...) from out/tables/*.tsv
 sys.path.insert(0,here); import tables as _tables

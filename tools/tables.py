@@ -53,7 +53,7 @@ def rebuild(rom,free,encode,sheetdir='out/tables',verbose=False):
         N=len(recs); newbase=free+0x200000; table=bytearray(2*(N+1)); block=bytearray(); pos=newbase+2*(N+1)
         for i,((a,e),r) in enumerate(zip(recs,rows)):
             orig=bytes(rom[a:e]); h,body,term=split(orig,kind,hdr)
-            eng=r[4].strip() if len(r)>4 else ''
+            eng=r[4].lstrip() if len(r)>4 and r[4].strip() else ''  # trailing spaces kept (city types need one before the town name)
             if eng:
                 body=encode(eng.replace('⏎','\n'))
                 if kind=='text' and not term: term=b'\x00\x00'

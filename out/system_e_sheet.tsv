@@ -1,0 +1,77 @@
+msg	rom_addr	bytes	pointer	japanese	english
+E000	0E1304	3	ptr@0E12F7	しょう	Won
+E001	0E1339	2	ptr@0E132C	はい	Lost
+E002	0E14F8	13	ptr@0E14EB	しばらく、おまちください。	Please wait...
+E003	0E2378	8	ptr@0E22EA,0E47F9	よろしいですか?	Is this OK?
+E004	0E23AD	14	ptr@0E23A0	Aボタンを<01>おしてください。	Please press A.
+E005	0E2591	13	ptr@0E2584	しばらく、おまちください。	Please wait...
+E006	0E25D3	9	ptr@0E22F6,0E267D,0E4805	はい<01><01><01><01>いいえ	Yes<01><01><01>No
+E007	0E26F3	16	ptr@0E2671	このせっていをとうろくしますか?	Save settings?
+E008	0E2736	9	ptr@0E270E	とうろくしました。	Saved.
+E009	0E2946	13	ptr@0E2939	しばらく、おまちください。	Please wait...
+E010	0E2A89	8	ptr@0E2A7C	ちけい<01>せんたく	Terrain
+E011	0E2AA1	2	ptr@0E2A94	うみ	Sea
+E012	0E2AB3	3	ptr@0E2AA6	あれち	Wastes
+E013	0E2AC6	3	ptr@0E2AB9	かざん	Volcano
+E014	0E2AD9	4	ptr@0E2ACC	そうげん	Plains
+E015	0E2AED	3	ptr@0E2AE0	しっち	Marsh
+E016	0E2B00	2	ptr@0E2AF3	がけ	Cliffs
+E017	0E2B12	4	ptr@0E2B05	せつげん	Tundra
+E018	0E2B26	2	ptr@0E2B19	やま	Mountain
+E019	0E2B38	3	ptr@0E2B2B	さばく	Desert
+E020	0E2B4B	4	ptr@0E2B3E	しんりん	Forest
+E021	0E2B5F	4	ptr@0E2B52	ゆきやま	Snow Mtn
+E022	0E2B73	4	ptr@0E2B66	きょてん	Base
+E023	0E2BA3	17	ptr@0E2B96	ちけいを<01>せんたく<01>してください。	Choose a terrain.
+E024	0E2EB0	8	ptr@0E2EA3	じかん<01>せんたく	Time
+E025	0E2EC8	2	ptr@0E2EBB	ひる	Day
+E026	0E2EDA	2	ptr@0E2ECD	よる	Night
+E027	0E2EFE	17	ptr@0E2EF1	じかんを<01>せんたく<01>してください。	Choose the time.
+E028	0E3617	11	ptr@0E354A	ユニットをかくのうする	No room to store
+E028	0E3623	12	-	ばしょがありませんでした	the unit.
+E029	0E3631	11	ptr@0E3592	アイテムをかくのうする	No room to store
+E029	0E363D	12	-	ばしょがありませんでした	the items.
+E030	0E364B	11	ptr@0E35E2	タロットをかくのうする	No room to store
+E030	0E3657	12	-	ばしょがありませんでした	the tarot cards.
+E031	0E3B40	9	ptr@0E3B33	はい<01><01><01><01>いいえ	Yes<01><01><01>No
+E032	0E3BC0	16	ptr@0E3B1C	つうしんのあとデータがセーブされ	Data will be saved
+E032	0E3BD1	11	-	ます。よろしいですか?	after link. OK?
+E033	0E3FA6	11	ptr@0E3F99	どちらかが<01>Aボタンを	Either player,
+E034	0E3FC1	8	ptr@0E3FB4	おしてください。	press A.
+E035	0E410B	5	ptr@0E3E7C	ちゅうい!	Caution!
+E035	0E4111	16	-	キャラ、アイテム、タロットカード	Check your chars,
+E035	0E4122	17	-	の<01>こすうをかくにんしてください。	items and tarots.
+E036	0E4135	17	ptr@0E3EC0	こすうがいっぱいだと、もらうことが	When full, you
+E036	0E4147	6	-	できません。	can't get more.
+E037	0E47AA	4	ptr@0E479E,0E47A2	じぶんの	Choose your
+E037	0E47AF	14	-	じゅんばんをえらんでください	turn order.
+E038	0E47BF	4	ptr@0E47A6	あいての	Choose rival's
+E038	0E47C4	14	-	じゅんばんをえらんでください	turn order.
+E039	0E47D4	3	ptr@0E4726	じぶん	You
+E040	0E47D9	3	ptr@0E4732	あいて	Rival
+E041	0E4A63	13	ptr@0E4A56	しばらく、おまちください。	Please wait...
+E042	0E4BC7	7	ptr@0E4BA1,0E4D2F	をもらいました	was received.
+E043	0E4BEF	13	ptr@0E4BE2	しばらく、おまちください。	Please wait...
+E044	0E4DA9	10	ptr@0E4DBE	キャンセルされました	Canceled.
+E045	0E5481	17	ptr@0E5446	もういちど<01>やりなおしてください。	Please try again.
+E046	0E1693	9	-	そうしさん<01><01><01><01>	Funds
+E047	0E169E	9	-	ユニットすう<01><01><01>	Units
+E048	0E16A9	9	-	かちぬき<01><01><01><01><01>	Gauntlet
+E049	0E16B4	9	-	タロットすう<01><01><01>	Tarots
+E050	0E16BF	9	-	せんりひん<01><01><01><01>	Spoils
+E051	0E16CA	9	-	しょうりじょうけん	Win Cond.
+E052	0E16D5	9	-	ちけいせんたく<01><01>	Terrain
+E053	0E16E0	9	-	じかんせんたく<01><01>	Time
+E054	0E16EB	9	-	じゅんばんしてい<01>	Order
+E055	0E16F6	9	-	ゲージスピード<01><01>	Gauge Spd
+E056	0E2319	9	-	せってい<01>ないよう	Settings
+E056	0E2323	6	-	・そうしさん	・Funds
+E056	0E232A	7	-	・ユニットすう	・Units
+E056	0E2332	5	-	・かちぬき	・Gauntlet
+E056	0E2338	7	-	・タロットすう	・Tarots
+E056	0E2340	6	-	・せんりひん	・Spoils
+E056	0E2347	10	-	・しょうりじょうけん	・Win Cond.
+E056	0E2352	8	-	・ちけいせんたく	・Terrain
+E056	0E235B	8	-	・じかんせんたく	・Time
+E056	0E2364	9	-	・じゅんばんしてい	・Order
+E056	0E236E	8	-	・ゲージスピード	・Gauge Spd
