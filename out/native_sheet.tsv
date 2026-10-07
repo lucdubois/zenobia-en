@@ -27,3 +27,70 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 25	patch16	0E2242	2	925A	9258	summary value column -> 12 (row 9)	-
 26	patch16	0E225A	2	929E	9298	summary value column -> 12 (row 10)	-
 27	patch16	0E2272	2	92DE	92D8	summary value column -> 12 (row 11)	-
+28	copy	00966C	30	0091CB	0091D0	<leader>ひきいるユニットが⏎てきたいユニットとそうぐうしました。⏎⏎	's unit⏎met an enemy unit!⏎⏎
+29	copy	00968A	34	0090C2	0090C7	<leader>ひきいるユニットが⏎ちゅうりつキャラクターと⏎そうぐうしました。⏎⏎	's unit⏎met a neutral⏎character.⏎⏎
+30	copy	0096AC	10	00938D	009392	せんりひんとして⏎『 <item>	Spoils found:⏎'
+31	copy	0096B6	14	0093B8	0093BD	<item> 』を⏎はっけんしました。⏎⏎	'!⏎⏎
+32	copy1	015EF5	14	015D7F	015DB3	『<item>』を⏎てにいれました。⏎⏎	'<NAME>'⏎obtained!⏎⏎
+33	copy	002ED4	24	006259	00625E	<class>にクラスチェンジ⏎します。<01>よろしいですか?⏎⏎	⏎Class change. OK?⏎⏎
+34	copy	002ED4	24	01313A	01313F	<class>にクラスチェンジ⏎します。<01>よろしいですか?⏎⏎	⏎Class change. OK?⏎⏎
+35	copy	015ED7	30	00761D	007622	<N>ゴートになります。⏎<01>×10よろしいですか?⏎⏎	 Goth.⏎Is that OK?⏎⏎
+36	copy	015ED7	30	015BB1	015BB6	<N>ゴートになります。⏎<01>×10よろしいですか?⏎⏎	 Goth.⏎Is that OK?⏎⏎
+37	copy	008903	5	0086F8	0086FD	アイテム『 <item>	Found⏎'
+38	copy	008908	14	008705	00870A	<item> 』を⏎はっけんしました。⏎⏎	'!⏎⏎
+39	copy	008EE3	14	008E96	008E9B	はっけんされたざいほうは⏎『 <item>	Treasure found:⏎'
+40	copy	008EF1	7	008EA4	008EA9	<item> 』でした。⏎⏎	'!⏎⏎
+41	copy	008E2F	13	008D30	008D35	<town>を⏎はっけんしました。⏎⏎	⏎was discovered!⏎⏎
+42	inplace	0995BE	7	-	-	トリスタン<DC><DC>(default hero name)	Tristan
+43	copy	0995A2	5	094FE9	094FEE	なまえは「 <name>	Your name is⏎'
+44	copy	0995A7	22	094FFD	095002	<name> 」で⏎<DC>×9よろしいですか?⏎⏎	'.⏎Is this OK?⏎⏎
+45	inplace	09A6B9	14	-	-	<DC>×3NOTHING<DC>×4 (empty save slot)	<DC><DC><DC><DC>EMPTY<DC><DC><DC><DC><DC>
+46	dcpad	09C315	0	-	-	___へんせい___	Organize
+47	dcpad	09C321	0	-	-	あらかじめユニットのへんせい⏎を_おこないます______	Organize your⏎units ahead.
+48	dcpad	09C340	0	-	-	___モニター___	Settings
+49	dcpad	09C34C	0	-	-	ゲームがめんの_かんきょう_⏎せっていをおこないます___	Adjust the⏎game display.
+50	dcpad	09C36B	0	-	-	___データ____	Data
+51	dcpad	09C377	0	-	-	げんざいのプレイをセーブ__⏎ほぞんしたデータをロード__	Save progress⏎or load data.
+52	dcpad	09C396	0	-	-	___つうしん___	Link
+53	dcpad	09C3A2	0	-	-	つうしんケーブルをつかって_⏎たいせんなどを_おこないます	Link cable for⏎versus & more.
+54	dcpad	09C403	0	-	-	___セーブ____	Save
+55	dcpad	09C40F	0	-	-	げんざいのプレイじょうたいを⏎ほぞんします________	Save your⏎current game.
+56	dcpad	09C42E	0	-	-	___ロード____	Load
+57	dcpad	09C43A	0	-	-	ほぞんされているデータを__⏎よみだします________	Load your⏎saved data.
+58	dcpad	09C47D	0	-	-	___たいせん___	Versus
+59	dcpad	09C489	0	-	-	__キャラあげる__	Give Char
+60	dcpad	09C495	0	-	-	__キャラもらう__	Get Char
+61	dcpad	09C4CE	0	-	-	__せってい1___	Settings 1
+62	dcpad	09C4DA	0	-	-	__せってい2___	Settings 2
+63	dcpad	09C4E6	0	-	-	プレイヤーとうろく_	Register
+64	dcpad	09C4F2	0	-	-	___カスタム___	Custom
+65	dcpad	09BF9A	0	-	-	ON:アニメします_____⏎OFF:アニメをカット___	ON: Animations⏎OFF: Skip them
+66	dcpad	09BFB9	0	-	-	ON:BGMをならします__⏎OFF:BGMをけします__	ON: Play BGM⏎OFF: Mute BGM
+67	dcpad	09BFD8	0	-	-	ON:こうかおんをならします⏎OFF:こうかおんをけします	ON: Play SFX⏎OFF: Mute SFX
+68	dcpad	09BFF7	0	-	-	メッセージのひょうじスピード⏎を3だんかいでちょうせつ__	Set text speed⏎in 3 steps.
+69	dcpad	09C016	0	-	-	ゲームスピードを3だんかいで⏎ちょうせつします______	Set game speed⏎in 3 steps.
+70	inplace	09BD20	2	-	-	NG (of "OK‥A   NG‥B" confirm bar)	NO
+71	dcpad	09BCF1	0	-	-	セーブできませんでした_	Save failed.
+72	dcpad	09BCFF	0	-	-	データをセーブしています	Saving...
+73	dcpad	09BD0D	0	-	-	セーブがおわりました	Save done.
+74	inplace	01270C	15	-	-	ユニット<01>キャラ<01><01>そうしさん (item/organize header boxes)	Unit<01>Char<01>Funds
+75	dcpad	09C562	0	-	-	エストラーダのやかた (world map area name)	Manor
+76	dcpad	09C56E	0	-	-	__グロスちほう__ (world map area name)	Gloth
+77	dcpad	09C57A	0	-	-	__サツはんとう__ (world map area name)	Satz Pen.
+78	dcpad	09C586	0	-	-	_クロノさんみゃく_ (world map area name)	Crono Rng.
+79	dcpad	09C592	0	-	-	__リヒトフロス__ (world map area name)	Lihitfross
+80	dcpad	09C59E	0	-	-	_ローデンちほう__ (world map area name)	Roden
+81	dcpad	09C5AA	0	-	-	リットとうかいいき_ (world map area name)	Rit Isles
+82	dcpad	09C5B6	0	-	-	_アインはんとう__ (world map area name)	Ayn Pen.
+83	dcpad	09C5C2	0	-	-	__ネッサちほう__ (world map area name)	Netha
+84	dcpad	09C5CE	0	-	-	_ノロドムちほう__ (world map area name)	Norodom
+85	dcpad	09C5DA	0	-	-	__メガホルテン__ (world map area name)	Megaholten
+86	dcpad	09C5E6	0	-	-	_シャガールしっち_ (world map area name)	Chagall
+87	dcpad	09C5F2	0	-	-	__レゴぐんとう__ (world map area name)	Lego Isles
+88	dcpad	09C5FE	0	-	-	__アムじゅかい__ (world map area name)	Ahm Woods
+89	dcpad	09C60A	0	-	-	__ライカこはん__ (world map area name)	Lake Laika
+90	dcpad	09C616	0	-	-	_ウィンドさきゅう_ (world map area name)	Wind Dunes
+91	dcpad	09C622	0	-	-	_フレイアしょとう_ (world map area name)	Freya Isl.
+92	dcpad	09C62E	0	-	-	フリーバトルエリア1 (world map area name)	Skirmish 1
+93	dcpad	09C63A	0	-	-	フリーバトルエリア2 (world map area name)	Skirmish 2
+94	dcpad	09C646	0	-	-	フリーバトルエリア3 (world map area name)	Skirmish 3

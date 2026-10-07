@@ -24,6 +24,7 @@ def encode(text):
         if text.startswith('<DD>',i): out.append(NAME); i+=4; continue
         if text.startswith('<DE>',i): out.append(0xDE); i+=4; continue
         if text.startswith('<01>',i): out.append(0x01); i+=4; continue  # blank tile (menu padding)
+        if text.startswith('<DC>',i): out.append(0xDC); i+=4; continue  # blank tile (font background), menu padding
         if ch=='\n' or ch=='⏎': out.append(NL); i+=1; continue
         if ch not in tbl: raise ValueError(f'char {ch!r} not in font')
         out.append(tbl[ch]); i+=1
@@ -183,6 +184,15 @@ if os.path.exists('out/native_sheet.tsv'):
             rom[free:free+len(blob)]=blob; free+=len(blob); stats['native']+=1
             if a.verbose: print(f'table {ra:06X} -> {t:06X}, stride {n}->{ns}, {len(sites)} sites')
             continue
+        if kind=='dcpad':  # fixed-width lines padded with the blank tile 0xDC, in place: each line keeps the original width
+            olens=[len(x) for x in bytes(rom[ra:rom.find(b'\x00\x00',ra)]).split(b'\x00')]; el=eng.split('⏎')
+            assert len(el)<=len(olens), f'dcpad {ra:06X}: {len(el)} lines > {len(olens)}'
+            out=[]
+            for k,w in enumerate(olens):
+                e=encode(el[k]) if k<len(el) else b''; assert len(e)<=w, f'dcpad {ra:06X}: {el[k]!r} longer than {w}'
+                left=(w-len(e))//2 if len(olens)==1 else 0  # one-line labels are centred, like the originals
+                out.append(b'\xDC'*left+e+b'\xDC'*(w-left-len(e)))
+            blob=b'\x00'.join(out); rom[ra:ra+len(blob)]=blob; stats['native']+=1; continue
         if kind=='patch16':  # 16-bit immediate after the opcode byte at rom_addr: ptr_at = old value, len_at = new value
             old=int(r[nh['ptr_at']],16); new=int(r[nh['len_at']],16)
             assert rom[ra+1]|(rom[ra+2]<<8)==old, f'{ra:06X}: immediate is not {old:04X}'
@@ -201,6 +211,8 @@ if os.path.exists('out/native_sheet.tsv'):
             rom[pa+1:pa+4]=tb
             if rom[la]==0x31:  # ld BC,#imm16
                 assert rom[la+1]|(rom[la+2]<<8)==n-k, f'{la:06X}: not ld BC,#{n-k}'; rom[la+1:la+3]=bytes([(len(enc)-k)&0xFF,(len(enc)-k)>>8])
+            elif rom[la]==0xD9 and 0xA8<=rom[la+1]<=0xAF:  # short form ld BC,#0..7
+                assert rom[la+1]-0xA8==n-k and len(enc)-k<=7, f'{la:06X}: ld BC,#{n-k} short form, new length {len(enc)-k} > 7'; rom[la+1]=0xA8+len(enc)-k
             else:  # ld C,#imm8
                 assert rom[la]==0x23 and rom[la+1]==n-k and len(enc)-k<256, f'{la:06X}: not ld C,#{n-k}'; rom[la+1]=len(enc)-k
         elif kind=='cmd9c':
