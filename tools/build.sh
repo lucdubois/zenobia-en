@@ -10,6 +10,7 @@ python3 tools/insert.py out/_font.ngc "$SHEET" out/zenobia_en.ngc
 python3 tools/labels.py out/zenobia_en.ngc
 python3 tools/cards.py out/zenobia_en.ngc
 python3 tools/intro.py out/zenobia_en.ngc
+python3 tools/terrain.py out/zenobia_en.ngc
 python3 tools/make_ips.py "$ROM" out/zenobia_en.ngc out/zenobia_en.ips
 rm -f out/_font.ngc
 echo "built out/zenobia_en.ngc and out/zenobia_en.ips"
