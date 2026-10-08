@@ -42,8 +42,8 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 40	copy	008EF1	7	008EA4	008EA9	<item> 』でした。⏎⏎	'!⏎⏎
 41	copy	008E2F	13	008D30	008D35	<town>を⏎はっけんしました。⏎⏎	⏎was discovered!⏎⏎
 42	inplace	0995BE	7	-	-	トリスタン<DC><DC>(default hero name)	Tristan
-43	copy	0995A2	5	094FE9	094FEE	なまえは「 <name>	Name: '
-44	copy	0995A7	22	094FFD	095002	<name> 」で⏎<DC>×9よろしいですか?⏎⏎	'.<DC>⏎Is this OK?<DC><DC><DC><DC><DC><DC><DC>⏎⏎
+43	copy	0995A2	5	094FE9	094FEE	なまえは「 <name>	Name: 
+44	copy	0995A7	22	094FFD	095002	<name> 」で⏎<DC>×9よろしいですか?⏎⏎	.<DC>⏎Is this OK?<DC><DC><DC><DC><DC><DC>⏎⏎
 45	inplace	09A6B9	14	-	-	<DC>×3NOTHING<DC>×4 (empty save slot)	<DC><DC><DC><DC>EMPTY<DC><DC><DC><DC><DC>
 46	dcpad	09C315	0	-	-	___へんせい___	Organize
 47	dcpad	09C321	0	-	-	あらかじめユニットのへんせい⏎を_おこないます______	Organize your⏎units ahead.
@@ -95,7 +95,7 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 93	dcpad	09C63A	0	-	-	フリーバトルエリア2 (world map area name)	Skirmish 2
 94	dcpad	09C646	0	-	-	フリーバトルエリア3 (world map area name)	Skirmish 3
 95	ptronly	015F03	14	015CD0	-	『<item>』を⏎あきらめました。⏎⏎ (shares the copy at 0x215D84 / ld BC,#13 at 0x15DB3 with row 32)	'<NAME>'⏎given up.⏎⏎
-96	copy	008E22	11	008DE6	008DEB	ロシュフォルきょうかい (default location name in the town-name builder 0x208DE6, ld A,#11 copy loop)	Rochefort Church
-97	ptr	008E22	11	007A9A	-	ロシュフォルきょうかい (church name in the 13-tile location window, 11 chars max)	Rochefort⏎⏎
+96	copy	008E22	11	008DE6	008DEB	ロシュフォルきょうかい (default location name in the town-name builder 0x208DE6, ld A,#11 copy loop)	Temple
+97	ptr	008E22	11	007A9A	-	ロシュフォルきょうかい (church name in the 13-tile location window, 11 chars max)	Temple⏎⏎
 98	ptr	0C9A72	6	0C9A61	-	タイムアップ (battle time-out, drawn at row 14 col 9)	TIME UP⏎⏎
 99	cmd9c	0952DC	16	094D87	-	うわがきしてもよろしいですか?⏎⏎ (save overwrite prompt)	Overwrite save?⏎⏎

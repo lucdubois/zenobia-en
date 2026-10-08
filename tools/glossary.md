@@ -22,3 +22,5 @@ S14 Ermidal エルミダール (player base), Noha ノハ, Pokka ポッカ, Spir
 S16 Ull ウル (player base), Tente テンテ (shop), Ikutsuke イクツテ, Kanro カンロ, Yerots イエローツ, Riga リガ, Knox ノックス, Ironovale イロノベール ('Ironvale' in slot), Wortmood ワルトムード, Queenrock クインロック ('Queenrok'), Estabul エスタブル (hidden), Hyhandra ハイハンドラ (enemy base, Hyhandra Castle).
 S17 Freya フレイア (player base), Boss ボス, Megalta メガルタ, Kattoit カットイト, Crey クレー, Breya ブレイア, Ault アールト, Sacri サクリ, Shijimi シジミ, Katsula カツーラ, Moorey モウリー (hidden, shop), Dono ドノ (enemy base).
 Style: never use em dashes (— is not in the font); use … or a full stop. Bandits (とうぞく) talk rough and casual (ain't, gonna, ya, 'bout), no cartoonish insults.
+
+City types (prefix before town names, max 8 letters so type + 8-letter name fits 17 columns; user-confirmed 2026-10-08): じょうさいとし Fortress, ぼうえきとし Market, まほうとし Magetown, じゆうとし Freehold, こうぎょうとし Foundry, しんせいとし HolyCity, しゅうきょうとし Abbey, じちとし Commune.

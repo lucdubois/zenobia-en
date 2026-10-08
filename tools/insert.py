@@ -143,7 +143,9 @@ if os.path.exists(a.system):
         newmsg=b'\x00'.join(parts)+b'\x00\x00'
         ptr=lines[0][sh['pointer']]
         if len(newmsg)<=orig_len:
-            pad=orig_len-len(newmsg); parts[-1]+=bytes([SP])*pad
+            # pad the last line with spaces up to the 17 visible columns, then with 01 (skip cell) so the padding never
+            # draws over the box border (an 18th space replaced the right border tile)
+            pad=orig_len-len(newmsg); sp=max(0,min(pad,17-len(parts[-1]))); parts[-1]+=bytes([SP])*sp+b'\x01'*(pad-sp)
             newmsg=b'\x00'.join(parts)+b'\x00\x00'; assert len(newmsg)==orig_len
             rom[first:end+2]=newmsg; stats['sys_inplace']+=1
         elif ptr.startswith('ptr@'):

@@ -34,7 +34,7 @@ E029	0E363D	12	-	ばしょがありませんでした	the items.
 E030	0E364B	11	ptr@0E35E2	タロットをかくのうする	No room to store
 E030	0E3657	12	-	ばしょがありませんでした	the tarot cards.
 E031	0E3B40	9	ptr@0E3B33	はい<01><01><01><01>いいえ	Yes<01><01><01>No
-E032	0E3BC0	16	ptr@0E3B1C	つうしんのあとデータがセーブされ	Data will be saved
+E032	0E3BC0	16	ptr@0E3B1C	つうしんのあとデータがセーブされ	Data is saved
 E032	0E3BD1	11	-	ます。よろしいですか?	after link. OK?
 E033	0E3FA6	11	ptr@0E3F99	どちらかが<01>Aボタンを	Either player,
 E034	0E3FC1	8	ptr@0E3FB4	おしてください。	press A.
