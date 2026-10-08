@@ -26,7 +26,7 @@ for r in rows[1:]:
             while len(r)<len(hdr): r.append('')
             m=re.search(r'・(\d)』',jp)
             if m and 'ききますか' in jp: r[ix['english']]=f"Hear about the game system, part {m.group(1)}?"
-            fixed.append((old,r[ix['rom_addr']],jp[:40])); open('out/traced_addrs.txt','a').write(f'{s+0x200000:06X}\n'); break
+            fixed.append((old,r[ix['rom_addr']],jp[:40])); open('dev/data/traced_addrs.txt','a').write(f'{s+0x200000:06X}\n'); break
 seen=set(); out=[rows[0]]
 for r in sorted(rows[1:],key=lambda r:int(r[ix['rom_addr']],16)):
     if r[ix['rom_addr']] in seen: continue

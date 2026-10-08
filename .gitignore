@@ -6,6 +6,7 @@
 *.rom
 *.zip
 mame/roms/
+!mame/README.md
 
 # Emulator runtime state
 mame/sta/
@@ -17,7 +18,8 @@ cfg/
 nvram/
 *.sta
 
-# Generated build output (rebuild with tools/build.sh)
+# Generated build output (rebuild with ./build or tools/build.sh)
+*.ips
 out/zenobia_en.ngc
 out/*.bin
 out/dasm/

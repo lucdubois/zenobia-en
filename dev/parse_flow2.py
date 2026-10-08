@@ -10,7 +10,7 @@ REGIONS=[(0x263000,0x276000),(0x299000,0x29A000),(0x294C00,0x296000),(0x2C4000,0
 def inscript(v): return any(lo<=v<hi for lo,hi in REGIONS)
 def inrom(v): return 0x200000<=v<0x370000
 tbl={}
-for line in open(os.path.join(here,'zenobia.tbl'),encoding='utf-8'):
+for line in open(os.path.join(here,'..','tools','zenobia.tbl'),encoding='utf-8'):
     line=line.rstrip('\n')
     if not line or line.startswith('#'): continue
     k,v=line.split('=',1); tbl[int(k,16)]=v.replace('\\n','⏎')
@@ -112,7 +112,7 @@ for lo,hi in REGIONS:
 seeds.add(0x2995D9)
 traced=set()
 try:
-    for line in open(os.path.join(here,'..','out','traced_addrs.txt')):
+    for line in open(os.path.join(here,'data','traced_addrs.txt')):
         line=line.strip()
         if line: traced.add(int(line,16))
 except FileNotFoundError: pass

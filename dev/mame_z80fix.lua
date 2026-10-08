@@ -4,7 +4,7 @@
 -- in shared RAM 0x70DE, so the game hangs (also with the original ROM; Mednafen and hardware are fine).
 -- Watchdog: if the Z80 tick has not moved for 3 frames while it has interrupts enabled (IM 1), fake one interrupt:
 -- push PC, jump to 0x38, clear IFF1/IFF2 (what the hardware does for an IM 1 interrupt).
--- Loaded by tools/play.sh (-autoboot_script); harmless when MAME's own interrupts work (the tick keeps moving).
+-- Loaded by dev/play.sh (-autoboot_script); harmless when MAME's own interrupts work (the tick keeps moving).
 local z = manager.machine.devices[":soundcpu"]
 if not z then return end
 local zs = z.state

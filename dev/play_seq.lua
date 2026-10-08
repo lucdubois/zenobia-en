@@ -1,3 +1,4 @@
+pcall(dofile, "../dev/mame_z80fix.lua")  -- MAME sound-CPU interrupt workaround (see that file)
 -- Replays an input sequence (env SEQ: "A:40,B:40,Opt:40,Up:10,Down:10,Left:10,Right:10,wait:60" repeated), snapshots every SNAP frames,
 -- watches for script fetches, optionally saves a state (SAVE_AT frame, SAVE_NAME). Exits at WP_FRAMES.
 local out  = os.getenv("WP_OUT") or "wp.txt"
@@ -7,7 +8,7 @@ local save_at = tonumber(os.getenv("SAVE_AT") or "0"); local save_name = os.gete
 local seq = os.getenv("SEQ") or "A:40"
 local dbg = manager.machine.debugger
 dbg:command("symlist")
-dbg:command('wpset 200C79,1000,r,,{printf "FONT pc=%06X addr=%06X",pc,wpaddr; g}')
+dbg:command('wpset 263000,13000,r,pc==200240,{printf "ENTRY addr=%06X",wpaddr; g}')
 dbg:command("g")
 local P = manager.machine.ioport.ports[":Controls"].fields
 local map = {A=P["Button A"], B=P["Button B"], Opt=P["Option"], Up=P["Up"], Down=P["Down"], Left=P["Left"], Right=P["Right"]}

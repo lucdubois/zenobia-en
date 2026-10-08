@@ -6,7 +6,7 @@ here=os.path.dirname(os.path.abspath(__file__))
 rom=open(sys.argv[1],'rb').read()
 ranges=[(0x063000,0x076000),(0x094C00,0x096000),(0x099000,0x09A000)]
 tbl={}
-for line in open(os.path.join(here,'zenobia.tbl'),encoding='utf-8'):
+for line in open(os.path.join(here,'..','tools','zenobia.tbl'),encoding='utf-8'):
     line=line.rstrip('\n')
     if not line or line.startswith('#'): continue
     k,v=line.split('=',1); tbl[int(k,16)]=v.replace('\\n','\n')

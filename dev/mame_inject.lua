@@ -1,7 +1,7 @@
 -- Inject a Mednafen/Beetle-NeoPop game state into a running MAME session (approximate: RAM, VRAM, palettes,
--- K2GE scroll/window registers, TLCS-900 registers; timers/Z80/sound keep MAME's). Files come from tools/state2mame.py.
+-- K2GE scroll/window registers, TLCS-900 registers; timers/Z80/sound keep MAME's). Files come from dev/state2mame.py.
 -- env: INJ_DIR (dir with ram.bin scroll.bin chr.bin spr.bin sprc.bin pal.bin regs.lua), INJ_AT (frame, default 20)
-pcall(dofile, "../tools/mame_z80fix.lua")
+pcall(dofile, "../dev/mame_z80fix.lua")
 local dir=os.getenv("INJ_DIR"); local at=tonumber(os.getenv("INJ_AT") or "20")
 local cpu=manager.machine.devices[":maincpu"]; local mem=cpu.spaces["program"]
 local function blob(name, addr)

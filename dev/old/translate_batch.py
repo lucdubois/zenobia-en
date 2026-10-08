@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Apply a dict of translations (rom_addr -> english) to out/script_sheet.tsv. usage: python3 out/translate_batch.py FILE.py"""
+"""Apply a dict of translations (rom_addr -> english) to out/script_sheet.tsv. usage: python3 dev/old/translate_batch.py FILE.py"""
 import sys,runpy
 T=runpy.run_path(sys.argv[1])['T']
 rows=[l.rstrip('\n').split('\t') for l in open('out/script_sheet.tsv',encoding='utf-8')]

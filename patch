@@ -1,18 +1,23 @@
-#!/bin/zsh
-# Apply the English patch: ./patch [ROM]
-# Looks for the IPS with the same name next to the ROM (Foo.ngc -> Foo.ips) and writes Foo_en.ngc.
-# Asks for the ROM path if it is not given. The original ROM is left untouched.
-set -e
-HERE="$(cd "$(dirname "$0")" && pwd)"
-rom="$1"
-if [ -z "$rom" ]; then
-  read -r "rom?Path to the original Japanese ROM (.ngc): "
-  rom=${(Q)rom}
-fi
-rom=${rom/#\~/$HOME}
-[ -f "$rom" ] || { echo "File not found: $rom"; exit 1; }
-ips="${rom%.*}.ips"
-[ -f "$ips" ] || { echo "No patch found: $ips (run ./build first)"; exit 1; }
-out="${rom%.*}_en.${rom##*.}"
-python3 "$HERE/tools/apply_ips.py" "$rom" "$ips" "$out" >/dev/null
-echo "Patched ROM written: $out"
+#!/usr/bin/env python3
+"""Apply the English patch: ./patch [ROM]   (Windows: python patch ROM)
+Looks for the IPS with the same name next to the ROM (Foo.ngc -> Foo.ips) and writes Foo_en.ngc.
+Asks for the ROM path if it is not given. The original ROM is left untouched."""
+import os,sys
+sys.path.insert(0,os.path.join(os.path.dirname(os.path.abspath(__file__)),'tools'))
+from cli import ask_path
+def apply_ips(rom,patch):
+    rom=bytearray(rom); assert patch[:5]==b'PATCH', 'not an IPS file'; i=5
+    while patch[i:i+3]!=b'EOF':
+        off=int.from_bytes(patch[i:i+3],'big'); n=int.from_bytes(patch[i+3:i+5],'big'); i+=5
+        if n==0: rle=int.from_bytes(patch[i:i+2],'big'); rom[off:off+rle]=bytes([patch[i+2]])*rle; i+=3
+        else: rom[off:off+n]=patch[i:i+n]; i+=n
+    return rom
+if __name__=='__main__':
+    rom=ask_path(sys.argv[1] if len(sys.argv)>1 else '')
+    base,ext=os.path.splitext(rom); ips=base+'.ips'
+    if not os.path.isfile(ips): sys.exit(f'No patch found: {ips} (run ./build first)')
+    out=f'{base}_en{ext}'
+    with open(rom,'rb') as f: data=f.read()
+    with open(ips,'rb') as f: p=f.read()
+    with open(out,'wb') as f: f.write(apply_ips(data,p))
+    print(f'Patched ROM written: {out}')

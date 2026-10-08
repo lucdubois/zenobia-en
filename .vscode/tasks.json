@@ -4,7 +4,7 @@
         {
             "label": "Install on Thor",
             "type": "shell",
-            "command": "${workspaceFolder}/tools/push-thor.sh",
+            "command": "${workspaceFolder}/dev/push-thor.sh",
             "problemMatcher": [],
             "presentation": {
                 "reveal": "always",

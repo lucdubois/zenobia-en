@@ -6,7 +6,7 @@ from zenobia_ops import OPS,NAMES
 rom=open(sys.argv[1],'rb').read()
 lo=int(sys.argv[2],16); hi=int(sys.argv[3],16); doprint='--print' in sys.argv
 tbl={}
-for line in open(os.path.join(here,'zenobia.tbl'),encoding='utf-8'):
+for line in open(os.path.join(here,'..','tools','zenobia.tbl'),encoding='utf-8'):
     line=line.rstrip('\n')
     if not line or line.startswith('#'): continue
     k,v=line.split('=',1); tbl[int(k,16)]=v.replace('\\n','⏎')

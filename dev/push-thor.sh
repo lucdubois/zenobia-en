@@ -1,6 +1,6 @@
 #!/bin/zsh
 # Build the English ROM and copy it to the AYN Thor over adb (ROMs/ngpc on the SD card, else internal storage).
-# usage: tools/push-thor.sh [--no-build]      (VS Code: task "Install on Thor", bound to ctrl+option+i)
+# usage: dev/push-thor.sh [--no-build]      (VS Code: task "Install on Thor", bound to ctrl+option+i)
 set -e
 cd "$(dirname "$0")/.."
 ADB="$(command -v adb || echo "$HOME/Library/Android/sdk/platform-tools/adb")"

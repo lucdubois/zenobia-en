@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Convert a Mednafen (.mcN, gzip) or RetroArch Beetle NeoPop (.stateN, RZIP) save state into the files read by
-tools/mame_inject.lua: ram.bin (0x4000-0x7FFF), scroll.bin, chr.bin, spr.bin, sprc.bin, pal.bin, regs.lua.
+dev/mame_inject.lua: ram.bin (0x4000-0x7FFF), scroll.bin, chr.bin, spr.bin, sprc.bin, pal.bin, regs.lua.
 usage: state2mame.py STATE OUTDIR"""
 import sys,os,gzip,zlib,struct
 def load(path):
