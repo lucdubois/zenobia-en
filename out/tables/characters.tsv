@@ -1656,9 +1656,9 @@ index	rom_addr	header	japanese	english
 1654	012595		やみのきし	Dark Knight
 1655	01259A		ロード	Rhode
 1656	01259D		デネブ	Deneb
-1657	0125A0		ランスロット	Lancelot
+1657	0125A0		ランスロット	Lanselot
 1658	0125A6		ウォーレン	Warren
-1659	0125AB		ギルバルト	Gilbard
+1659	0125AB		ギルバルト	Gilbert
 1660	0125B0		カノープス	Canopus
 1661	0125B5		アッシュ	Ash
 1662	0125B9		ライアン	Ryan
@@ -1675,9 +1675,9 @@ index	rom_addr	header	japanese	english
 1673	0125E7		ジェンガ	Jenga
 1674	0125EB		ヨークレイフ	Yorkleif
 1675	0125F1		グロス	Gloth
-1676	0125F4		だんしゃく	Danshiyak
+1676	0125F4		だんしゃく	Baron
 1677	0125F9		キロス	Kyros
-1678	0125FC		トリスタン	Torisutan
+1678	0125FC		トリスタン	Tristan
 1679	012601		カズマ	Kazuma
 1680	012604		ダラム	Durham
 1681	012607		バルドル	Baldur

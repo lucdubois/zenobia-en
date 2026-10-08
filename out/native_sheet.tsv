@@ -2,7 +2,7 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 00	copy	008864	22	00831B	008320	<unit>のユニットが⏎いどうをしゅうりょうしました。	's unit⏎finished moving.
 01	copy	00887A	11	008449	00844E	<town>を⏎かいほうしました。	⏎was liberated!
 02	copy	008848	28	008473	008478	<unit>ひきいるユニットを⏎ほんきょちへ、きかんさせますか?⏎⏎	's unit:⏎Return to HQ?⏎⏎
-03	cmd9c	008885	16	008548	-	タロットカードをひきますか?⏎⏎	Draw a tarot card?⏎⏎
+03	cmd9c	008885	16	008548	-	タロットカードをひきますか?⏎⏎	Draw tarot card?⏎⏎
 04	inplace	0030F5	9	-	-	はい<01><01>いいえ⏎⏎	Yes<01>No⏎⏎
 05	copy1	008CD1	25	008C97	008CB1	「<card>」のカードを⏎<01>×9ひきました。⏎⏎	'<NAME>' card⏎drawn!⏎⏎
 06	cmd9c	008CB7	27	008931	-	タロットカードを⏎<01>×6ストックしますか?⏎⏎	Stock this tarot⏎card?⏎⏎
@@ -27,7 +27,7 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 25	patch16	0E2242	2	925A	9258	summary value column -> 12 (row 9)	-
 26	patch16	0E225A	2	929E	9298	summary value column -> 12 (row 10)	-
 27	patch16	0E2272	2	92DE	92D8	summary value column -> 12 (row 11)	-
-28	copy	00966C	30	0091CB	0091D0	<leader>ひきいるユニットが⏎てきたいユニットとそうぐうしました。⏎⏎	's unit⏎met an enemy unit!⏎⏎
+28	copy	00966C	30	0091CB	0091D0	<leader>ひきいるユニットが⏎てきたいユニットとそうぐうしました。⏎⏎	's unit⏎met an enemy!⏎⏎
 29	copy	00968A	34	0090C2	0090C7	<leader>ひきいるユニットが⏎ちゅうりつキャラクターと⏎そうぐうしました。⏎⏎	's unit⏎met a neutral⏎character.⏎⏎
 30	copy	0096AC	10	00938D	009392	せんりひんとして⏎『 <item>	Spoils found:⏎'
 31	copy	0096B6	14	0093B8	0093BD	<item> 』を⏎はっけんしました。⏎⏎	'!⏎⏎
@@ -94,3 +94,4 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 92	dcpad	09C62E	0	-	-	フリーバトルエリア1 (world map area name)	Skirmish 1
 93	dcpad	09C63A	0	-	-	フリーバトルエリア2 (world map area name)	Skirmish 2
 94	dcpad	09C646	0	-	-	フリーバトルエリア3 (world map area name)	Skirmish 3
+95	ptronly	015F03	14	015CD0	-	『<item>』を⏎あきらめました。⏎⏎ (shares the copy at 0x215D84 / ld BC,#13 at 0x15DB3 with row 32)	'<NAME>'⏎given up.⏎⏎

@@ -7,7 +7,7 @@ otherwise the slot gets a jump (DA ptr) to free space holding the new text boxes
 import sys,os,re,argparse
 here=os.path.dirname(os.path.abspath(__file__))
 ap=argparse.ArgumentParser(); ap.add_argument('rom'); ap.add_argument('sheet'); ap.add_argument('out')
-ap.add_argument('--width',type=int,default=18); ap.add_argument('--lines',type=int,default=3)
+ap.add_argument('--width',type=int,default=17); ap.add_argument('--lines',type=int,default=3)
 ap.add_argument('--free',default='170000'); ap.add_argument('--verbose',action='store_true'); ap.add_argument('--options',default='out/options_sheet.tsv'); ap.add_argument('--system',default='out/system_sheet.tsv')
 a=ap.parse_args()
 rom=bytearray(open(a.rom,'rb').read())
@@ -57,6 +57,8 @@ for r in rows[1:]:
     slot_end=e+1; slot=slot_end-addr
     lines=wrap(eng,a.width)
     boxes=[lines[i:i+a.lines] for i in range(0,len(lines),a.lines)]
+    if term==0xFC and len(boxes[-1])>2:  # prompt: the choices are drawn on the 3rd line of the last box
+        print(f'WARNING {r[ix["id"]]} {addr:06X}: prompt text wraps to {len(boxes[-1])} lines, the choices will cover line 3: {eng!r}')
     payload=bytearray()
     for bi,box in enumerate(boxes):
         payload.append(0x32); payload+=encode('\n'.join(box)); payload.append(term if bi==len(boxes)-1 else 0xFE)
@@ -200,7 +202,7 @@ if os.path.exists('out/native_sheet.tsv'):
         enc_=lambda t: bytes([1]).join(encode(s) for s in t.split('<01>'))
         pre,_,post=eng.rpartition('<NAME>')  # <NAME> marks where the game inserts the name (copy: before the text, copy1: after 1 byte)
         enc=enc_(pre)+enc_(post)
-        if kind=='copy1': assert len(enc_(pre))==1, f'native {ra:06X}: copy1 needs exactly 1 byte before <NAME>'
+        if kind in ('copy1','ptronly'): assert len(enc_(pre))==1, f'native {ra:06X}: copy1 needs exactly 1 byte before <NAME>'
         if kind=='inplace':
             if len(enc)>n: print(f'WARNING native {ra:06X}: {len(enc)}B > {n}B; skipped'); continue
             rom[ra:ra+len(enc)]=enc; stats['native']+=1; continue
@@ -215,6 +217,10 @@ if os.path.exists('out/native_sheet.tsv'):
                 assert rom[la+1]-0xA8==n-k and len(enc)-k<=7, f'{la:06X}: ld BC,#{n-k} short form, new length {len(enc)-k} > 7'; rom[la+1]=0xA8+len(enc)-k
             else:  # ld C,#imm8
                 assert rom[la]==0x23 and rom[la+1]==n-k and len(enc)-k<256, f'{la:06X}: not ld C,#{n-k}'; rom[la+1]=len(enc)-k
+        elif kind=='ptronly':  # like copy1, but the copy length belongs to another row (shared code): just repoint, must fit n bytes
+            assert rom[pa]==0x45 and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not ld XIY,#{src:06X}'
+            assert len(enc)<=n, f'native {ra:06X}: {len(enc)}B > shared copy length {n}B'
+            rom[pa+1:pa+4]=tb
         elif kind=='cmd9c':
             assert rom[pa]==0x9C and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not 9C {src:06X}'
             rom[pa+1:pa+4]=tb
