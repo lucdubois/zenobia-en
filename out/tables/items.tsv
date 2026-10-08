@@ -8,11 +8,11 @@ index	rom_addr	header	japanese	english
 6	01686D	051e0500	ワンダーエッグ	Wonder Egg
 7	016878	05680100	まんげつのいし	Full Moon Stone
 8	016883	05c80000	ジョーカーのふだ	Joker Card
-9	01688F	03c80000	リターンハーフ	Return Half
+9	01688F	03c80000	リターンハーフ	Recall Tome
 10	01689A	05c40900	ダウジングロッド	Dowsing Rod
 11	0168A6	05010000	トレードチケット	Trade Ticket
-12	0168B2	052c0100	オールサモンズ	All Summons
-13	0168BD	03881300	ラブアンドピース	Love and Peace
+12	0168B2	052c0100	オールサモンズ	Rally Call
+13	0168BD	03881300	ラブアンドピース	Persuasion Spell
 14	0168C9	032c0100	7リーグブーツ	7-League Boots
 15	0168D4	050a0000	トロイのもくば	Trojan Horse
 16	0168DF	05900100	やみのかおり	Dark Scent
