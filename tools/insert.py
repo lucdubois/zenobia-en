@@ -260,7 +260,7 @@ for fpath in ('out/fixed_sheet.tsv','out/towns_sheet.tsv'):
     frows=[l.rstrip('\n').split('\t') for l in open(fpath,encoding='utf-8')]; fh={h:i for i,h in enumerate(frows[0])}
     for r in frows[1:]:
         if len(r)<=fh['english'] or not r[fh['english']].strip(): continue
-        fa=int(r[fh['rom_addr']],16); slot=int(r[fh['slot']]); enc=encode(r[fh['english']].strip())
+        fa=int(r[fh['rom_addr']],16); slot=int(r[fh['slot']]); enc=encode(r[fh['english']].rstrip())  # leading spaces are kept (e.g. ' No' after 'Leader:')
         if len(enc)>slot: print(f'WARNING fixed {fa:06X}: {r[fh["english"]]!r} longer than slot {slot}'); continue
         rom[fa:fa+slot]=enc+b'\x01'*(slot-len(enc)); stats['fixed']+=1
 # offset-indexed tables (classes, items, help texts...) from out/tables/*.tsv
