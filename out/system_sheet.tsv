@@ -325,6 +325,9 @@ msg	rom_addr	bytes	pointer	japanese	english
 0230	00F877	9	ptr@00F71C	ねむりやマヒなどの	Cures
 0230	00F881	4	-	みかたを	status
 0230	00F886	8	-	かいふくします。	effects.
+X002	00F890	7	ptr@00F720	アスモデウスが	Asmodeus
+X002	00F898	5	-	ダメージを	attacks.
+X002	00F89E	6	-	あたえます。	-
 0231	00F8A6	8	ptr@00F724	じしんをおこして	Quake
 0231	00F8AF	5	-	ダメージを	deals
 0231	00F8B5	6	-	あたえます。	damage.
@@ -333,8 +336,9 @@ msg	rom_addr	bytes	pointer	japanese	english
 0233	00F8CF	3	ptr@00F72C	てきの	Swaps
 0233	00F8D3	7	-	まえとうしろを	foes'
 0233	00F8DB	7	-	いれかえます。	ranks.
-0234	00F8EC	9	-	キャラにダメージを	Damages
-0234	00F8F6	6	-	あたえます。	all.
+0234	00F8E4	7	ptr@00F730	ALIのひくい	Hits all
+0234	00F8EC	9	-	キャラにダメージを	with low
+0234	00F8F6	6	-	あたえます。	ALI.
 0235	00F8FE	8	ptr@00F734	せいなるひかりで	Holy
 0235	00F907	5	-	ダメージを	light
 0235	00F90D	6	-	あたえます。	damage.
