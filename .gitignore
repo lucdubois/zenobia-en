@@ -12,6 +12,7 @@ mame/sta/
 mame/nvram/
 mame/cfg/
 mame/debug.log
+mame/snap/
 cfg/
 nvram/
 *.sta
