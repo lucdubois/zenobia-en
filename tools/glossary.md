@@ -21,3 +21,4 @@ S15 Nofrost ノーフロスト (player base), Wett ウェット, Whinda ウイ�
 S14 Ermidal エルミダール (player base), Noha ノハ, Pokka ポッカ, Spirit スピルト, Gagar ガガール, Kaminor カミノール (hidden, shop), Ultimo ウルトモ (enemy base).
 S16 Ull ウル (player base), Tente テンテ (shop), Ikutsuke イクツテ, Kanro カンロ, Yerots イエローツ, Riga リガ, Knox ノックス, Ironovale イロノベール ('Ironvale' in slot), Wortmood ワルトムード, Queenrock クインロック ('Queenrok'), Estabul エスタブル (hidden), Hyhandra ハイハンドラ (enemy base, Hyhandra Castle).
 S17 Freya フレイア (player base), Boss ボス, Megalta メガルタ, Kattoit カットイト, Crey クレー, Breya ブレイア, Ault アールト, Sacri サクリ, Shijimi シジミ, Katsula カツーラ, Moorey モウリー (hidden, shop), Dono ドノ (enemy base).
+Style: never use em dashes (— is not in the font); use … or a full stop. Bandits (とうぞく) talk rough and casual (ain't, gonna, ya, 'bout), no cartoonish insults.

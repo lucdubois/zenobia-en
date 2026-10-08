@@ -154,7 +154,8 @@ msg	rom_addr	bytes	pointer	japanese	english
 0104	008D30	4	ptr@0084E6,01364F,013B59	みこノU	
 0105	008D76	3	-	だタは	
 0105	008D7A	3	-	ぶしブ	
-0106	008DD2	18	-	うもれたざいほうをはっけんしました。	Treasure unearthed
+0106	008DC2	15	-	CONGRATULATION!	CONGRATULATIONS!
+0106	008DD2	18	-	うもれたざいほうをはっけんしました。	Treasure found!
 0107	008E03	5	-	Vみそせい	
 0108	008E31	9	-	はっけんしました。	found!
 0109	008E3C	4	ptr@008D68,008DB7	おだャU	

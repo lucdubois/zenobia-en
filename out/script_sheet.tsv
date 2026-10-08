@@ -39,14 +39,14 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0037	06407E	FE	49		「ん?おまえらはグリングのなかま⏎をたおしたというれんちゅうか?⏎よし、ここでかたきをとってやる!	Huh? So you're the ones who did in our boys at Gring? You're gonna pay for that!
 0038	0640B5	FE	49	エストラーダ	「とうぞくがなかまの⏎かたきうちだと?⏎わらわせるな!⏎ともにジゴクへおくってやるわ。	Estrada: Bandits avenging their comrades? Don't make me laugh! I'll send you to Hell together.
 0039	0640FA	FE	43	むらびと	「どうもありがとう⏎ございました。⏎これでこのふきん⏎もおちつくことでしょう。	Villager: Thank you so very much. Things should calm down around here now.
-0040	064127	FE	23		「これはほんのおれいです。⏎おおさめください。	This is just a small token of thanks. Please accept it.
+0040	064127	FE	23		「これはほんのおれいです。⏎おおさめください。	It isn't much, but please take this as our thanks.
 0041	06414D	FC	23		『ゲームシステムについて・4』⏎をききますか?	Explain the game system, part 4?
 0042	06416D	FE	45		きょてんをかいほうすると⏎じょうほうやアイテムやタロット⏎カードがえられることがあります。	When you liberate a base, you may obtain information, items, or tarot cards.
 0043	06419C	FE	44		そして、かいほうしたきょてん⏎からは1にちごとにほうしょうきん⏎をもらうことができます。	And liberated bases pay you a reward every day.
 0044	0641CA	FE	47		おかねがないとユニットのはけんが⏎できなくなるので、かならず⏎きょてんをかいほうしてください。	Without money you can't deploy units, so be sure to liberate bases.
 0045	0641FB	FC	11		もういちどききますか?	Hear it again?
 0046	06420F	FE	24		「きしどの、ほんとうに⏎ありがとうございました。	Sir Knight, thank you so very much.
-0047	064231	FE	31	エストラーダ	「うむ。⏎こまったことがあれば⏎またしらせてくれ。	Estrada: Mm. If you have any trouble, let me know again.
+0047	064231	FE	31	エストラーダ	「うむ。⏎こまったことがあれば⏎またしらせてくれ。	Estrada: Mm. Should you ever need help again, send word.
 0048	064252	FE	18		「どうした<DD>?⏎…ふるえているのか?	What is it, <DD>? …Are you trembling?
 0049	06426A	FE	8	<DD>	「………	<DD>: ………
 0050	064271	FE	49	エストラーダ	「…わしは、きしだ。⏎ひとびとをすくうためなら、けんを⏎つかうことに、ためらいはない。	Estrada: …I am a knight. If it means saving people, I do not hesitate to use my sword.
@@ -111,29 +111,29 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0109	064B8B	FC	11		もういちどききますか?	Hear it again?
 0110	064B9F	FE	36	エストラーダ	「では、まずダカツと⏎ホインハイムのまちを⏎かいほうするぞ。	Estrada: Now, first we liberate the towns of Dakasch and Hoenheim.
 0111	064BC5	FE	40		「わしはホインハイムにむかう。⏎<DD>のユニットは⏎ダカツをたのむ。⏎さあ、いくぞ!	I'll head for Hoenheim. <DD>, your unit takes Dakasch. Now, move out!
-0112	064E21	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで⏎おれたちに、はむかおうってのか?	Bandit: Who the hell are you? You mean to defy us with numbers like that?
-0113	064E4E	FE	19		「けっ!⏎じごくでこうかいさせてやる!	Heh! I'll make you regret it in Hell!
-0114	064E6B	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで、おれたちに⏎はむかおうってのか?	Bandit: Who the hell are you? You mean to defy us with numbers like that?
+0112	064E21	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで⏎おれたちに、はむかおうってのか?	Bandit: Who the hell are you? You think you can take us with a crew that small?
+0113	064E4E	FE	19		「けっ!⏎じごくでこうかいさせてやる!	Heh! You'll be sorry… in Hell!
+0114	064E6B	FE	43	とうぞく	「なにものだ、きさまら。⏎そのていどのかずで、おれたちに⏎はむかおうってのか?	Bandit: Who the hell are you? You think you can take us with a crew that small?
 0115	064E98	FE	17		「ん?⏎あ、そ、そのもんしょうは?	Hm? Th-that crest…?
 0116	064EAF	FE	43	エストラーダ	「…ゼノビアへいの⏎いきのこりだ、というウワサは⏎ほんとうだったのだな…。	Estrada: …So the rumor that you were survivors of the Zenobian army was true…
 0117	064EDC	FE	44		「きさまらも、もとゼノビアへい⏎ならば、おろかなことをやめて⏎おとなしくとうこうしろッ!	If you were once Zenobian soldiers, then stop this foolishness and surrender quietly!
-0118	064F0A	FE	48	とうぞく	「…あんた、ゼノビアの⏎きしだな…。きしさまには、わかる⏎まい。⏎おれたちのきもちは…。	Bandit: …You're a Zenobian knight, aren't you… A knight could never understand how we feel…
-0119	064F3C	FE	40		「ハイランドとのいくさだからって⏎むりやり、かりだされたおれたちの⏎きもちはッ!	How we felt, dragged off by force to fight your war with Highland!
-0120	064F76	FE	30	とうぞく	「…なんで、こんなことに⏎…なっちまったんだか…な…	Bandit: …Why did it… have to come to this…
+0118	064F0A	FE	48	とうぞく	「…あんた、ゼノビアの⏎きしだな…。きしさまには、わかる⏎まい。⏎おれたちのきもちは…。	Bandit: …You're a Zenobian knight, ain't ya… A fancy knight like you could never get how we feel…
+0119	064F3C	FE	40		「ハイランドとのいくさだからって⏎むりやり、かりだされたおれたちの⏎きもちはッ!	How we felt, gettin' dragged off to fight your war with Highland!
+0120	064F76	FE	30	とうぞく	「…なんで、こんなことに⏎…なっちまったんだか…な…	Bandit: …How'd it all… end up like this…
 0121	064FA8	FE	30	むらびと	「ここは、わたしたちの⏎むらがあったところなのです。	Villager: This is where our village used to stand.
 0122	064FC8	FE	30		「とうぞくたちにせんりょうされて⏎とりでとなっていたのです。	The bandits took it over and turned it into a fort.
 0123	064FE8	FE	35		「しかし、あなたがたのおかげで⏎むかしのくらしが⏎とりもどせそうです。	But thanks to you, it looks like we can get our old lives back.
 0124	06500D	FE	27		「まだほかにもとりでがあります。⏎きをつけてください。	There are still other forts. Please be careful.
 0125	06502B	FE	14		「あなたがたは、あのときの…	You're the ones from back then…
 0126	06503B	FE	38		「いまでは、このむらも⏎へいわをとりもどせました。⏎ありがとうございました。	Now this village has its peace back too. Thank you very much.
-0127	065078	FE	42	とうぞく	「なんだ?おまえたちは。⏎ここは、おまえたちなんかのくる⏎ところじゃないぞ。	Bandit: What? Who are you? This is no place for the likes of you.
-0128	0650B7	FE	48	とうぞく	「ふん。⏎ゼノビアぐんの⏎いきのこりか。⏎おとなしくして⏎いれば、いきのびられたものを。	Bandit: Hmph. Survivors of the Zenobian army, eh? If you'd kept quiet, you'd have lived.
-0129	0650E9	FE	26		「ハイランドのかわりに⏎おれたちがらくにしてやるよ。	We'll put you out of your misery in Highland's place.
-0130	06512E	FE	40	とうぞく	「なんだ?おまえたちは。⏎もんばんなら、まにあってるぞ。⏎かえれかえれ。	Bandit: What? Who are you? We've got enough gatekeepers. Go home, go home.
-0131	06516D	FE	24	とうぞく	「きさまら⏎すこしはうでがたつようだな。	Bandit: Seems you lot can handle yourselves.
-0132	065187	FC	20		「どうだ、おれたちのなかまに⏎ならんか?	How about it? Want to join us?
-0133	0651A0	FE	22		「ばかめ。⏎それじゃいのちをいただくだけだ。	Fools. Then I'll just take your lives.
-0134	0651BC	FE	30	とうぞく	「ばかやろう!⏎ウソはもっと⏎うまくつくもんだぜ!!	Bandit: Idiot! If you're going to lie, lie better!!
+0127	065078	FE	42	とうぞく	「なんだ?おまえたちは。⏎ここは、おまえたちなんかのくる⏎ところじゃないぞ。	Bandit: Huh? Who're you? This ain't no place for the likes of you.
+0128	0650B7	FE	48	とうぞく	「ふん。⏎ゼノビアぐんの⏎いきのこりか。⏎おとなしくして⏎いれば、いきのびられたものを。	Bandit: Hmph. Leftovers from the Zenobian army, eh? Shoulda kept your heads down. You'd still be breathin'.
+0129	0650E9	FE	26		「ハイランドのかわりに⏎おれたちがらくにしてやるよ。	We'll finish the job Highland started.
+0130	06512E	FE	40	とうぞく	「なんだ?おまえたちは。⏎もんばんなら、まにあってるぞ。⏎かえれかえれ。	Bandit: Huh? Who're you? We got enough guards already. Get lost!
+0131	06516D	FE	24	とうぞく	「きさまら⏎すこしはうでがたつようだな。	Bandit: Heh, you lot ain't half bad in a fight.
+0132	065187	FC	20		「どうだ、おれたちのなかまに⏎ならんか?	So how 'bout it? Wanna join us?
+0133	0651A0	FE	22		「ばかめ。⏎それじゃいのちをいただくだけだ。	Idiots. Then I'll just take your lives instead.
+0134	0651BC	FE	30	とうぞく	「ばかやろう!⏎ウソはもっと⏎うまくつくもんだぜ!!	Bandit: Moron! If you're gonna lie, at least make it a good one!!
 0135	065255	FC	23		『ゲームシステムについて・7』⏎をききますか?	Explain the game system, part 7?
 0136	065275	FE	36		「だい3わをクリアすると⏎つうしんたいせんが⏎たのしめるようになります。	Clear chapter 3 and you'll be able to enjoy link battles.
 0137	06529B	FE	30		「そのほか、キャラクターや⏎アイテムのこうかんもできます。⏎	You can also trade characters and items.
@@ -156,7 +156,7 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0154	065528	FC	23		『ゲームシステムについて・6』⏎をききますか?	Explain the game system, part 6?
 0155	065548	FE	44		カオスフレームは、あなたの⏎こうどうにたいする、ひとびとの⏎しじりつをあらわしています。	The Chaos Frame shows how much the people support your actions.
 0156	065576	FE	44		たとえば…アライメントのひくい⏎ユニットで、かいほうをおこなうと⏎フレームがさがります。	For example… liberating a base with a low-alignment unit lowers the Frame.
-0157	0655A4	FE	46		あなたのこうどうは、つねに⏎おおくのひとびとにみられている⏎ことを、おぼえておいてください。	Remember that many people are always watching what you do.
+0157	0655A4	FE	46		あなたのこうどうは、つねに⏎おおくのひとびとにみられている⏎ことを、おぼえておいてください。	Remember: the people are watching your every move.
 0158	0655D4	FC	11		もういちどききますか?	Hear it again?
 0159	0655E8	FE	38		「このまちにはショップが⏎あるからね。⏎アイテムを⏎かうことができるんだよ。	This town has a shop, you know. You can buy items there.
 0160	065610	FE	31		「ショップのあるまちは⏎ほかにもあるからね。⏎さがしてごらん。	There are other towns with shops too. Go look for them.
