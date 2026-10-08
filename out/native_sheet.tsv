@@ -99,3 +99,4 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 97	ptr	008E22	11	007A9A	-	ロシュフォルきょうかい (church name in the 13-tile location window, 11 chars max)	Temple⏎⏎
 98	ptr	0C9A72	6	0C9A61	-	タイムアップ (battle time-out, drawn at row 14 col 9)	TIME UP⏎⏎
 99	cmd9c	0952DC	16	094D87	-	うわがきしてもよろしいですか?⏎⏎ (save overwrite prompt)	Overwrite save?⏎⏎
+100	ptr	006F71	28	006EDF	-	はけんひようは + cost + ゴートに⏎なります。·よろしいですか? (deploy cost prompt: code copies 7 bytes, writes the number, then copies 21 more bytes from the same string)	Price:  Goth.⏎Deploy unit?⏎⏎

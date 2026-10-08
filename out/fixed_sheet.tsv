@@ -8,7 +8,7 @@ rom_addr	slot	english
 00F121	8	Leader
 00F12A	8	Finish
 00F13E	8	Magician
-00F148	8	Priestes
+00F148	8	Prstess
 00F152	8	Empress
 00F15C	8	Emperor
 00F166	8	Hieroph.
@@ -18,9 +18,9 @@ rom_addr	slot	english
 00F18E	8	Hermit
 00F198	8	Fortune
 00F1A2	8	Justice
-00F1AC	8	HangedMn
+00F1AC	8	HngdMan
 00F1B6	8	Death
-00F1C0	8	Temperan
+00F1C0	8	Temper.
 00F1CA	8	Devil
 00F1D4	8	Tower
 00F1DE	8	Star

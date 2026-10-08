@@ -93,8 +93,8 @@ msg	rom_addr	bytes	pointer	japanese	english
 0067	006F41	14	-	はけんすることができません。	is incapacitated.
 0068	006F51	14	ptr@006ED2	このユニットをはけんするには	Not enough funds
 0068	006F60	15	-	しょじきんがふそくしています。	to deploy it.
-0069	006F71	11	ptr@006EE0	はけんひようはゴートに	Deploy cost
-0070	006F83	8	-	よろしいですか?	Confirm?
+0069	006F71	11	ptr@006EE0	はけんひようはゴートに	
+0070	006F83	8	-	よろしいですか?	
 0071	006F94	5	-	づ?でタは	
 0072	007038	5	-	?ェゲしU	
 0073	007273	3	-	0・さ	
@@ -111,15 +111,15 @@ msg	rom_addr	bytes	pointer	japanese	english
 0081	0079D6	4	-	づたちェ	
 0082	007B32	4	-	づたちェ	
 0083	007D83	4	-	ニ。げあ	
-0084	00825E	11	ptr@0079C3	しゅうにゅう&ししゅつ	Income&Costs
+0084	00825E	11	ptr@0079C2	しゅうにゅう&ししゅつ	Income&Costs
 0084	00826A	12	-	ーーーーーーーーーーーー	
-0084	008277	6	-	えんじょきん	Support
+0084	008277	6	-	えんじょきん	Income
 0084	00827E	1	-	<01>	
 0084	008280	1	-	<01>	
-0084	008282	6	-	はけんコスト	Deploy
+0084	008282	6	-	はけんコスト	Spending
 0084	008289	1	-	<01>	
 0084	00828B	1	-	<01>	
-0084	00828D	7	-	くりこししさん	Carried
+0084	00828D	7	-	くりこししさん	Savings
 0084	008295	1	-	<01>	
 0084	008297	1	-	<01>	
 0084	008299	5	-	そうしさん	Total
@@ -328,8 +328,8 @@ msg	rom_addr	bytes	pointer	japanese	english
 0231	00F8A6	8	ptr@00F724	じしんをおこして	Quake
 0231	00F8AF	5	-	ダメージを	deals
 0231	00F8B5	6	-	あたえます。	damage.
-0232	00F8BD	8	ptr@00F728	みかたのAGIを	Raises
-0232	00F8C6	7	-	アップします。	allies' AGI.
+0232	00F8BD	8	ptr@00F728	みかたのAGIを	Allies'
+0232	00F8C6	7	-	アップします。	AGI up.
 0233	00F8CF	3	ptr@00F72C	てきの	Swaps
 0233	00F8D3	7	-	まえとうしろを	foes'
 0233	00F8DB	7	-	いれかえます。	ranks.
@@ -2005,6 +2005,6 @@ msg	rom_addr	bytes	pointer	japanese	english
 1799	062D28	9	ptr@02B11E	おしせしささせしち	
 1800	062D96	11	-	そせしさしせしさしくえ	
 1801	062EA2	4	-	りはのれ	
-X001	00CE75	18	ptr@005855,012845	ていいんオーバーです。<01>1ユニットの	Unit is full.
+X001	00CE75	18	ptr@005855,012844	ていいんオーバーです。<01>1ユニットの	Unit is full.
 X001	00CE88	18	-	へんせいは5にんまでです。<01>Lサイズ	Max 5 per unit.
 X001	00CE9B	18	-	キャラは1たいでふたりぶんとします。	L-size counts 2.

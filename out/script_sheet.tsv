@@ -182,15 +182,15 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0180	06597B	FE	47	エストラーダ	「…みさきのむこう⏎ラードというまちに、とうぞくども⏎は、ほんきょをかまえている。	Estrada: …Beyond the cape, in the town of Lard, the bandits have their stronghold.
 0181	0659B0	FE	36	ケイン	「じゃあ、いっきに⏎せめこみましょう。⏎きづかれると、やっかいだ。	Cain: Then let's strike all at once. It'll be trouble if they notice us.
 0182	0659D6	FE	46	エストラーダ	「いや、あそこはしま⏎になっているのでな。⏎わたるのに⏎すこしてまどるだろう…。	Estrada: No, the place is an island. Crossing over will take some time…
-0183	065A06	FE	7		「…よし、<DD>。	…All right, <DD>.
-0184	065A13	FE	8	<DD>	「はい。	<DD>: Yes.
+0183	065A06	FE	7		「…よし、<DD>。	…All right. <DD>!
+0184	065A13	FE	8	<DD>	「はい。	<DD>: Yes?
 0185	065A1A	FE	39		「わしとおまえ、それにもう1つ⏎2つのユニットをくわえた⏎しゅりょくぶたいは…	The main force will be you and me, plus one or two more units…
-0186	065A43	FE	35		「にしにみえるヨシのまちから⏎コロンバンをとおって⏎ラードをめざそう。	We'll head for Lard from the town of Yosh to the west, by way of Colomban.
+0186	065A43	FE	35		「にしにみえるヨシのまちから⏎コロンバンをとおって⏎ラードをめざそう。	From Yosh, the town to the west, we'll go through the town of Colomban and on to Lard.
 0187	065A68	FE	46		「そのあいだに、のこったユニット⏎で、ほくとうのカフをはじめとする⏎まちを、かいほうしよう。	Meanwhile, the remaining units will liberate the towns to the northeast, starting with Kaff.
 0188	065A98	FE	36		「べつどうたいを⏎どのユニットにするかは⏎おまえがしじするのだ、いいな。	Which units form the second group is for you to decide. Understood?
 0189	065ABE	FE	9	<DD>	「…はい。	<DD>: …Yes.
 0190	065AE7	FE	41	カズマ	「ようこそ、ぎゆうぐんの⏎かたがた。⏎おウワサは⏎かねがねきいておりますよ。	Kazuma: Welcome, members of the volunteer army. I've heard a great deal about you.
-0191	065B12	FE	43		「さすがに、あの3つのとりでを⏎やぶられただけのことはある。⏎よい、つらがまえですな。	As expected of those who broke through the three forts. You have a fine look about you.
+0191	065B12	FE	43		「さすがに、あの3つのとりでを⏎やぶられただけのことはある。⏎よい、つらがまえですな。	Just what I'd expect from those who took all three forts. You have the look of true warriors.
 0192	065B3F	FC	23		「いかがです?⏎われらのなかまになりませんか?	How about it? Won't you join?
 0193	065B5B	FE	33		「…なるほど。⏎とうぞくのなかまはイヤだ⏎とおっしゃるわけですな。	…I see. You're saying you won't stoop to being bandits.
 0194	065B7E	FE	44		「しかし、このあたりをごらん⏎ください。⏎まものやかいぶつを⏎あまりみかけないでしょう?	But look around this region. You don't see many monsters or beasts, do you?
@@ -1492,3 +1492,80 @@ id	rom_addr	end	bytes	speaker	japanese	english
 1490	099E9F	FE	50		せんかのなかで、かぞくのなかから⏎ひとりだけしかすくえないとしたら⏎あなたはだれを、たすけますか?⏎	If, amid the flames of war, you could save only one of your family, whom would you save?
 1491	099F02	FE	54		たのきしたちに、おろかなふるまいを⏎つつしむように、めいれいしました。⏎とくにちゅういしておきたいことは?⏎	You have ordered your knights to refrain from foolish conduct. What do you stress above all?
 1492	099F71	FE	56		たたかいのぜんや、ともにたたかうきし⏎たちと、わかれのワインをくみかわして⏎います。グラスのワインのりょうは?⏎	On the eve of battle, you share a parting cup of wine with your fellow knights. How full is your glass?
+0121b	0651EC	FE	30	むらびと	「ここは、わたしたちの⏎むらがあったところなのです。	Villager: This is where our village used to stand.
+0122b	06520C	FE	30		「とうぞくたちにせんりょうされて⏎とりでとなっていたのです。	The bandits took it over and turned it into a fort.
+0123b	06522C	FE	35		「しかし、あなたがたのおかげで⏎むかしのくらしが⏎とりもどせそうです。	But thanks to you, it looks like we can get our old lives back.
+0403b	06AA6D	FE	14		「あんたらも、きをつけなよ。	You be careful too.
+0593b	06DF01	FE	23		「あなたがたに⏎かみのごかごがありますように。	May God's protection be with you.
+1310b	071643	FE	19		「このあたりも、へいわに⏎なりました。	It's peaceful around here now too.
+1310c	071817	FE	19		「このあたりも、へいわに⏎なりました。	It's peaceful around here now too.
+0693b	067CFC	FE	12		けっかいがはられている!	A barrier has been raised!
+0804b	06B36E	FE	16	ケイン	「……………………………。	Cain: ………………………………
+N000	067A6A	FE	42		「あなたは、たたかいをかさねて⏎こられたかたですね。⏎…ひとつ、おこたえねがいます。	You are one who has seen many battles. …Let me ask you one thing.
+N001	067A96	FE	41		「たたかいのさなか、あるへいしが⏎てきのしょうねんへいを⏎みのがしてしまいました。	In the heat of battle, a soldier let an enemy boy soldier go.
+N002	067AC1	FE	35		「あなたが、じょうかんならば⏎かれに、どのようなバツを⏎あたえますか?	If you were his commander, how would you punish him?
+N003	067AE6	FE	31		A・バツは、ひつようありません⏎B・みせしめに、じゅうばつを…	A: No need to.⏎B: Make an example
+N004	067B7D	FE	20		「…さまよえるたましいに⏎やすらぎを…。	…Grant rest to the wandering souls…
+N005	067C2F	FE	30		ルビーのかがやきによって⏎まちをつつんでいたやみがはれた!⏎	The ruby's light lifted the darkness that shrouded the town!
+N006	067C57	FE	17	ケイン	「…なんだ?⏎だれもいない?	Cain: …What? No one's here?
+N007	067D22	FE	10		だれもいないようだ…	No one seems to be here…
+N010	068A41	FE	32		「あなたがたですか⏎われわれのために⏎たたかってくれているのは。	So you're the ones fighting on our behalf.
+N011	068AC2	FE	20		「ぎんのロッドは⏎おやくにたちましたか?	Was the silver rod of use to you?
+N012	06944F	FE	31		「どうです、このまちは?⏎せいぜんとした⏎よいところでしょう。	How do you like our town? Orderly and pleasant, isn't it?
+N013	069470	FE	26		「ここでは、きびしいきりつが⏎まもられているのです。	Strict discipline is kept here.
+N014	06948C	FE	47		「やはり、ひとにはおのれをしばる⏎ための、きりつがひつようなのです⏎よ。·そうおもいませんか?	People need rules to hold themselves in check, after all. Don't you agree?
+N015	0694BD	FE	27		A・そのとおりですね⏎B・ひとはじゆうにいきるべきです	A: Quite right.⏎B: Freedom first.
+N016	0694EC	FE	23		「あなたは、ものごとが⏎よくわかっておられる。	You truly understand how things are.
+N017	0695D7	FE	24		「やみのせかいって⏎どこにあるものなんだろう…?	Where could this world of darkness be, I wonder…?
+N018	06992E	FE	32		「ああ、ひとさらいのはなしなら⏎このまちでもウワサになってるよ。	Ah, the kidnappings? There's talk about them in this town too.
+N019	069A53	FE	36	ゴールディ	「おい、アンタたち!⏎たのみがある!·ひきうけてくれ。⏎なっ?	Goldy: Hey, you lot! I need a favor! Take it on, will ya?
+N021	069FE2	FE	49		「やみのきし…バルドル。·この⏎あたりにあのものがあらわれてから⏎ひんぱんに、ひとがきえるのです。	The dark knight… Baldur. Ever since he showed up around here, people keep vanishing.
+N022	06A1B2	FE	42	グロス	「…なんだおまえたちは?⏎ん?·…ほほう、おれと⏎やりあおうってカンジだなあ。	Gloth: …Who are you lot? Hm? …Heh, looks like you wanna fight me.
+N024	06B279	FE	43	ケイン	「バルドルは、やみのせかい⏎からきた…そういってたな。⏎それはもしかして…あの…	Cain: Baldur came from the world of darkness… that's what he said. Could it be… that…
+N025	06B33A	FE	50		「なおさら、たおさなくては、ほん⏎とうにゼノビアのひとびとをすくう⏎ことには、ならないとおもうんだ。	All the more reason to defeat him. Otherwise we'll never truly save the people of Zenobia.
+N026	06B395	FE	27		「あなたがたのおかげで⏎このへんもへいわになりました。	Thanks to you, it's peaceful around here now.
+N027	06B3C3	FE	46		「このあたりはバルドルのしんじゃ⏎がウヨウヨしてるぜ。·まあ⏎きもちがわからんでもないがね。	Baldur's believers are crawling all over here. Well, I kinda get why.
+N028	06B3F3	FE	41		「…だってさあ、こんなごじせいに⏎あらそいのないせかいを⏎つくるっていわれてさあ…	…I mean, in times like these, he says he'll build a world without fighting…
+N029	06B41E	FE	39		「あのスゴイまほうとか⏎ちからをみせつけられたら⏎コロッとしんじちゃうよなあ。	Show folks magic and power like that, and they'll believe in a heartbeat.
+N030	06B452	FE	31		「このあたりは⏎やみのぐんだんをなのるやつらが⏎おおあばれさ。	Around here, thugs calling themselves the army of darkness run wild.
+N031	06B480	FE	46		「20ねんほどまえになりますか…⏎ゼノビアのおうぞくはみなごろしに⏎されたといわれています。	About twenty years ago now… They say the royal family of Zenobia was wiped out.
+N032	06B4B0	FE	33		「しかし、そのなかのいくにんかは⏎にげのびた、ともいわれています。	But they also say a few of them escaped.
+N033	06B4D3	FE	43		「まあ、どちらのはなしも⏎ウワサにすぎないのですが…⏎どちらがほんとうなんでしょうか?	Well, both stories are only rumors… Which one do you suppose is true?
+N034	06B503	FE	43		「…ウワサというのは、ときとして⏎しんじつをかくすためにながされる⏎ものですからなぁ。	…After all, rumors are sometimes spread to hide the truth.
+N035	06BE54	FE	30		「…ゼノビアおうには⏎ふたりのおうじがいた⏎ときいています。	…I hear the King of Zenobia had two princes.
+N036	06C196	FE	24	キロス	「…まけたか…。⏎さあ、スキにするがいい。	Kiros: …So I lost… Go on, do as you like.
+N037	06C4F5	FE	26		「なんかさいきん、きみがわるい⏎ことがおおいわねー。	So many creepy things have been happening lately.
+N038	06D9EF	FE	21		「おかげで、りょうにでれるよ⏎ありがとよ。	Thanks to you, I can go fishing again. Much obliged.
+N039	06E83C	FE	41		「…このまちから、おとこのこが⏎ひとり、バルドルさまのししゃに⏎つれていかれたよ。	…A boy from this town was taken away by Lord Baldur's envoy.
+N040	06E867	FE	22		「なまえはたしか…⏎オロソフとかいったねえ…	His name was… Orozov, I think…
+N041	06EA9F	FE	45		「われらをしんじよ…やみの⏎せかいは…すぐ、そこにある…。⏎…おまえのこころのなかにも…。	Believe in us… The world of darkness… is close at hand… …Even within your heart…
+N042	06F9D0	FE	44		「…バルドルさまは、あなたがたに⏎あいたがっておられます。⏎オーマへおいそぎください…。	…Lord Baldur wishes to see you. Please hurry to Orma…
+N043	0702CC	FE	26	バルドル	「…なるほど…⏎それだけのちからがあれば…。	Baldur: …I see… With that much power…
+N044	0702EC	FE	33	[DD]	「バルドル…⏎このせかいは、あなたのいうとおり⏎かもしれない…。	<DD>: Baldur… Perhaps the world is just as you say…
+N045	07030F	FE	42		「しかし、ぼくたちはあきらめない⏎…にんげんがつくり⏎にんげんがみだしたせかいなら…	But we won't give up. …If people made this world, and people threw it into chaos…
+N046	07033B	FE	25		「にんげんのちからでおさめること⏎ができるはずだ。	then people should be able to set it right.
+N047	070356	FE	26		「ぼくたちにひつようなのは⏎あなたのちからではない。	What we need is not your power.
+N048	070372	FE	47		「みらいをしんじるゆうきだと…⏎ぼくは、おもう。·あなたはあなた⏎のふるさとへかえってほしい。	It's the courage to believe in the future… I think. I want you to go back to your own home.
+N049	0703A3	FE	35	バルドル	「…それもよかろう…。⏎だが、ひとつだけ⏎おぼえておくがよい。	Baldur: …So be it… But remember one thing.
+N050	0703C8	FE	43		「ほんとうのやみのせかいとは…⏎おまえたちのこころのなかにこそ⏎ある、ということを…。	The true world of darkness… lies within your own hearts…
+N051	07117D	FE	29		「まえのとうぞくだんが⏎でたころよりは⏎よほどマシですよ。	It's far better than back when that old bandit gang was around.
+N052	07119D	FE	15		「なんかおかしいよ、さいきん。	Something's off lately.
+N053	071786	FE	31		「なにをどうしたのか⏎ちえがまわるフィボルグが⏎おりましてな。	Somehow or other, we've got a rather clever Fiborg here.
+N054	071974	FE	31	くろいローブ	「オマエタチガ…⏎ワレワレノジャマヲシテイルノカ…	Black Robe: YOU… ARE THE ONES… GETTING IN OUR WAY…
+N055	07199E	FE	35	アクエリアス	「これは…⏎なにか、とてつもなく⏎いようなけはいがします…	Aquarius: This is… I sense something terribly ominous…
+N056	0719C7	FE	23	だんしゃく	「…おまえたちは…⏎なにもの…だ…?	Baron: …Who… are… you…?
+N057	0719E4	FE	42	くろいローブ	「クックック、⏎オマエタチノ、リーダーニ、⏎ニテイル、ノハ、フシギ、カ?	Black Robe: HEH HEH HEH. DOES IT SURPRISE YOU… THAT I RESEMBLE… YOUR LEADER?
+N058	071AE8	FE	11	だんしゃく	「う、うう…	Baron: Ugh… ugh…
+N059	071AF9	FE	24	ケイン	「おいっ!⏎おまえは…おまえはなにものだ?	Cain: Hey! You… who are you?!
+N060	071B6C	FE	10		だれもいないようだ…	No one seems to be here…
+N061	071CDC	FE	10		「きをつけなされよ。	Do take care.
+N062	0722A4	FE	24		「これで、ではいりじゆうに⏎なったってわけだ。⏎	So now we can come and go as we please.
+N063	0723D0	FE	18		「ですが、あのものたちなら⏎もしや…	But those people… perhaps they could…
+N064	0725D9	FE	38	ベルゴ	「ぐっ…つ、つええな…⏎あれだけのかねじゃ…⏎わりがあわなかったかな…	Belgo: Ugh… y-you're tough… For that kinda money… wasn't worth it…
+N065	072844	FE	37	ハヤト	「ああ、ありがとう。⏎ボクはこのまちの⏎ようじんぼうをしていたんだ。	Hayato: Ah, thank you. I was this town's bodyguard.
+N066	072B62	FE	30		「あんたらが、やみのぐんだんと⏎たたかっているひとたちかね。	So you're the ones fighting the army of darkness?
+N067	072B82	FE	32		「このあたりのかいぶつは、まえは⏎ひとをおそわなかったんじゃが。	The monsters around here never used to attack people.
+N068	072BA4	FE	27		「きょうぼうになってから⏎ひとがであるかなくなっての。	Since they turned savage, folks stopped going out.
+N069	072D13	FE	19		「ドラゴンメイルは⏎やくにたったかい?	Was the Dragon Mail any use to you?
+N070	0730BF	FE	44	カノープス	「オレは、おまえたちの⏎ように、むさくいにたたかう⏎れんちゅうがきらいなんだ。	Canopus: I can't stand folks like you who fight without a plan.
+N071	0730ED	FE	37		「ふっ。·まぁ、オレには⏎かんけいのないはなしだがな。⏎さぁ、いってくれ。	Heh. Well, it's none of my business. Go on, get going.

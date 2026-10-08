@@ -74,6 +74,30 @@ def badge(text):
         for y in range(8):
             wv=sum(px[y][8*t+x]<<(14-2*x) for x in range(8)); out+=bytes([wv&0xFF,wv>>8])
     return bytes(out)
+# Battle hit labels drawn as 2 sprite tiles (16x8) over a character's head, MISS style: 3x5 white letters (1) on rows
+# 2-6, dark outline (3) around them, transparent (0) elsewhere. マヒ! (paralysis) is loaded from ROM 0xFE5ED by bytecode
+# `2A 2FE5ED A2D0 0010` at 0xCBEB8/0xCBF6D (tiles 0x2D-0x2E).
+HITS=[(0xFE5ED,'STUN')]
+HFONT={'S':['###','#..','###','..#','###'],'T':['###','.#.','.#.','.#.','.#.'],'U':['#.#','#.#','#.#','#.#','###'],
+       'N':['##.','#.#','#.#','#.#','#.#'],'P':['###','#.#','###','#..','#..'],'A':['###','#.#','###','#.#','#.#'],
+       'R':['##.','#.#','##.','#.#','#.#'],'!':['#','#','#','.','#']}
+def hit(text):
+    px=[[0]*16 for _ in range(8)]; x=1
+    for ch in text:
+        g=HFONT[ch]
+        for r,row in enumerate(g):
+            for c,p in enumerate(row):
+                if p=='#': px[2+r][x+c]=1
+        x+=len(g[0])+1
+    assert x-1<=16, f'hit label {text!r} too wide'
+    for y in range(8):
+        for xx in range(16):
+            if px[y][xx]==0 and any(0<=y+dy<8 and 0<=xx+dx<16 and px[y+dy][xx+dx]==1 for dy in (-1,0,1) for dx in (-1,0,1)): px[y][xx]=3
+    out=bytearray()
+    for t in range(2):
+        for y in range(8):
+            wv=sum(px[y][8*t+xx]<<(14-2*xx) for xx in range(8)); out+=bytes([wv&0xFF,wv>>8])
+    return bytes(out)
 if __name__=='__main__':
     ap=argparse.ArgumentParser(); ap.add_argument('rom'); ap.add_argument('--sheet',default='out/labels_sheet.tsv'); ap.add_argument('--png')
     a=ap.parse_args()
@@ -89,7 +113,10 @@ if __name__=='__main__':
     for addr,text in BADGES:
         assert rom[addr:addr+80]==orig[0x14A00:0x14A00+80], f'{addr:06X}: not the はけん中 badge'
         rom[addr:addr+80]=badge(text)
-    open(a.rom,'wb').write(rom); print(f'{len(done)} menu labels, {len(BADGES)} badges rendered')
+    for addr,text in HITS:
+        assert rom[addr:addr+32]==orig[addr:addr+32], f'{addr:06X}: not the original hit label'
+        rom[addr:addr+32]=hit(text)
+    open(a.rom,'wb').write(rom); print(f'{len(done)} menu labels, {len(BADGES)} badges, {len(HITS)} hit labels rendered')
     if a.png:
         from PIL import Image
         pal=[(40,40,160),(255,255,255),(0,0,0),(0,0,0)]

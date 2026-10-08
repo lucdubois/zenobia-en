@@ -151,7 +151,9 @@ if os.path.exists(a.system):
         elif ptr.startswith('ptr@'):
             t=free+0x200000; rom[free:free+len(newmsg)]=newmsg; free+=len(newmsg)
             for pa in ptr[4:].split(','):
-                pa=int(pa,16); rom[pa:pa+3]=bytes([t&0xFF,(t>>8)&0xFF,t>>16])
+                pa=int(pa,16); cur=int.from_bytes(rom[pa:pa+3],'little')
+                assert cur==first+0x200000, f'msg {mid}: pointer at {pa:06X} holds {cur:06X}, not the message address {first+0x200000:06X}'
+                rom[pa:pa+3]=bytes([t&0xFF,(t>>8)&0xFF,t>>16])
             stats['sys_relocated']+=1
         elif rom[first-1]==0x84 and orig_len+1>=4:
             t=free+0x200000; back=end+2+0x200000
