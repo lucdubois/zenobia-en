@@ -1,5 +1,5 @@
 index	rom_addr	header	japanese	english
-0	0C3EAF		こうしゅのバランスがとれた⏎へいきんてきなさくせん。	A balanced plan of⏎attack and defense.
-1	0C3ECB		HPのたかいキャラを⏎ねらいうちします。	Targets characters⏎with high HP.
+0	0C3EAF		こうしゅのバランスがとれた⏎へいきんてきなさくせん。	Balances attack⏎and defense.
+1	0C3ECB		HPのたかいキャラを⏎ねらいうちします。	Targets foes⏎with high HP.
 2	0C3EE1		てきのリーダーをねらいます。	Targets the enemy⏎leader.
-3	0C3EF1		HPのひくいキャラを⏎ねらいうちします。	Targets characters⏎with low HP.
+3	0C3EF1		HPのひくいキャラを⏎ねらいうちします。	Targets foes⏎with low HP.

@@ -1,24 +1,24 @@
 index	rom_addr	header	japanese	english
 0	01BDB4			
-1	01BDB4		『マジシャン』⏎ほのおのまほうで⏎てきにダメージをあたえます。	『Magician』⏎Fire magic damages⏎the enemy.
+1	01BDB4		『マジシャン』⏎ほのおのまほうで⏎てきにダメージをあたえます。	『Magician』⏎Fire magic hits⏎the enemy.
 2	01BDD5		『プリエステス』⏎みかたキャラのHPを⏎50ポイントずつかいふくさせます。	『Priestess』⏎Heals allies'⏎HP by 50 each.
 3	01BDFC		『エンプレス』⏎みかたキャラのHPを⏎さいだいちまでかいふくさせます。	『Empress』⏎Fully restores an⏎ally's HP.
 4	01BE21		『エンペラー』⏎みかたキャラのこうげきすうを⏎1かいずつふやします。	『Emperor』⏎Allies gain one⏎extra attack.
 5	01BE45		『ハイエロファント』⏎てきをねむらせて⏎こうどうふのうにします。	『Hierophant』⏎Puts enemies to⏎sleep.
-6	01BE67		『ラヴァーズ』⏎てきをうらぎらせて⏎どうしうちをさせます。	『Lovers』⏎Turns enemies⏎against each other.
-7	01BE86		『チャリオット』⏎じごくのゆうしゃロキをしょうかんし⏎てきにダメージをあたえます。	『Chariot』⏎Summons Loki, hero⏎of Hell, to attack.
+6	01BE67		『ラヴァーズ』⏎てきをうらぎらせて⏎どうしうちをさせます。	『Lovers』⏎Turns enemies⏎on each other.
+7	01BE86		『チャリオット』⏎じごくのゆうしゃロキをしょうかんし⏎てきにダメージをあたえます。	『Chariot』⏎Summons Loki of⏎Hell to attack.
 8	01BEB1		『ストレングス』⏎みかたキャラのしゅびりょくが⏎アップします。	『Strength』⏎Raises allies'⏎defense.
-9	01BED2		『ハーミット』⏎けんじゃマーリンをしょうかんし⏎てきにダメージをあたえます。	『Hermit』⏎Summons Merlin the⏎sage to attack.
-10	01BEFA		『フォーチュン』⏎てきキャラをおいはらい⏎せんとうからのがれます。	『Fortune』⏎Repels enemies and⏎escapes battle.
+9	01BED2		『ハーミット』⏎けんじゃマーリンをしょうかんし⏎てきにダメージをあたえます。	『Hermit』⏎Summons the sage⏎Merlin to attack.
+10	01BEFA		『フォーチュン』⏎てきキャラをおいはらい⏎せんとうからのがれます。	『Fortune』⏎Repels enemies⏎and escapes.
 11	01BF1D		『ジャスティス』⏎ふぶきをまきおこし⏎てきにだいダメージをあたえます。	『Justice』⏎A blizzard deals⏎heavy damage.
 12	01BF42		『ハングドマン』⏎てきキャラのしゅびりょくをさげます。	『Hanged Man』⏎Lowers enemies'⏎defense.
-13	01BF5F		『デス』⏎しにがみをしょうかんし⏎よわったてきキャラをたおします。	『Death』⏎Summons the Reaper⏎to slay weak foes.
-14	01BF82		『テンパランス』⏎うらぎり、せきか、ねむりなどの⏎ステータスいじょうをかいふくします。	『Temperance』⏎Cures betrayal,⏎stone, sleep, etc.
+13	01BF5F		『デス』⏎しにがみをしょうかんし⏎よわったてきキャラをたおします。	『Death』⏎The Reaper slays⏎weak foes.
+14	01BF82		『テンパランス』⏎うらぎり、せきか、ねむりなどの⏎ステータスいじょうをかいふくします。	『Temperance』⏎Cures betrayal,⏎stone, sleep…
 15	01BFAF		『デビル』⏎あくまをしょうかんし⏎てきにだいダメージをあたえます。	『Devil』⏎Summons a demon⏎for heavy damage.
-16	01BFD2		『タワー』⏎じしんをおこして⏎てきにだいダメージをあたえます。	『Tower』⏎An earthquake⏎deals heavy damage.
-17	01BFF3		『スター』⏎みかたキャラのAGIがアップします。	『Star』⏎Raises allies' AGI.
+16	01BFD2		『タワー』⏎じしんをおこして⏎てきにだいダメージをあたえます。	『Tower』⏎An earthquake⏎deals big damage.
+17	01BFF3		『スター』⏎みかたキャラのAGIがアップします。	『Star』⏎Raises AGI of⏎all allies.
 18	01C00D		『ムーン』⏎てきフォーメーションのぜんごを⏎いれかえます。	『Moon』⏎Swaps the enemy's⏎front and rear.
-19	01C02C		『サン』⏎ALIのひくいものに、てき・みかたを⏎とわず、だいダメージをあたえます。	『Sun』⏎Heavy damage to all⏎with low ALI, friend⏎or foe.
+19	01C02C		『サン』⏎ALIのひくいものに、てき・みかたを⏎とわず、だいダメージをあたえます。	『Sun』⏎Hurts all low-ALI⏎friend or foe.
 20	01C057		『ジャッジメント』⏎しんせいなひかりのまほうで⏎てきにだいダメージをあたえます。	『Judgement』⏎Holy light deals⏎heavy damage.
-21	01C081		『フール』⏎ユニットリーダーいがいのてきを⏎いちじてきにおいはらいます。	『Fool』⏎Briefly repels all⏎but the leader.
+21	01C081		『フール』⏎ユニットリーダーいがいのてきを⏎いちじてきにおいはらいます。	『Fool』⏎Briefly repels⏎all but leader.
 22	01C0A7		『ワールド』⏎てきのまほうこうげきにたいして⏎むてきになります。	『World』⏎Immune to enemy⏎magic attacks.

@@ -1,191 +1,191 @@
 index	rom_addr	header	japanese	english
 0	0C42A2			
-1	0C42A2		さまざまな⏎ハーブをちょうごうした⏎クスリ。キャラクター1たいのHPを⏎50ポイントかいふくする。	A medicine blended⏎from many herbs.⏎Heals one character⏎for 50 HP.
-2	0C42D3		きょうりょくな⏎きずグスリ。⏎キャラクター1たいのHPを⏎100ポイントかいふくする。	A potent wound⏎remedy. Heals one⏎character for 100 HP.
-3	0C42FE		ししゃのたましいを⏎てんかいより⏎よびもどすふえ。⏎キャラクターがふっかつする。	A flute that calls a⏎soul back from the⏎heavens. Revives a⏎character.
-4	0C4326		きくもののたましいをひきつけるベル。⏎ちゅうりつキャラクターをよびだす。	A bell that draws⏎listening souls.⏎Summons a neutral⏎character.
-5	0C434A		ユニットないのキャラクターぜんいんの⏎HPを100ポイントかいふくする。	Heals every character⏎in the unit for⏎100 HP.
-6	0C436E		ふしぎなタマゴ。なにがはいっているか⏎あけてみるまで⏎わからない。	A strange egg. No one⏎knows what's inside⏎until it's opened.
-7	0C438F		でんせつのまじゅうウェアタイガーを⏎よびよせる⏎まほうのほうせき。	A magic gem that⏎summons the legendary⏎Weretiger.
-8	0C43B0		むじのタロットカード。⏎タロットカードをランダムに⏎1まいだけ⏎にゅうしゅできる。	A blank tarot card.⏎Grants one random⏎tarot card.
-9	0C43D9		そくざにばしょをいどうする⏎まほうのしょ。⏎1ユニットだけを⏎ほんきょちへもどす。	A magic book of⏎instant travel.⏎Returns one unit to⏎the home base.
-10	0C4402		うしなわれたしんきをはっけんする⏎ためのどうぐ。⏎うもれたざいほうを⏎1つだけはっけんする。	A tool for finding⏎lost relics. Reveals⏎one buried treasure.
-11	0C4430		よべばどこにでもあらわれる⏎なぞの⏎しょうにん「なんでもやジャック」と⏎とりひきする。	Summons the mysterious⏎merchant Jack, who⏎appears anywhere, to⏎trade.
-12	0C445B		みかたユニットをオピニオンリーダーの⏎もとへ⏎けっしゅうさせる。	Gathers allied units⏎to the opinion⏎leader's side.
-13	0C447B		てきのこころにうったえかけ⏎こちらのみかたにすることができる。	Appeals to the enemy's⏎heart and wins them⏎over to your side.
-14	0C449A		ユニットをしゅんじにいどうさせる⏎マホウのブーツ。ただしいどうさきは⏎かいほうしたとしのみ。	Magic boots that move⏎a unit instantly, but⏎only to a liberated⏎city.
-15	0C44C8		からくりしトロイがつくったもくば。⏎てんちをゆるがすじしんをおこし⏎じょうへきをはかいする。	A wooden horse built⏎by Troy. Shakes the⏎earth and breaks down⏎castle walls.
-16	0C44F6		ふしぎなかおりのちいさなふくろ。⏎しゅんじによるにする。	A small pouch with a⏎strange scent. Turns⏎day to night at once.
-17	0C4512		なかからひかりのもれるちいさなはこ。⏎しゅんじにひるにする。	A small box leaking⏎light. Turns night to⏎day at once.
-18	0C4530		ひとめをさけてたてられたとしや⏎きょうかいをうつしだすすいしょう。	A crystal that reveals⏎hidden cities and⏎churches.
-19	0C4551		おんそくの⏎ちょうけん。⏎⏎STR+13	A supersonic sword.⏎⏎STR+13
-20	0C4565		こだいてんくうじんの⏎あんこくけん。⏎⏎STR+12	Dark sword of the⏎ancient sky folk.⏎⏎STR+12
-21	0C457F		ふるきジパングの⏎あんこくけん。⏎⏎STR+11	Dark sword of old⏎Zipangu.⏎⏎STR+11
-22	0C4597		せいふうじんの⏎あんこくけん。⏎⏎STR+15、INT+3	Dark sword of the⏎west wind god.⏎⏎STR+15, INT+3
-23	0C45B4		えいゆうシグルドの⏎あんこくけん。⏎⏎STR+20、INT+4	Dark sword of the⏎hero Sigurd.⏎⏎STR+20, INT+4
-24	0C45D3		せんそうのかみイシュタールの⏎せいけん。⏎⏎STR+18	Holy sword of Ishtar,⏎goddess of war.⏎⏎STR+18
-25	0C45EF		さんきしフェンリルの⏎せいけん。⏎⏎STR+20	Holy sword of the⏎knight Fenrir.⏎⏎STR+20
-26	0C4607		にんじゃが⏎このんでもちいるカタナ。⏎⏎STR+3	A katana favored by⏎ninja.⏎⏎STR+3
-27	0C4620		さきがハリのように⏎とがったけん。⏎⏎STR+4	A sword with a⏎needle-sharp point.⏎⏎STR+4
-28	0C4638		とうこくのだいおう⏎みかどのけん。⏎⏎STR+8	Sword of the Mikado,⏎great king of the⏎east.⏎⏎STR+8
-29	0C4650		こだいシグルドにつたわる⏎たいけん。⏎⏎STR+11	Great sword passed⏎down from ancient⏎Sigurd.⏎⏎STR+11
-30	0C466A		でんせつのまじん『こくおう』の⏎ようけん。⏎⏎STR+15	Demon sword of the⏎legendary fiend, the⏎Black King.⏎⏎STR+15
-31	0C4687		オウガのたいけん。⏎⏎STR+20	Great sword of the⏎Ogres.⏎⏎STR+20
-32	0C4698		ちいさなひをはなつ⏎まほうの⏎えんけん。⏎⏎STR+6	A magic flame sword⏎that spits small⏎fires.⏎⏎STR+6
-33	0C46B3		えいゆうムサシの⏎えんけん。⏎⏎STR+12	Flame sword of the⏎hero Musashi.⏎⏎STR+12
-34	0C46C9		えいゆうイスケンデルベイのえんけん。⏎⏎STR+15、INT+3	Flame sword of the⏎hero Iskenderbey.⏎⏎STR+15, INT+3
-35	0C46E9		みかづきのかたちをまねてつくった⏎ひょうけん。⏎⏎STR+3	An ice sword shaped⏎like a crescent moon.⏎⏎STR+3
-36	0C4707		えいきゅうとうどのこおりから⏎つくられたとうけん。⏎⏎STR+7	A frost sword forged⏎from permafrost ice.⏎⏎STR+7
-37	0C4727		ほうせきぺリダートからつくられた⏎れいけん。⏎⏎STR+11	A cold sword made⏎from peridot gems.⏎⏎STR+11
-38	0C4745		ほくふうしんのとうけん。⏎⏎STR+15、INT+3	Frost sword of the⏎north wind god.⏎⏎STR+15, INT+3
-39	0C475F		えいこうなきせんしたちを⏎たたえる⏎ためにつくられた⏎けん。⏎⏎STR+15、れいき+20	A sword made to honor⏎warriors who died⏎without glory.⏎⏎STR+15, Ice+20
-40	0C478C		まかいでつくられた⏎とうけん。⏎⏎STR+18、INTー4	A frost sword forged⏎in the netherworld.⏎⏎STR+18, INT-4
-41	0C47A9		りゅうのウロコからつくられた⏎らいけん。⏎⏎STR+7	A thunder sword made⏎from dragon scales.⏎⏎STR+7
-42	0C47C4		とうふうしんの⏎らいけん。⏎⏎STR+15、INT+3	Thunder sword of the⏎east wind god.⏎⏎STR+15, INT+3
-43	0C47DF		らいしんトールがきたえた⏎らいけん。⏎⏎STR+19	Thunder sword forged⏎by Thor, god of⏎thunder.⏎⏎STR+19
-44	0C47F9		のろわれたまけん。⏎⏎STR+4	A cursed demon sword.⏎⏎STR+4
-45	0C4809		のろわれたカギつめ。⏎⏎STR+8	A cursed claw.⏎⏎STR+8
-46	0C481A		まかいのけんしがもちいる⏎あんこくけん。⏎⏎STR+8、INT+3	Dark sword used by⏎swordsmen of the⏎netherworld.⏎⏎STR+8, INT+3
-47	0C483B		いせかいでうみだされた⏎きょうきの⏎まけん。⏎⏎STR+24、INTー16	A mad demon sword⏎born in another⏎world.⏎⏎STR+24, INT-16
-48	0C4860		ブロンズドラゴンのせいなるつめ。⏎⏎STR+5	Holy claw of the⏎bronze dragon.⏎⏎STR+5
-49	0C4877		えいゆうのたましいがやどる⏎せいけん。⏎⏎STR+8、INT+10	A holy sword housing⏎a hero's soul.⏎⏎STR+8, INT+10
-50	0C4898		ふくとうのりゅうの⏎なかから⏎はっけんされた⏎しんけん。⏎⏎STR+15	A divine sword found⏎inside a dragon.⏎⏎STR+15
-51	0C48BC		「まおとし」とよばれるせいけん。⏎⏎STR+17	A holy sword called⏎the Demon Slayer.⏎⏎STR+17
-52	0C48D4		りゅうきしが⏎つかっていたやり。⏎⏎STR+7	A spear once used by⏎dragon knights.⏎⏎STR+7
-53	0C48EB		とうこくのそうベンケイの⏎ナギナタ。⏎⏎STR+12	Naginata of Benkei,⏎the eastern monk.⏎⏎STR+12
-54	0C4905		かみのつかいがつかわれるという⏎いいつたえのあるやり。⏎⏎STR+20、かえん+12	A spear said to be⏎wielded by a divine⏎envoy.⏎⏎STR+20, Fire+12
-55	0C492F		こだいザモラおうの⏎こおりのヤリ。⏎⏎STR+14、INT+7	Ice spear of ancient⏎King Zamora.⏎⏎STR+14, INT+7
-56	0C494E		かみなりのちからをやどした⏎まほうのヤリ。⏎⏎STR+9	A magic spear holding⏎the power of thunder.⏎⏎STR+9
-57	0C496A		せいなるちからをふうじたやり。⏎⏎STR+18⏎⏎しんせい+15	A spear sealed with⏎holy power.⏎⏎STR+18⏎⏎Holy+15
-58	0C498A		ようがんにもとけないいしで⏎つくられたおの。⏎⏎STR+11	An axe of stone that⏎even lava can't melt.⏎⏎STR+11
-59	0C49A8		なんぷうしんの⏎ほのおのオノ。⏎⏎STR+17	Flame axe of the⏎south wind god.⏎⏎STR+17
-60	0C49BF		れいふうをまきおこす⏎まほうのオノ。⏎⏎STR+11	A magic axe that⏎stirs up cold winds.⏎⏎STR+11
-61	0C49D9		あんこくのやみからとりだされた⏎まオノ。⏎⏎STR+16、INTー8	A demon axe drawn⏎from the deepest⏎darkness.⏎⏎STR+16, INT-8
-62	0C49FB		しんせいなじゅもんがきざみこまれた⏎オノ。⏎⏎STR+15	An axe engraved with⏎holy runes.⏎⏎STR+15
-63	0C4A18		きんぞくせいのほねぐみを⏎もったせんす。⏎⏎STR+3	A fan with a metal⏎frame.⏎⏎STR+3
-64	0C4A33		はくねつして⏎ほのおの⏎ぶきになるつえ。⏎⏎INT+3	A staff that glows⏎white-hot and becomes⏎a flame weapon.⏎⏎INT+3
-65	0C4A4E		えいえんにきえることのない⏎ほのおを⏎ふうじたロッド。⏎⏎INT+8	A rod sealed with a⏎flame that never⏎dies.⏎⏎INT+8
-66	0C4A70		えんしんをしんこうするきょうだんの⏎フレイル。⏎⏎STR+4	Flail of a cult that⏎worships the flame⏎god.⏎⏎STR+4
-67	0C4A8E		らいじんトールのムチ。⏎⏎STR+6	Whip of Thor, god of⏎thunder.⏎⏎STR+6
-68	0C4AA0		じゃしんがきたえたあくまのハンマー。⏎⏎STR+12、INTー4	A demon hammer forged⏎by an evil god.⏎⏎STR+12, INT-4
-69	0C4AC0		ぎょうしゃクーカイの⏎せいなるつえ。⏎⏎STR+8	Holy staff of the⏎ascetic Kukai.⏎⏎STR+8
-70	0C4AD9		ひかりをまとった⏎せいなるメイス。⏎⏎STR+2、INT+7	A holy mace clad in⏎light.⏎⏎STR+2, INT+7
-71	0C4AF7		いだいな⏎まじょの⏎ほしのつえ。⏎⏎INT+14	Star staff of a great⏎witch.⏎⏎INT+14
-72	0C4B0F		ぎんで⏎できたロッド⏎あるきょうかいできよめれば…⏎⏎STR+11、しんせい+8	A rod made of silver.⏎If purified at a⏎certain church…⏎⏎STR+11, Holy+8
-73	0C4B37		ぎんのロッドをきよめ、せいなるちから⏎をふうじこめたロッド。⏎⏎STR+14、しんせい+9	A silver rod purified⏎and sealed with holy⏎power.⏎⏎STR+14, Holy+9
-74	0C4B64		がんじょうなたてのついたボウガン。⏎⏎STR+15⏎⏎ぶつり+15	A crossbow with a⏎sturdy shield.⏎⏎STR+15⏎⏎Phys+15
-75	0C4B85		かみなりのやをはなつ⏎ゆみ。⏎⏎STR+7	A bow that shoots⏎thunder arrows.⏎⏎STR+7
-76	0C4B9A		じごくのほのおできたえた⏎あんこくのや。⏎⏎STR+3、INT+2	Dark darts forged in⏎hellfire.⏎⏎STR+3, INT+2
-77	0C4BBB		だいしぜんのちからをあつめた⏎おまもり。⏎かえん+3、れいき+3、らいげき+3	A charm gathering the⏎power of nature.⏎Fire+3, Ice+3,⏎Thunder+3
-78	0C4BE2		かみのじだいにつくられたおまもり。⏎⏎STR+11、INT+5⏎⏎あんこく+16、しんせい+14	A charm made in the⏎age of the gods.⏎⏎STR+11, INT+5⏎⏎Dark+16, Holy+14
-79	0C4C12		あれくるうりゅう、きりゅうのツノ。⏎STR+12、INTー10、ぶ+10⏎ひ+15れ+4ら+13あ+4しー6	Horn of the raging⏎mist dragon.⏎STR+12, INT-10, Phys+10⏎Fi+15 Ic+4 Th+13⏎Da+4 Ho-6
-80	0C4C48		ひよけのおまもり。⏎⏎かえん+5	A charm against fire.⏎⏎Fire+5
-81	0C4C58		ヒドラのきばをかこうしたおまもり。⏎⏎STR+4⏎⏎ぶつり+6、かえん+8	A charm made from a⏎hydra's fang.⏎⏎STR+4⏎⏎Phys+6, Fire+8
-82	0C4C7D		れいきよけのおまもり。⏎⏎れいき+5	A charm against cold.⏎⏎Ice+5
-83	0C4C90		れいじゅうビャッコのおまもり。⏎⏎INT+7⏎⏎れいき+12	Charm of the spirit⏎beast Byakko.⏎⏎INT+7⏎⏎Ice+12
-84	0C4CAE		ひょうざんのちゅうかくから⏎けずりだされたオーブ。INT+11⏎⏎かえんー8、れいき+14	An orb carved from⏎the heart of an⏎iceberg. INT+11⏎⏎Fire-8, Ice+14
-85	0C4CDB		かみなりよけのおまもり。⏎⏎らいげき+5	A charm against⏎lightning.⏎⏎Thunder+5
-86	0C4CF0		らいうんのちゅうしんかくをふうじた⏎おまもり。⏎⏎STR+6⏎らいげき+17	A charm sealing the⏎heart of a storm⏎cloud.⏎⏎STR+6⏎Thunder+17
-87	0C4D16		まじんのいんをきざみこんだおまもり。⏎⏎STR+8、INTー4⏎⏎あんこく+13、しんせいー16	A charm engraved with⏎a demon's seal.⏎⏎STR+8, INT-4⏎⏎Dark+13, Holy-16
-88	0C4D46		あくまをしんこうするものがもつ⏎くろいろのじゅうじか。⏎⏎INT+3、あんこく+3	A black cross borne⏎by devil⏎worshippers.⏎⏎INT+3, Dark+3
-89	0C4D6F		まを⏎とおざけるこうようをもった⏎おまもり。⏎⏎しんせい+5	A charm that wards⏎off evil.⏎⏎Holy+5
-90	0C4D8D		せいなるちからをゆうする⏎だいてんしのはね。INT+16⏎⏎ぶつり+7、しんせい+23	An archangel's wing⏎of holy power.⏎INT+16⏎⏎Phys+7, Holy+23
-91	0C4DB8		てつでできたロザリオ⏎⏎INT+2⏎⏎しんせい+2	A rosary made of iron⏎⏎INT+2⏎⏎Holy+2
-92	0C4DD1		ぜんたいがしろくぬられたじゅうじか。⏎⏎INT+2⏎⏎しんせい+2	A cross painted all⏎white.⏎⏎INT+2⏎⏎Holy+2
-93	0C4DF2		はめるとかつりょくがみなぎるリング。⏎⏎STR+18、INTー7	A ring that fills the⏎wearer with vigor.⏎⏎STR+18, INT-7
-94	0C4E12		ことばにやどる⏎せいれいのゆびわ。⏎⏎STRー12、INT+16	Ring of the spirit⏎that dwells in words.⏎⏎STR-12, INT+16
-95	0C4E32		かりゅうのほねからつくられたゆびわ。⏎⏎STR+6⏎⏎かえん+14	A ring made from a⏎fire dragon's bone.⏎⏎STR+6⏎⏎Fire+14
-96	0C4E53		らいじんのちからをふうじこめた⏎ゆびわ。⏎STR+3⏎⏎らいげき+15、しんせい+6	A ring sealed with⏎the thunder god's⏎power.⏎STR+3⏎⏎Thunder+15, Holy+6
-97	0C4E7D		あくまのしゅごを⏎てにするゆびわ。⏎⏎INT+11⏎⏎あんこく+19、しんせいー11	A ring that grants a⏎devil's protection.⏎⏎INT+11⏎⏎Dark+19, Holy-11
-98	0C4EA7		だてんしのかごをえたうでわ。⏎⏎STR+21⏎⏎あんこく+17、しんせいー15	A bracelet blessed by⏎a fallen angel.⏎⏎STR+21⏎⏎Dark+17, Holy-15
-99	0C4ECE		せいなるちちのかごをえたゆびわ。⏎⏎INT+5⏎⏎ぶつり+12、しんせい+14	A ring blessed by the⏎Holy Father.⏎⏎INT+5⏎⏎Phys+12, Holy+14
-100	0C4EF5		まほうのラッパ。⏎⏎STR+2⏎⏎ぶつり+2	A magic trumpet.⏎⏎STR+2⏎⏎Phys+2
-101	0C4F0B		きんぞくのいとを⏎あみこんだふく。⏎⏎ぶつり+3、あんこく+2	Clothes woven with⏎metal thread.⏎⏎Phys+3, Dark+2
-102	0C4F2A		きんぞくのいたをむすびつけたヨロイ。⏎⏎ぶつり+5	Armor of bound metal⏎plates.⏎⏎Phys+5
-103	0C4F43		ぜんたいにながいトゲがはえたヨロイ。⏎⏎ぶつり+7	Armor covered in⏎long spikes.⏎⏎Phys+7
-104	0C4F5C		きんメッキのヨロイ。⏎⏎ぶつり+12	Gold-plated armor.⏎⏎Phys+12
-105	0C4F6E		ははなるだいちのちからにまもられた⏎ヨロイ。⏎⏎ぶつり+16、しんせい+7	Armor guarded by the⏎power of Mother⏎Earth.⏎⏎Phys+16, Holy+7
-106	0C4F93		いかなるほのおでも⏎もやすことが⏎できないよろい。⏎⏎かえん+30	Armor that no flame⏎can ever burn.⏎⏎Fire+30
-107	0C4FB4		ふしのしんじゅうホウオウのローブ。⏎⏎ぶつり+7、かえん+11	Robe of the immortal⏎beast, the Phoenix.⏎⏎Phys+7, Fire+11
-108	0C4FD3		れいじゅうビャッコのマント。⏎⏎ぶつり+11、れいき+16	Mantle of the spirit⏎beast Byakko.⏎⏎Phys+11, Ice+16
-109	0C4FF0		やみのかごをえたくろいヨロイ。⏎⏎ぶつり+8、あんこく+4⏎⏎しんせいー3	Black armor blessed⏎by darkness.⏎⏎Phys+8, Dark+4⏎⏎Holy-3
-110	0C5015		いのちの⏎ほのおをかきけすしにがみの⏎マント。⏎ぶつり+13⏎⏎あんこく+17、しんせいー11	The Reaper's mantle,⏎which snuffs out the⏎flame of life.⏎Phys+13⏎⏎Dark+17, Holy-11
-111	0C5044		ひかりのしんこうしゃによって⏎つくられるふく。⏎⏎ぶつり+4、しんせい+3	Clothes made by the⏎faithful of light.⏎⏎Phys+4, Holy+3
-112	0C5069		せいじゃのあかしとしてあたえられる⏎マント。⏎⏎ぶつり+5、しんせい+13	A mantle given as⏎proof of sainthood.⏎⏎Phys+5, Holy+13
-113	0C508E		かいぞくたちがつかったかぶと。⏎⏎ぶつり+2	A helmet pirates once⏎wore.⏎⏎Phys+2
-114	0C50A4		まよけこうかバツグンのヘルメット。⏎⏎ぶつり+3、しんせい+1	A helmet that wards⏎off evil superbly.⏎⏎Phys+3, Holy+1
-115	0C50C3		おもにしさいがみにつけるかんむり。⏎⏎ぶつり+3、しんせい+8	A crown worn mainly⏎by priests.⏎⏎Phys+3, Holy+8
-116	0C50E2		ふしぎなちからで⏎ちゃくようしゃを⏎まもるベール。⏎かえん+7⏎⏎れいき+11、しんせい+5	A veil that guards⏎its wearer with⏎strange power.⏎Fire+7⏎⏎Ice+11, Holy+5
-117	0C5110		らんせのはしゃが⏎みにつけていた⏎かぶと。⏎⏎ぶつり+17	Helm worn by the⏎conqueror of a⏎turbulent age.⏎⏎Phys+17
-118	0C512D		ひりゅうのヒゲでつくられたハチマキ。⏎⏎かえん+6、れいきー4	A headband made from⏎a fire dragon's⏎whiskers.⏎⏎Fire+6, Ice-4
-119	0C514C		ひょうりゅうのこおれるいきを⏎あみこんだもの。⏎⏎かえんー9、れいき+7	Woven from the frozen⏎breath of an ice⏎dragon.⏎⏎Fire-9, Ice+7
-120	0C5170		らいしんトールのヘルメット。⏎⏎ぶつり+5、らいげき+8	Helmet of Thor, god⏎of thunder.⏎⏎Phys+5, Thunder+8
-121	0C518C		じゃきょうとが⏎みにつけたマスク。⏎⏎ぶつり+4、あんこく+8⏎⏎しんせいー6	A mask worn by⏎heretics.⏎⏎Phys+4, Dark+8⏎⏎Holy-6
-122	0C51B3		せいおうの⏎かごをえたかぶと。⏎⏎ぶつり+7、しんせい+13	A helm blessed by the⏎Holy King.⏎⏎Phys+7, Holy+13
-123	0C51D1		きんぞくのいたをはったてぶくろ。⏎⏎ぶつり+2	Gloves plated with⏎metal.⏎⏎Phys+2
-124	0C51E8		らいじんトールのてぶくろ。⏎⏎ぶつり+3、らいげき+4	Gloves of Thor, god⏎of thunder.⏎⏎Phys+3, Thunder+4
-125	0C5203		ひょうめんにながいトゲをつきだした⏎タテ。⏎ぶつり+6	A shield bristling⏎with long spikes.⏎Phys+6
-126	0C521E		ガッツで⏎てきのこうげきをくいとめる⏎タテ。⏎ぶつり+19⏎⏎かえんー8、れいきー5	A shield that stops⏎attacks through sheer⏎guts.⏎Phys+19⏎⏎Fire-8, Ice-5
-127	0C5248		ちゅうぎのこころをそなえたシールド。⏎⏎ぶつり+14、しんせい+7	A shield of loyal⏎heart.⏎⏎Phys+14, Holy+7
-128	0C5269		オウガのいさん。⏎⏎ぶつり+18、あんこく+21	Legacy of the Ogres.⏎⏎Phys+18, Dark+21
-129	0C5281		マグマのせいをふうじたシールド。⏎⏎ぶつり+9、かえん+12	A shield sealed with⏎a magma spirit.⏎⏎Phys+9, Fire+12
-130	0C529F		きょうりょくなれいきをはっする⏎まほうのシールド。⏎ぶつり+8⏎⏎れいき+15	A magic shield that⏎radiates strong cold.⏎Phys+8⏎⏎Ice+15
-131	0C52C6		らいじゅうヌエのちからをこめた⏎シールド。⏎⏎ぶつり+7、らいげき+14	A shield holding the⏎power of the thunder⏎beast Nue.⏎⏎Phys+7, Thunder+14
-132	0C52EA		このいしを、もつものは⏎りゅうのことばがわかるようになる。⏎ビーストマスターにつかうと…?	Its bearer comes to⏎understand dragons.⏎Use on a Beast⏎Master and…?
-133	0C5317		もうじゃといしをかよわせる⏎ましょうのつえ。⏎ゴエティックにつかうと…?	A demonic staff for⏎speaking with the⏎dead. Use on a⏎Goetic and…?
-134	0C533B		みずからのにくたいを⏎ふしかするゆびわ。⏎ネクロマンサーにつかうと…?	A ring that makes⏎one's flesh undying.⏎Use on a Necromancer⏎and…?
-135	0C535E		まかいのきぞくのあかしとなるちの⏎こくいん。⏎ナイトにつかうと…?	A blood seal marking⏎netherworld nobility.⏎Use on a Knight⏎and…?
-136	0C537F		けだかいこころと、けがれなきからだを⏎あたえる⏎へんかのかんむり。⏎アマゾネスにつかうと…?	A crown of change⏎granting a noble⏎heart and pure body.⏎Use on an Amazon and…?
-137	0C53AD		カボチャのくさったものである?⏎パンプキンヘッドにつかうと…?	A rotten pumpkin?⏎Use on a Pumpkinhead⏎and…?
-138	0C53CC		あんこくのらくいん。⏎ブラックナイトにつかうと…?	A brand of darkness.⏎Use on a Black⏎Knight and…?
-139	0C53E5		おれることのないぼくとう。⏎サムライマスターにつかうと…?	A wooden sword that⏎never breaks. Use on⏎a Samurai Master⏎and…?
+1	0C42A2		さまざまな⏎ハーブをちょうごうした⏎クスリ。キャラクター1たいのHPを⏎50ポイントかいふくする。	Herbal medicine.⏎Heals one ally⏎for 50 HP.
+2	0C42D3		きょうりょくな⏎きずグスリ。⏎キャラクター1たいのHPを⏎100ポイントかいふくする。	Potent medicine.⏎Heals one ally⏎for 100 HP.
+3	0C42FE		ししゃのたましいを⏎てんかいより⏎よびもどすふえ。⏎キャラクターがふっかつする。	A flute that⏎recalls a soul.⏎Revives an ally.
+4	0C4326		きくもののたましいをひきつけるベル。⏎ちゅうりつキャラクターをよびだす。	A bell that draws⏎souls. Summons a⏎neutral ally.
+5	0C434A		ユニットないのキャラクターぜんいんの⏎HPを100ポイントかいふくする。	Heals every⏎character in the⏎unit for 100 HP.
+6	0C436E		ふしぎなタマゴ。なにがはいっているか⏎あけてみるまで⏎わからない。	A strange egg.⏎Who knows what's⏎inside?
+7	0C438F		でんせつのまじゅうウェアタイガーを⏎よびよせる⏎まほうのほうせき。	Gem that summons⏎the legendary⏎Weretiger.
+8	0C43B0		むじのタロットカード。⏎タロットカードをランダムに⏎1まいだけ⏎にゅうしゅできる。	A blank tarot⏎card. Grants a⏎random card.
+9	0C43D9		そくざにばしょをいどうする⏎まほうのしょ。⏎1ユニットだけを⏎ほんきょちへもどす。	A book of instant⏎travel. Returns a⏎unit to base.
+10	0C4402		うしなわれたしんきをはっけんする⏎ためのどうぐ。⏎うもれたざいほうを⏎1つだけはっけんする。	A relic finder.⏎Reveals one⏎buried treasure.
+11	0C4430		よべばどこにでもあらわれる⏎なぞの⏎しょうにん「なんでもやジャック」と⏎とりひきする。	Calls Jack, the⏎merchant found⏎anywhere.
+12	0C445B		みかたユニットをオピニオンリーダーの⏎もとへ⏎けっしゅうさせる。	Gathers all units⏎to the opinion⏎leader.
+13	0C447B		てきのこころにうったえかけ⏎こちらのみかたにすることができる。	Wins an enemy's⏎heart over to⏎your side.
+14	0C449A		ユニットをしゅんじにいどうさせる⏎マホウのブーツ。ただしいどうさきは⏎かいほうしたとしのみ。	Magic boots. Move⏎a unit to any⏎liberated city.
+15	0C44C8		からくりしトロイがつくったもくば。⏎てんちをゆるがすじしんをおこし⏎じょうへきをはかいする。	Troy's horse.⏎Breaks down⏎castle walls.
+16	0C44F6		ふしぎなかおりのちいさなふくろ。⏎しゅんじによるにする。	A scented pouch.⏎Turns day to⏎night.
+17	0C4512		なかからひかりのもれるちいさなはこ。⏎しゅんじにひるにする。	A box leaking⏎light. Turns⏎night to day.
+18	0C4530		ひとめをさけてたてられたとしや⏎きょうかいをうつしだすすいしょう。	Reveals hidden⏎cities and⏎churches.
+19	0C4551		おんそくの⏎ちょうけん。⏎⏎STR+13	A supersonic⏎sword. STR+13
+20	0C4565		こだいてんくうじんの⏎あんこくけん。⏎⏎STR+12	Dark sword of the⏎ancient sky folk.⏎STR+12
+21	0C457F		ふるきジパングの⏎あんこくけん。⏎⏎STR+11	Dark sword of old⏎Zipangu. STR+11
+22	0C4597		せいふうじんの⏎あんこくけん。⏎⏎STR+15、INT+3	Dark sword of the⏎west wind god.⏎STR+15, INT+3
+23	0C45B4		えいゆうシグルドの⏎あんこくけん。⏎⏎STR+20、INT+4	Dark sword of the⏎hero Sigurd.⏎STR+20, INT+4
+24	0C45D3		せんそうのかみイシュタールの⏎せいけん。⏎⏎STR+18	Holy sword of⏎Ishtar, goddess⏎of war. STR+18
+25	0C45EF		さんきしフェンリルの⏎せいけん。⏎⏎STR+20	Holy sword of the⏎knight Fenrir.⏎STR+20
+26	0C4607		にんじゃが⏎このんでもちいるカタナ。⏎⏎STR+3	A katana favored⏎by ninja. STR+3
+27	0C4620		さきがハリのように⏎とがったけん。⏎⏎STR+4	A sword with a⏎needle-sharp⏎point. STR+4
+28	0C4638		とうこくのだいおう⏎みかどのけん。⏎⏎STR+8	Sword of the⏎Mikado, king of⏎the east. STR+8
+29	0C4650		こだいシグルドにつたわる⏎たいけん。⏎⏎STR+11	Great sword of⏎ancient Sigurd.⏎STR+11
+30	0C466A		でんせつのまじん『こくおう』の⏎ようけん。⏎⏎STR+15	Demon sword of⏎the fiend Black⏎King. STR+15
+31	0C4687		オウガのたいけん。⏎⏎STR+20	Great sword of⏎the Ogres. STR+20
+32	0C4698		ちいさなひをはなつ⏎まほうの⏎えんけん。⏎⏎STR+6	A magic sword⏎that spits small⏎fires. STR+6
+33	0C46B3		えいゆうムサシの⏎えんけん。⏎⏎STR+12	Flame sword of⏎the hero Musashi.⏎STR+12
+34	0C46C9		えいゆうイスケンデルベイのえんけん。⏎⏎STR+15、INT+3	Iskenderbey's⏎flame sword.⏎STR+15 INT+3
+35	0C46E9		みかづきのかたちをまねてつくった⏎ひょうけん。⏎⏎STR+3	A crescent-⏎shaped ice sword.⏎STR+3
+36	0C4707		えいきゅうとうどのこおりから⏎つくられたとうけん。⏎⏎STR+7	A frost sword of⏎permafrost ice.⏎STR+7
+37	0C4727		ほうせきぺリダートからつくられた⏎れいけん。⏎⏎STR+11	A cold sword made⏎from peridot⏎gems. STR+11
+38	0C4745		ほくふうしんのとうけん。⏎⏎STR+15、INT+3	Frost sword of⏎the north wind⏎god. STR+15 INT+3
+39	0C475F		えいこうなきせんしたちを⏎たたえる⏎ためにつくられた⏎けん。⏎⏎STR+15、れいき+20	Honors warriors⏎who died unsung.⏎STR+15 Ice+20
+40	0C478C		まかいでつくられた⏎とうけん。⏎⏎STR+18、INTー4	Netherworld frost⏎sword. STR+18⏎INT-4
+41	0C47A9		りゅうのウロコからつくられた⏎らいけん。⏎⏎STR+7	A thunder sword⏎made from dragon⏎scales. STR+7
+42	0C47C4		とうふうしんの⏎らいけん。⏎⏎STR+15、INT+3	Thunder sword of⏎the east wind⏎god. STR+15 INT+3
+43	0C47DF		らいしんトールがきたえた⏎らいけん。⏎⏎STR+19	Thunder sword⏎forged by Thor.⏎STR+19
+44	0C47F9		のろわれたまけん。⏎⏎STR+4	A cursed demon⏎sword. STR+4
+45	0C4809		のろわれたカギつめ。⏎⏎STR+8	A cursed claw.⏎STR+8
+46	0C481A		まかいのけんしがもちいる⏎あんこくけん。⏎⏎STR+8、INT+3	Netherworld dark⏎sword. STR+8⏎INT+3
+47	0C483B		いせかいでうみだされた⏎きょうきの⏎まけん。⏎⏎STR+24、INTー16	Mad demon sword⏎from beyond.⏎STR+24 INT-16
+48	0C4860		ブロンズドラゴンのせいなるつめ。⏎⏎STR+5	Holy claw of the⏎bronze dragon.⏎STR+5
+49	0C4877		えいゆうのたましいがやどる⏎せいけん。⏎⏎STR+8、INT+10	Holds a hero's⏎soul. STR+8⏎INT+10
+50	0C4898		ふくとうのりゅうの⏎なかから⏎はっけんされた⏎しんけん。⏎⏎STR+15	A divine sword⏎found inside a⏎dragon. STR+15
+51	0C48BC		「まおとし」とよばれるせいけん。⏎⏎STR+17	A holy sword⏎called the Demon⏎Slayer. STR+17
+52	0C48D4		りゅうきしが⏎つかっていたやり。⏎⏎STR+7	A spear once used⏎by dragon⏎knights. STR+7
+53	0C48EB		とうこくのそうベンケイの⏎ナギナタ。⏎⏎STR+12	Naginata of the⏎monk Benkei.⏎STR+12
+54	0C4905		かみのつかいがつかわれるという⏎いいつたえのあるやり。⏎⏎STR+20、かえん+12	Spear of a divine⏎envoy. STR+20⏎Fire+12
+55	0C492F		こだいザモラおうの⏎こおりのヤリ。⏎⏎STR+14、INT+7	King Zamora's ice⏎spear. STR+14⏎INT+7
+56	0C494E		かみなりのちからをやどした⏎まほうのヤリ。⏎⏎STR+9	A spear holding⏎thunder's power.⏎STR+9
+57	0C496A		せいなるちからをふうじたやり。⏎⏎STR+18⏎⏎しんせい+15	A spear sealed⏎with holy power.⏎STR+18 Holy+15
+58	0C498A		ようがんにもとけないいしで⏎つくられたおの。⏎⏎STR+11	A stone axe that⏎lava can't melt.⏎STR+11
+59	0C49A8		なんぷうしんの⏎ほのおのオノ。⏎⏎STR+17	Flame axe of the⏎south wind god.⏎STR+17
+60	0C49BF		れいふうをまきおこす⏎まほうのオノ。⏎⏎STR+11	A magic axe that⏎stirs up cold⏎winds. STR+11
+61	0C49D9		あんこくのやみからとりだされた⏎まオノ。⏎⏎STR+16、INTー8	A demon axe from⏎the deepest dark.⏎STR+16 INT-8
+62	0C49FB		しんせいなじゅもんがきざみこまれた⏎オノ。⏎⏎STR+15	An axe engraved⏎with holy runes.⏎STR+15
+63	0C4A18		きんぞくせいのほねぐみを⏎もったせんす。⏎⏎STR+3	A fan with a⏎metal frame.⏎STR+3
+64	0C4A33		はくねつして⏎ほのおの⏎ぶきになるつえ。⏎⏎INT+3	A staff that⏎burns white-hot.⏎INT+3
+65	0C4A4E		えいえんにきえることのない⏎ほのおを⏎ふうじたロッド。⏎⏎INT+8	A rod with an⏎undying flame.⏎INT+8
+66	0C4A70		えんしんをしんこうするきょうだんの⏎フレイル。⏎⏎STR+4	Flail of a cult⏎that worships the⏎flame god. STR+4
+67	0C4A8E		らいじんトールのムチ。⏎⏎STR+6	Whip of Thor, god⏎of thunder. STR+6
+68	0C4AA0		じゃしんがきたえたあくまのハンマー。⏎⏎STR+12、INTー4	Forged by an evil⏎god. STR+12 INT-4
+69	0C4AC0		ぎょうしゃクーカイの⏎せいなるつえ。⏎⏎STR+8	Holy staff of the⏎ascetic Kukai.⏎STR+8
+70	0C4AD9		ひかりをまとった⏎せいなるメイス。⏎⏎STR+2、INT+7	A holy mace clad⏎in light. STR+2,⏎INT+7
+71	0C4AF7		いだいな⏎まじょの⏎ほしのつえ。⏎⏎INT+14	Star staff of a⏎great witch.⏎INT+14
+72	0C4B0F		ぎんで⏎できたロッド⏎あるきょうかいできよめれば…⏎⏎STR+11、しんせい+8	Purify it at a⏎certain church…⏎STR+11 Holy+8
+73	0C4B37		ぎんのロッドをきよめ、せいなるちから⏎をふうじこめたロッド。⏎⏎STR+14、しんせい+9	A purified silver⏎rod. STR+14⏎Holy+9
+74	0C4B64		がんじょうなたてのついたボウガン。⏎⏎STR+15⏎⏎ぶつり+15	A crossbow with a⏎sturdy shield.⏎STR+15 Phys+15
+75	0C4B85		かみなりのやをはなつ⏎ゆみ。⏎⏎STR+7	A bow that shoots⏎thunder arrows.⏎STR+7
+76	0C4B9A		じごくのほのおできたえた⏎あんこくのや。⏎⏎STR+3、INT+2	Dark darts forged⏎in hellfire.⏎STR+3, INT+2
+77	0C4BBB		だいしぜんのちからをあつめた⏎おまもり。⏎かえん+3、れいき+3、らいげき+3	Nature's power.⏎Fire+3 Ice+3⏎Thunder+3
+78	0C4BE2		かみのじだいにつくられたおまもり。⏎⏎STR+11、INT+5⏎⏎あんこく+16、しんせい+14	Charm of gods.⏎STR+11 INT+5⏎Dark+16 Holy+14
+79	0C4C12		あれくるうりゅう、きりゅうのツノ。⏎STR+12、INTー10、ぶ+10⏎ひ+15れ+4ら+13あ+4しー6	STR+12 INT-10⏎Ph+10 Fi+15 Ic+4⏎Th+13 Da+4 Ho-6
+80	0C4C48		ひよけのおまもり。⏎⏎かえん+5	A charm against⏎fire. Fire+5
+81	0C4C58		ヒドラのきばをかこうしたおまもり。⏎⏎STR+4⏎⏎ぶつり+6、かえん+8	A hydra's fang.⏎STR+4 Phys+6⏎Fire+8
+82	0C4C7D		れいきよけのおまもり。⏎⏎れいき+5	A charm against⏎cold. Ice+5
+83	0C4C90		れいじゅうビャッコのおまもり。⏎⏎INT+7⏎⏎れいき+12	Byakko's charm.⏎INT+7 Ice+12
+84	0C4CAE		ひょうざんのちゅうかくから⏎けずりだされたオーブ。INT+11⏎⏎かえんー8、れいき+14	An iceberg's⏎heart. INT+11⏎Fire-8 Ice+14
+85	0C4CDB		かみなりよけのおまもり。⏎⏎らいげき+5	A charm against⏎lightning.⏎Thunder+5
+86	0C4CF0		らいうんのちゅうしんかくをふうじた⏎おまもり。⏎⏎STR+6⏎らいげき+17	Holds a storm⏎cloud's heart.⏎STR+6 Thunder+17
+87	0C4D16		まじんのいんをきざみこんだおまもり。⏎⏎STR+8、INTー4⏎⏎あんこく+13、しんせいー16	Bears a demon's⏎seal. STR+8 INT-4⏎Dark+13 Holy-16
+88	0C4D46		あくまをしんこうするものがもつ⏎くろいろのじゅうじか。⏎⏎INT+3、あんこく+3	Borne by devil⏎worshippers.⏎INT+3 Dark+3
+89	0C4D6F		まを⏎とおざけるこうようをもった⏎おまもり。⏎⏎しんせい+5	A charm that⏎wards off evil.⏎Holy+5
+90	0C4D8D		せいなるちからをゆうする⏎だいてんしのはね。INT+16⏎⏎ぶつり+7、しんせい+23	An archangel's⏎holy wing. INT+16⏎Phys+7 Holy+23
+91	0C4DB8		てつでできたロザリオ⏎⏎INT+2⏎⏎しんせい+2	A rosary made of⏎iron INT+2 Holy+2
+92	0C4DD1		ぜんたいがしろくぬられたじゅうじか。⏎⏎INT+2⏎⏎しんせい+2	A cross painted⏎all white. INT+2⏎Holy+2
+93	0C4DF2		はめるとかつりょくがみなぎるリング。⏎⏎STR+18、INTー7	Fills the wearer⏎with vigor.⏎STR+18 INT-7
+94	0C4E12		ことばにやどる⏎せいれいのゆびわ。⏎⏎STRー12、INT+16	Ring of the⏎spirit of words.⏎STR-12 INT+16
+95	0C4E32		かりゅうのほねからつくられたゆびわ。⏎⏎STR+6⏎⏎かえん+14	Made from a fire⏎dragon's bone.⏎STR+6 Fire+14
+96	0C4E53		らいじんのちからをふうじこめた⏎ゆびわ。⏎STR+3⏎⏎らいげき+15、しんせい+6	Thunder god's⏎ring. STR+3⏎Thunder+15 Holy+6
+97	0C4E7D		あくまのしゅごを⏎てにするゆびわ。⏎⏎INT+11⏎⏎あんこく+19、しんせいー11	A devil's charm.⏎INT+11 Dark+19⏎Holy-11
+98	0C4EA7		だてんしのかごをえたうでわ。⏎⏎STR+21⏎⏎あんこく+17、しんせいー15	A fallen angel's.⏎STR+21 Dark+17⏎Holy-15
+99	0C4ECE		せいなるちちのかごをえたゆびわ。⏎⏎INT+5⏎⏎ぶつり+12、しんせい+14	Holy Father's.⏎INT+5 Phys+12⏎Holy+14
+100	0C4EF5		まほうのラッパ。⏎⏎STR+2⏎⏎ぶつり+2	A magic trumpet.⏎STR+2 Phys+2
+101	0C4F0B		きんぞくのいとを⏎あみこんだふく。⏎⏎ぶつり+3、あんこく+2	Metal-thread⏎garb. Phys+3⏎Dark+2
+102	0C4F2A		きんぞくのいたをむすびつけたヨロイ。⏎⏎ぶつり+5	Armor of bound⏎metal plates.⏎Phys+5
+103	0C4F43		ぜんたいにながいトゲがはえたヨロイ。⏎⏎ぶつり+7	Armor covered in⏎long spikes.⏎Phys+7
+104	0C4F5C		きんメッキのヨロイ。⏎⏎ぶつり+12	Gold-plated⏎armor. Phys+12
+105	0C4F6E		ははなるだいちのちからにまもられた⏎ヨロイ。⏎⏎ぶつり+16、しんせい+7	Guarded by Mother⏎Earth. Phys+16⏎Holy+7
+106	0C4F93		いかなるほのおでも⏎もやすことが⏎できないよろい。⏎⏎かえん+30	Armor that no⏎flame can ever⏎burn. Fire+30
+107	0C4FB4		ふしのしんじゅうホウオウのローブ。⏎⏎ぶつり+7、かえん+11	Robe of the⏎immortal Phoenix.⏎Phys+7 Fire+11
+108	0C4FD3		れいじゅうビャッコのマント。⏎⏎ぶつり+11、れいき+16	Byakko's mantle.⏎Phys+11 Ice+16
+109	0C4FF0		やみのかごをえたくろいヨロイ。⏎⏎ぶつり+8、あんこく+4⏎⏎しんせいー3	Blessed by⏎darkness. Phys+8⏎Dark+4 Holy-3
+110	0C5015		いのちの⏎ほのおをかきけすしにがみの⏎マント。⏎ぶつり+13⏎⏎あんこく+17、しんせいー11	Snuffs out life.⏎Phys+13 Dark+17⏎Holy-11
+111	0C5044		ひかりのしんこうしゃによって⏎つくられるふく。⏎⏎ぶつり+4、しんせい+3	Garb of the⏎light. Phys+4⏎Holy+3
+112	0C5069		せいじゃのあかしとしてあたえられる⏎マント。⏎⏎ぶつり+5、しんせい+13	Proof of⏎sainthood. Phys+5⏎Holy+13
+113	0C508E		かいぞくたちがつかったかぶと。⏎⏎ぶつり+2	A helmet pirates⏎once wore. Phys+2
+114	0C50A4		まよけこうかバツグンのヘルメット。⏎⏎ぶつり+3、しんせい+1	Wards off evil⏎superbly. Phys+3⏎Holy+1
+115	0C50C3		おもにしさいがみにつけるかんむり。⏎⏎ぶつり+3、しんせい+8	A crown worn by⏎priests. Phys+3⏎Holy+8
+116	0C50E2		ふしぎなちからで⏎ちゃくようしゃを⏎まもるベール。⏎かえん+7⏎⏎れいき+11、しんせい+5	A strange power.⏎Fire+7 Ice+11⏎Holy+5
+117	0C5110		らんせのはしゃが⏎みにつけていた⏎かぶと。⏎⏎ぶつり+17	Helm of the⏎conqueror of an⏎age. Phys+17
+118	0C512D		ひりゅうのヒゲでつくられたハチマキ。⏎⏎かえん+6、れいきー4	Made from fire⏎dragon whiskers.⏎Fire+6 Ice-4
+119	0C514C		ひょうりゅうのこおれるいきを⏎あみこんだもの。⏎⏎かえんー9、れいき+7	Woven from an ice⏎dragon's breath.⏎Fire-9 Ice+7
+120	0C5170		らいしんトールのヘルメット。⏎⏎ぶつり+5、らいげき+8	Helmet of Thor,⏎god of thunder.⏎Phys+5, Thunder+8
+121	0C518C		じゃきょうとが⏎みにつけたマスク。⏎⏎ぶつり+4、あんこく+8⏎⏎しんせいー6	A mask worn by⏎heretics. Phys+4⏎Dark+8 Holy-6
+122	0C51B3		せいおうの⏎かごをえたかぶと。⏎⏎ぶつり+7、しんせい+13	A helm blessed by⏎the Holy King.⏎Phys+7, Holy+13
+123	0C51D1		きんぞくのいたをはったてぶくろ。⏎⏎ぶつり+2	Gloves plated⏎with metal.⏎Phys+2
+124	0C51E8		らいじんトールのてぶくろ。⏎⏎ぶつり+3、らいげき+4	Gloves of Thor,⏎god of thunder.⏎Phys+3, Thunder+4
+125	0C5203		ひょうめんにながいトゲをつきだした⏎タテ。⏎ぶつり+6	Bristles with⏎long spikes.⏎Phys+6
+126	0C521E		ガッツで⏎てきのこうげきをくいとめる⏎タテ。⏎ぶつり+19⏎⏎かえんー8、れいきー5	Blocks by sheer⏎guts. Phys+19⏎Fire-8 Ice-5
+127	0C5248		ちゅうぎのこころをそなえたシールド。⏎⏎ぶつり+14、しんせい+7	A shield of loyal⏎heart. Phys+14,⏎Holy+7
+128	0C5269		オウガのいさん。⏎⏎ぶつり+18、あんこく+21	Legacy of the⏎Ogres. Phys+18,⏎Dark+21
+129	0C5281		マグマのせいをふうじたシールド。⏎⏎ぶつり+9、かえん+12	Holds a magma⏎spirit. Phys+9⏎Fire+12
+130	0C529F		きょうりょくなれいきをはっする⏎まほうのシールド。⏎ぶつり+8⏎⏎れいき+15	Radiates strong⏎cold. Phys+8⏎Ice+15
+131	0C52C6		らいじゅうヌエのちからをこめた⏎シールド。⏎⏎ぶつり+7、らいげき+14	Holds the thunder⏎beast Nue. Phys+7⏎Thunder+14
+132	0C52EA		このいしを、もつものは⏎りゅうのことばがわかるようになる。⏎ビーストマスターにつかうと…?	Speaks to dragons⏎Use on a Beast⏎Master and…?
+133	0C5317		もうじゃといしをかよわせる⏎ましょうのつえ。⏎ゴエティックにつかうと…?	Speak with the⏎dead. Use on a⏎Goetic and…?
+134	0C533B		みずからのにくたいを⏎ふしかするゆびわ。⏎ネクロマンサーにつかうと…?	Makes flesh⏎undying. Use on a⏎Necromancer and…?
+135	0C535E		まかいのきぞくのあかしとなるちの⏎こくいん。⏎ナイトにつかうと…?	Netherworld seal.⏎Use on a Knight⏎and…?
+136	0C537F		けだかいこころと、けがれなきからだを⏎あたえる⏎へんかのかんむり。⏎アマゾネスにつかうと…?	A crown of⏎change. Use on an⏎Amazon and…?
+137	0C53AD		カボチャのくさったものである?⏎パンプキンヘッドにつかうと…?	A rotten pumpkin?⏎Use on a⏎Pumpkinhead and…?
+138	0C53CC		あんこくのらくいん。⏎ブラックナイトにつかうと…?	Brand of darkness⏎Use on a Black⏎Knight and…?
+139	0C53E5		おれることのないぼくとう。⏎サムライマスターにつかうと…?	An unbreakable⏎bokuto. Use on a⏎Samurai Master…?
 140	0C5402		せいじゃとしてのちかい。⏎ライトプリーストにつかうと…?	A saint's vow.⏎Use on a Light⏎Priest and…?
-141	0C541E		だいまおうとのけいやく。⏎カーズプリーストにつかうと…?	A pact with the Great⏎Demon King. Use on a⏎Curse Priest and…?
-142	0C543A		てんしょくアイテム⏎フィボルグにつかうと…?	A class change item.⏎Use on a Fiborg⏎and…?
-143	0C5450		まをとりのぞく⏎ちからをあたえる⏎ぎんいろのじゅうじか。⏎アマゾネスにつかうと…?	A silver cross with⏎power to cast out⏎evil. Use on an⏎Amazon and…?
-144	0C5479		てにしたものはゆうしゃのたましいを⏎かいまみる。⏎レベルを1レベルあげる。	Its holder glimpses⏎a hero's soul.⏎Raises level by 1.
-145	0C549E		びょうじゃくなもののために⏎つくられたクスリ。⏎HPのMAXを⏎すうポイントあげる。	A medicine made for⏎the frail. Raises max⏎HP by a few points.
-146	0C54C8		けんのごくいをしるした⏎つわもののあかし。⏎STRを⏎すうポイントあげる。	A warrior's proof,⏎inscribed with sword⏎secrets. Raises STR⏎a few points.
-147	0C54ED		さまざまな⏎はなのあぶらを⏎まほうてきにまぜあわせたオイル。⏎AGIを⏎すうポイントあげる。	Flower oils blended⏎by magic. Raises AGI⏎a few points.
-148	0C551B		ちせいをとぎすますまほうの⏎こぶんしょ。⏎INTを⏎すうポイントあげる。	Ancient magic writing⏎that sharpens the⏎mind. Raises INT a⏎few points.
-149	0C553F		ライオンのほこりたかきせいしんを⏎ひめたいし。⏎CHAを⏎すうポイントあげる。	A stone holding a⏎lion's proud spirit.⏎Raises CHA a few⏎points.
-150	0C5566		みるもののこころをうつくしくする⏎こうかをもつ。⏎ALIを⏎すうポイントあげる。	Beautifies the heart⏎of the beholder.⏎Raises ALI a few⏎points.
-151	0C558E		ひとがもっているうんのりょうを⏎ふやすうつわ。⏎LUKを⏎すうポイントあげる。	A vessel that enlarges⏎one's share of luck.⏎Raises LUK a few⏎points.
-152	0C55B5		ガラスでできた、カボチャのおきもの。⏎あるとしにもっていくと…	A pumpkin ornament⏎made of glass. Take⏎it to a certain city…
-153	0C55D4		ゆうしゃのあかしともいうべき⏎エンブレム。⏎あるとしにもっていくと…	An emblem that marks⏎a hero. Take it to a⏎certain city…
-154	0C55F6		ぎんでできた⏎てんしのぞう。	An angel statue made⏎of silver.
-155	0C5604		てんのししゃがふういんしたけっかいを⏎とくためにつくった⏎めがみのぞう。	A goddess statue made⏎to break the barrier⏎sealed by heaven's⏎envoy.
-156	0C5628		いかずちをおこすといわれる⏎いしのかけら。	A stone shard said to⏎summon lightning.
+141	0C541E		だいまおうとのけいやく。⏎カーズプリーストにつかうと…?	Demon King's pact⏎Use on a Curse⏎Priest and…?
+142	0C543A		てんしょくアイテム⏎フィボルグにつかうと…?	A class change⏎item. Use on a⏎Fiborg and…?
+143	0C5450		まをとりのぞく⏎ちからをあたえる⏎ぎんいろのじゅうじか。⏎アマゾネスにつかうと…?	Casts out evil.⏎Use on an Amazon⏎and…?
+144	0C5479		てにしたものはゆうしゃのたましいを⏎かいまみる。⏎レベルを1レベルあげる。	Holds a hero's⏎soul. Raises⏎level by 1.
+145	0C549E		びょうじゃくなもののために⏎つくられたクスリ。⏎HPのMAXを⏎すうポイントあげる。	A tonic for the⏎frail. Raises max⏎HP a little.
+146	0C54C8		けんのごくいをしるした⏎つわもののあかし。⏎STRを⏎すうポイントあげる。	Holds sword⏎secrets. Raises⏎STR a little.
+147	0C54ED		さまざまな⏎はなのあぶらを⏎まほうてきにまぜあわせたオイル。⏎AGIを⏎すうポイントあげる。	Magic flower⏎oils. Raises AGI⏎a little.
+148	0C551B		ちせいをとぎすますまほうの⏎こぶんしょ。⏎INTを⏎すうポイントあげる。	Sharpens the⏎mind. Raises INT⏎a little.
+149	0C553F		ライオンのほこりたかきせいしんを⏎ひめたいし。⏎CHAを⏎すうポイントあげる。	A lion's spirit.⏎Raises CHA a⏎little.
+150	0C5566		みるもののこころをうつくしくする⏎こうかをもつ。⏎ALIを⏎すうポイントあげる。	Beautifies the⏎heart. Raises ALI⏎a little.
+151	0C558E		ひとがもっているうんのりょうを⏎ふやすうつわ。⏎LUKを⏎すうポイントあげる。	Holds good luck.⏎Raises LUK a⏎little.
+152	0C55B5		ガラスでできた、カボチャのおきもの。⏎あるとしにもっていくと…	Glass pumpkin.⏎Take it to a⏎certain city…
+153	0C55D4		ゆうしゃのあかしともいうべき⏎エンブレム。⏎あるとしにもっていくと…	A hero's emblem.⏎Take it to a⏎certain city…
+154	0C55F6		ぎんでできた⏎てんしのぞう。	An angel statue⏎made of silver.
+155	0C5604		てんのししゃがふういんしたけっかいを⏎とくためにつくった⏎めがみのぞう。	Breaks the⏎barrier of⏎heaven's envoy.
+156	0C5628		いかずちをおこすといわれる⏎いしのかけら。	A stone shard⏎said to summon⏎lightning.
 157	0C563D		そのけいじょうがめずらしいとされる⏎どうでできたおとめのぞう。	A bronze maiden⏎statue of unusual⏎shape.
-158	0C565C		まのけっかいをとりのぞくことができる⏎きよめられたルビー。	A purified ruby that⏎can remove demonic⏎barriers.
-159	0C5679		ぜんたいがこはくいろのナイフ。⏎ひかりとやみをきりはなすといわれる。	An amber-colored⏎knife said to cut⏎light from darkness.
+158	0C565C		まのけっかいをとりのぞくことができる⏎きよめられたルビー。	A purified ruby⏎that can remove⏎demonic barriers.
+159	0C5679		ぜんたいがこはくいろのナイフ。⏎ひかりとやみをきりはなすといわれる。	An amber knife⏎said to cut light⏎from dark.
 160	0C569B		にじいろのかざりのついたチョーカー。	A choker with a⏎rainbow ornament.
-161	0C56AD		カノープスのいもうと⏎ユーリアがかいたてがみ。⏎あるとしにもっていくと…	A letter written by⏎Iuria, Canopus's⏎sister. Take it to a⏎certain city…
-162	0C56D1		カオスフレームを⏎5ポイントぞうかさせる。	Raises the Chaos⏎Frame by 5 points.
-163	0C56E6		カオスフレームを⏎5ポイントげんしょうさせる。	Lowers the Chaos⏎Frame by 5 points.
-164	0C56FD		たいせんちゅうにしよう。⏎ウェイトゲージのぞうかそくどを⏎あげる。	Use in battle. Speeds⏎up the wait gauge.
-165	0C571E		たいせんちゅうにしよう。⏎ウェイトゲージのぞうかそくどを⏎さげる。	Use in battle. Slows⏎the wait gauge.
-166	0C573F		たいせんちゅうにしよう。⏎たつまきをつくり⏎てきにダメージをあたえる。	Use in battle. Makes⏎a tornado that⏎damages foes.
-167	0C5762		たいせんちゅうにしよう。⏎てきをせきかする。	Use in battle. Turns⏎foes to stone.
-168	0C5778		たいせんちゅうにしよう。⏎ひのたまで⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with a fireball.
-169	0C5798		たいせんちゅうにしよう。⏎こおりのけっしょうをぶつけて⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with ice⏎crystals.
-170	0C57C1		たいせんちゅうにしよう。⏎いなずまをはっせいさせ⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with lightning.
-171	0C57E7		たいせんちゅうにしよう。⏎じゃあくなせいしんエネルギーで⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with evil⏎spirit energy.
-172	0C5811		たいせんちゅうにしよう。⏎てきをみりょうして⏎どうしうちさせる。	Use in battle. Charms⏎foes into fighting⏎each other.
-173	0C5831		たいせんちゅうにしよう。⏎せいなるひかりで⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with holy light.
-174	0C5854		たいせんちゅうにしよう。⏎みかたキャラクターひとりの⏎HPをかいふくさせる。	Use in battle. Heals⏎one ally's HP.
-175	0C587A		たいせんちゅうにしよう。⏎フィールドをしんかいにかえる。	Use in battle. Turns⏎the field to deep sea.
-176	0C5896		たいせんちゅうにしよう。⏎フィールドをそうげんにかえる。	Use in battle. Turns⏎the field to⏎grassland.
-177	0C58B2		たいせんちゅうにしよう。⏎フィールドをせつげんにかえる。	Use in battle. Turns⏎the field to⏎snowfield.
-178	0C58CE		たいせんちゅうにしよう。⏎フィールドをしんりんにかえる。	Use in battle. Turns⏎the field to forest.
-179	0C58EA		たいせんちゅうにしよう。⏎フィールドをあれちにかえる。	Use in battle. Turns⏎the field to⏎wasteland.
-180	0C5905		たいせんちゅうにしよう。⏎フィールドをしっちにかえる。	Use in battle. Turns⏎the field to marsh.
-181	0C5920		たいせんちゅうにしよう。⏎フィールドをやまにかえる。	Use in battle. Turns⏎the field to⏎mountains.
-182	0C593A		たいせんちゅうにしよう。⏎フィールドをゆきやまにかえる。	Use in battle. Turns⏎the field to snowy⏎mountains.
-183	0C5956		たいせんちゅうにしよう。⏎フィールドをかざんにかえる。	Use in battle. Turns⏎the field to volcano.
-184	0C5971		たいせんちゅうにしよう。⏎フィールドをがけにかえる。	Use in battle. Turns⏎the field to cliffs.
-185	0C598B		たいせんちゅうにしよう。⏎フィールドをさばくにかえる。	Use in battle. Turns⏎the field to desert.
-186	0C59A6		たいせんちゅうにしよう。⏎フィールドをきょてんにかえる。	Use in battle. Turns⏎the field to a base.
-187	0C59C2		たいせんちゅうにしよう。⏎じかんをよるからひるにかえる。	Use in battle. Turns⏎night to day.
-188	0C59DE		たいせんちゅうにしよう。⏎じかんをひるからよるにかえる。	Use in battle. Turns⏎day to night.
-189	0C59FA		たいせんちゅうにしよう。⏎しんせいけいまほうで⏎てきにダメージをあたえる。	Use in battle. Damages⏎foes with holy magic.
+161	0C56AD		カノープスのいもうと⏎ユーリアがかいたてがみ。⏎あるとしにもっていくと…	A letter from⏎Iuria. Take it to⏎a certain city…
+162	0C56D1		カオスフレームを⏎5ポイントぞうかさせる。	Raises the Chaos⏎Frame by 5⏎points.
+163	0C56E6		カオスフレームを⏎5ポイントげんしょうさせる。	Lowers the Chaos⏎Frame by 5⏎points.
+164	0C56FD		たいせんちゅうにしよう。⏎ウェイトゲージのぞうかそくどを⏎あげる。	Use in battle.⏎Speeds up the⏎wait gauge.
+165	0C571E		たいせんちゅうにしよう。⏎ウェイトゲージのぞうかそくどを⏎さげる。	Use in battle.⏎Slows the wait⏎gauge.
+166	0C573F		たいせんちゅうにしよう。⏎たつまきをつくり⏎てきにダメージをあたえる。	Use in battle. A⏎tornado damages⏎foes.
+167	0C5762		たいせんちゅうにしよう。⏎てきをせきかする。	Use in battle.⏎Turns foes to⏎stone.
+168	0C5778		たいせんちゅうにしよう。⏎ひのたまで⏎てきにダメージをあたえる。	Use in battle.⏎Damages foes with⏎a fireball.
+169	0C5798		たいせんちゅうにしよう。⏎こおりのけっしょうをぶつけて⏎てきにダメージをあたえる。	Use in battle.⏎Damages foes with⏎ice crystals.
+170	0C57C1		たいせんちゅうにしよう。⏎いなずまをはっせいさせ⏎てきにダメージをあたえる。	Use in battle.⏎Damages foes with⏎lightning.
+171	0C57E7		たいせんちゅうにしよう。⏎じゃあくなせいしんエネルギーで⏎てきにダメージをあたえる。	Use in battle.⏎Evil spirits⏎damage foes.
+172	0C5811		たいせんちゅうにしよう。⏎てきをみりょうして⏎どうしうちさせる。	Use in battle.⏎Foes fight each⏎other.
+173	0C5831		たいせんちゅうにしよう。⏎せいなるひかりで⏎てきにダメージをあたえる。	Use in battle.⏎Damages foes with⏎holy light.
+174	0C5854		たいせんちゅうにしよう。⏎みかたキャラクターひとりの⏎HPをかいふくさせる。	Use in battle.⏎Heals one ally's⏎HP.
+175	0C587A		たいせんちゅうにしよう。⏎フィールドをしんかいにかえる。	Use in battle.⏎Turns the field⏎to deep sea.
+176	0C5896		たいせんちゅうにしよう。⏎フィールドをそうげんにかえる。	Use in battle.⏎Turns the field⏎to grassland.
+177	0C58B2		たいせんちゅうにしよう。⏎フィールドをせつげんにかえる。	Use in battle.⏎Turns the field⏎to snowfield.
+178	0C58CE		たいせんちゅうにしよう。⏎フィールドをしんりんにかえる。	Use in battle.⏎Turns the field⏎to forest.
+179	0C58EA		たいせんちゅうにしよう。⏎フィールドをあれちにかえる。	Use in battle.⏎Turns the field⏎to wasteland.
+180	0C5905		たいせんちゅうにしよう。⏎フィールドをしっちにかえる。	Use in battle.⏎Turns the field⏎to marsh.
+181	0C5920		たいせんちゅうにしよう。⏎フィールドをやまにかえる。	Use in battle.⏎Turns the field⏎to mountains.
+182	0C593A		たいせんちゅうにしよう。⏎フィールドをゆきやまにかえる。	Use in battle.⏎Field becomes⏎snowy peaks.
+183	0C5956		たいせんちゅうにしよう。⏎フィールドをかざんにかえる。	Use in battle.⏎Turns the field⏎to volcano.
+184	0C5971		たいせんちゅうにしよう。⏎フィールドをがけにかえる。	Use in battle.⏎Turns the field⏎to cliffs.
+185	0C598B		たいせんちゅうにしよう。⏎フィールドをさばくにかえる。	Use in battle.⏎Turns the field⏎to desert.
+186	0C59A6		たいせんちゅうにしよう。⏎フィールドをきょてんにかえる。	Use in battle.⏎Turns the field⏎to a base.
+187	0C59C2		たいせんちゅうにしよう。⏎じかんをよるからひるにかえる。	Use in battle.⏎Turns night to⏎day.
+188	0C59DE		たいせんちゅうにしよう。⏎じかんをひるからよるにかえる。	Use in battle.⏎Turns day to⏎night.
+189	0C59FA		たいせんちゅうにしよう。⏎しんせいけいまほうで⏎てきにダメージをあたえる。	Use in battle.⏎Damages foes with⏎holy magic.

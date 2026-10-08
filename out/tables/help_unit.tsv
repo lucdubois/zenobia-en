@@ -1,11 +1,11 @@
 index	rom_addr	header	japanese	english
 0	0C3D9C		ユニットをいどうさせます。	Moves the unit.
 1	0C3DAB		たたかうときのさくせんを⏎していします。	Sets the tactics⏎for battle.
-2	0C3DC1		キャラクターをほじゅうします。⏎としにいるときのみ⏎じっこうできます。	Recruit characters⏎Only possible⏎while in a city.
-3	0C3DE6		アイテムをこうにゅうすることが⏎できます。	Lets you buy items.
-4	0C3DFD		こうどうふのうなキャラクターを⏎ふっかつさせます。	Revives characters⏎unable to fight.
-5	0C3E18		フォーメーションをかえたり⏎キャラをさくじょしたりできます。	Change formation or⏎remove characters.
-6	0C3E38		キャラクターのはいちを⏎かえることができます。	Change the position⏎of characters.
+2	0C3DC1		キャラクターをほじゅうします。⏎としにいるときのみ⏎じっこうできます。	Recruit members.⏎Only possible⏎in a city.
+3	0C3DE6		アイテムをこうにゅうすることが⏎できます。	Lets you buy⏎items.
+4	0C3DFD		こうどうふのうなキャラクターを⏎ふっかつさせます。	Revives fallen⏎characters.
+5	0C3E18		フォーメーションをかえたり⏎キャラをさくじょしたりできます。	Change formation⏎or remove allies.
+6	0C3E38		キャラクターのはいちを⏎かえることができます。	Rearrange⏎characters.
 7	0C3E51		キャラクターをさくじょします。	Removes a⏎character.
 8	0C3E62		ユニットのリーダーを⏎へんこうします。	Changes the unit⏎leader.
 9	0C3E77		キャラクターを⏎べつのユニットにおくります。	Sends a character⏎to another unit.
