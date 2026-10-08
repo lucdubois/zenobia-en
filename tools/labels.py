@@ -109,7 +109,7 @@ if __name__=='__main__':
         if not eng: continue
         k=int(r[h['index']]); addr=BASE+128*k; assert int(r[h['rom_addr']],16)==addr
         px=render(eng); rom[addr:addr+128]=encode(px); done.append((k,eng,px))
-    orig=open(os.path.join(here,'..','Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc'),'rb').read()
+    orig=open(os.environ.get('ZEN_ROM') or os.path.join(here,'..','Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc'),'rb').read()
     for addr,text in BADGES:
         assert rom[addr:addr+80]==orig[0x14A00:0x14A00+80], f'{addr:06X}: not the はけん中 badge'
         rom[addr:addr+80]=badge(text)

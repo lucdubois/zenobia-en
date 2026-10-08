@@ -1,0 +1,18 @@
+#!/bin/zsh
+# Build the English patch: ./build [ROM]
+# Writes the IPS next to the ROM, with the same name (Foo.ngc -> Foo.ips). Asks for the ROM path if it is not given.
+set -e
+HERE="$(cd "$(dirname "$0")" && pwd)"
+rom="$1"
+if [ -z "$rom" ]; then
+  read -r "rom?Path to the original Japanese ROM (.ngc): "
+  rom=${(Q)rom}                       # accept drag-and-drop paths (quotes, escaped spaces)
+fi
+rom=${rom/#\~/$HOME}
+[ -f "$rom" ] || { echo "File not found: $rom"; exit 1; }
+rom="$(cd "$(dirname "$rom")" && pwd)/$(basename "$rom")"
+ips="${rom%.*}.ips"
+tmp="$(mktemp -d)"; trap 'rm -rf "$tmp"' EXIT
+ROM="$rom" OUT="$tmp/patched.ngc" IPS="$ips" "$HERE/tools/build.sh" > "$tmp/log" 2>&1 || { cat "$tmp/log"; exit 1; }
+grep -i "warning" "$tmp/log" || true
+echo "Patch written: $ips"

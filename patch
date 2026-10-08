@@ -1,0 +1,18 @@
+#!/bin/zsh
+# Apply the English patch: ./patch [ROM]
+# Looks for the IPS with the same name next to the ROM (Foo.ngc -> Foo.ips) and writes Foo_en.ngc.
+# Asks for the ROM path if it is not given. The original ROM is left untouched.
+set -e
+HERE="$(cd "$(dirname "$0")" && pwd)"
+rom="$1"
+if [ -z "$rom" ]; then
+  read -r "rom?Path to the original Japanese ROM (.ngc): "
+  rom=${(Q)rom}
+fi
+rom=${rom/#\~/$HOME}
+[ -f "$rom" ] || { echo "File not found: $rom"; exit 1; }
+ips="${rom%.*}.ips"
+[ -f "$ips" ] || { echo "No patch found: $ips (run ./build first)"; exit 1; }
+out="${rom%.*}_en.${rom##*.}"
+python3 "$HERE/tools/apply_ips.py" "$rom" "$ips" "$out" >/dev/null
+echo "Patched ROM written: $out"
