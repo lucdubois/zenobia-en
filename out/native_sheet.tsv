@@ -42,8 +42,8 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 40	copy	008EF1	7	008EA4	008EA9	<item> 』でした。⏎⏎	'!⏎⏎
 41	copy	008E2F	13	008D30	008D35	<town>を⏎はっけんしました。⏎⏎	⏎was discovered!⏎⏎
 42	inplace	0995BE	7	-	-	トリスタン<DC><DC>(default hero name)	Tristan
-43	copy	0995A2	5	094FE9	094FEE	なまえは「 <name>	Your name is⏎'
-44	copy	0995A7	22	094FFD	095002	<name> 」で⏎<DC>×9よろしいですか?⏎⏎	'.⏎Is this OK?⏎⏎
+43	copy	0995A2	5	094FE9	094FEE	なまえは「 <name>	Name: '
+44	copy	0995A7	22	094FFD	095002	<name> 」で⏎<DC>×9よろしいですか?⏎⏎	'.<DC>⏎Is this OK?<DC><DC><DC><DC><DC><DC><DC>⏎⏎
 45	inplace	09A6B9	14	-	-	<DC>×3NOTHING<DC>×4 (empty save slot)	<DC><DC><DC><DC>EMPTY<DC><DC><DC><DC><DC>
 46	dcpad	09C315	0	-	-	___へんせい___	Organize
 47	dcpad	09C321	0	-	-	あらかじめユニットのへんせい⏎を_おこないます______	Organize your⏎units ahead.
