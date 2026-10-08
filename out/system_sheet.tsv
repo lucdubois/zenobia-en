@@ -182,8 +182,6 @@ msg	rom_addr	bytes	pointer	japanese	english
 0133	00CDD6	18	-	このユニットにキャラクターをくわえる	To add a character
 0133	00CDE9	18	-	には、フォーメーションをへんこうする	change the
 0133	00CDFC	10	-	ひつようがあります。	formation first.
-0134	00CE96	4	-	Lサイズ	Large chars
-0134	00CE9B	18	-	キャラは1たいでふたりぶんとします。	count as 2.
 0135	00CEFA	4	-	Gたソは	
 0136	00D82A	4	-	?ぷ「U	
 0137	00D978	9	-	くこうけすくEEウ	
@@ -1996,3 +1994,6 @@ msg	rom_addr	bytes	pointer	japanese	english
 1799	062D28	9	ptr@02B11E	おしせしささせしち	
 1800	062D96	11	-	そせしさしせしさしくえ	
 1801	062EA2	4	-	りはのれ	
+X001	00CE75	18	ptr@005855,012845	ていいんオーバーです。<01>1ユニットの	Unit is full.
+X001	00CE88	18	-	へんせいは5にんまでです。<01>Lサイズ	Max 5 per unit.
+X001	00CE9B	18	-	キャラは1たいでふたりぶんとします。	L-size counts 2.

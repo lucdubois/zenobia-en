@@ -2,7 +2,7 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0000	063B1D	FE	22	ケイン	「<DD>!⏎エストラーダさまがおよびだよ。	Cain: <DD>! Lord Estrada is calling for you.
 0001	063B35	FE	47		「いよいよとうぞくどものとうばつ⏎にでかけるんだって。⏎おれたちも⏎いっしょにいくんだってさ。	He's finally heading out to hunt down those bandits. And we get to come along too!
 0002	063B66	FE	44		「まあ、エストラーダさまに⏎まかせてさ、おれたちはジャマに⏎ならないようにやればいいさ。	Well, let's just leave it to Lord Estrada and try not to get in his way.
-0003	063B94	FE	29		「さあ、いこうぜ。⏎ぐずぐずしてると⏎またどやされちまう。	Come on, let's go. If we dawdle, he'll chew us out again.
+0003	063B94	FE	29		「さあ、いこうぜ。⏎ぐずぐずしてると⏎またどやされちまう。	Come on, let's go. If we keep him waiting, we'll get scolded again.
 0004	063BBF	FE	25	エストラーダ	「<DD>⏎ケインからはなしはきいているな?	Estrada: <DD>. Cain has told you, I take it?
 0005	063BDA	FE	35		「われわれは、ぎゆうぐんとして⏎これからとうぞくのとうばつに⏎むかう。	We march as a volunteer army to put down the bandits.
 0006	063BFF	FE	32	<DD>	「えっ?⏎ぼくたちだけで⏎とうぞくをたいじするんですか?	<DD>: What? Just us, against the bandits?

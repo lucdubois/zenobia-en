@@ -195,6 +195,10 @@ if os.path.exists('out/native_sheet.tsv'):
                 left=(w-len(e))//2 if len(olens)==1 else 0  # one-line labels are centred, like the originals
                 out.append(b'\xDC'*left+e+b'\xDC'*(w-left-len(e)))
             blob=b'\x00'.join(out); rom[ra:ra+len(blob)]=blob; stats['native']+=1; continue
+        if kind=='hex':  # raw byte patch: ptr_at = original bytes (hex), len_at = new bytes (hex), same length
+            old=bytes.fromhex(r[nh['ptr_at']]); new=bytes.fromhex(r[nh['len_at']])
+            assert len(old)==len(new) and rom[ra:ra+len(old)]==old, f'{ra:06X}: expected {old.hex()}, found {rom[ra:ra+len(old)].hex()}'
+            rom[ra:ra+len(new)]=new; stats['native']+=1; continue
         if kind=='patch16':  # 16-bit immediate after the opcode byte at rom_addr: ptr_at = old value, len_at = new value
             old=int(r[nh['ptr_at']],16); new=int(r[nh['len_at']],16)
             assert rom[ra+1]|(rom[ra+2]<<8)==old, f'{ra:06X}: immediate is not {old:04X}'
@@ -213,10 +217,16 @@ if os.path.exists('out/native_sheet.tsv'):
             rom[pa+1:pa+4]=tb
             if rom[la]==0x31:  # ld BC,#imm16
                 assert rom[la+1]|(rom[la+2]<<8)==n-k, f'{la:06X}: not ld BC,#{n-k}'; rom[la+1:la+3]=bytes([(len(enc)-k)&0xFF,(len(enc)-k)>>8])
+            elif rom[la]==0x21:  # ld A,#imm8 (counted copy loop, e.g. the town-name builder's default name)
+                assert rom[la+1]==n-k and len(enc)-k<256, f'{la:06X}: not ld A,#{n-k}'; rom[la+1]=len(enc)-k
             elif rom[la]==0xD9 and 0xA8<=rom[la+1]<=0xAF:  # short form ld BC,#0..7
                 assert rom[la+1]-0xA8==n-k and len(enc)-k<=7, f'{la:06X}: ld BC,#{n-k} short form, new length {len(enc)-k} > 7'; rom[la+1]=0xA8+len(enc)-k
             else:  # ld C,#imm8
                 assert rom[la]==0x23 and rom[la+1]==n-k and len(enc)-k<256, f'{la:06X}: not ld C,#{n-k}'; rom[la+1]=len(enc)-k
+        elif kind=='ptr':  # plain zero-terminated string loaded by one `ld r32,#src` (opcodes 40-46): relocate, repoint
+            assert 0x40<=rom[pa]<=0x46 and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not ld r32,#{src:06X}'
+            assert enc.endswith(b'\0'), f'native {ra:06X}: ptr text must end with ⏎ (terminator)'
+            rom[pa+1:pa+4]=tb
         elif kind=='ptronly':  # like copy1, but the copy length belongs to another row (shared code): just repoint, must fit n bytes
             assert rom[pa]==0x45 and rom[pa+1:pa+5]==src.to_bytes(4,'little'), f'{pa:06X}: not ld XIY,#{src:06X}'
             assert len(enc)<=n, f'native {ra:06X}: {len(enc)}B > shared copy length {n}B'
