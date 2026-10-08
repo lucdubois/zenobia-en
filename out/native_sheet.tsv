@@ -98,4 +98,3 @@ id	kind	rom_addr	bytes	ptr_at	len_at	japanese	english
 96	copy	008E22	11	008DE6	008DEB	ロシュフォルきょうかい (default location name in the town-name builder 0x208DE6, ld A,#11 copy loop)	Rochefort Church
 97	ptr	008E22	11	007A9A	-	ロシュフォルきょうかい (church name in the 13-tile location window, 11 chars max)	Rochefort⏎⏎
 98	ptr	0C9A72	6	0C9A61	-	タイムアップ (battle time-out, drawn at row 14 col 9)	TIME UP⏎⏎
-99	hex	1657B1	0	41ffffffff	4100000400	Z80 sound-driver handshake wait (0x3657B1): timeout 0xFFFFFFFF -> 0x40000 (~1 s). The timeout path (0x365691) resets and reloads the Z80; real hardware/Mednafen answer within ms, MAME sometimes never does and the game froze (e.g. after stocking a tarot card)	-

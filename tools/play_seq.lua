@@ -1,3 +1,4 @@
+pcall(dofile, "../tools/mame_z80fix.lua")  -- MAME sound-CPU interrupt workaround (see that file)
 -- Replays an input sequence (env SEQ: "A:40,B:40,Opt:40,Up:10,Down:10,Left:10,Right:10,wait:60" repeated), snapshots every SNAP frames,
 -- watches for script fetches, optionally saves a state (SAVE_AT frame, SAVE_NAME). Exits at WP_FRAMES.
 local out  = os.getenv("WP_OUT") or "wp.txt"
