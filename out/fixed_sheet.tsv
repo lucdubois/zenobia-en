@@ -1,9 +1,10 @@
 rom_addr	slot	english
-00F0F1	8	Scatter
+00F0E7	8	All Out
+00F0F1	8	Spread
 00F0FB	8	Leader
 00F105	8	Finish
-00F10F	8	ShowGuts
-00F118	8	Scatter
+00F10F	8	All Out
+00F118	8	Spread
 00F121	8	Leader
 00F12A	8	Finish
 00F13E	8	Magician

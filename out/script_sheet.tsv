@@ -34,9 +34,9 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0032	063F9D	FE	29		「おうじ…<DD>。⏎かならず、かならず⏎ふたたびあえることを。	Prince… <DD>. I pray that we shall surely, surely meet again.
 0033	063FC4	FE	10	<DD>	「…そんな…	<DD>: …It can't be…
 0034	063FD1	FE	22	ケイン	「おうじ?⏎…<DD>が⏎おうじ、だって?!	Cain: Prince? …<DD> is a prince?!
-0035	064014	FE	47	とうぞく	「なんだ、おまえらは?⏎ぎゆうぐん?…なにいってんだか…⏎ケガしないうちに、かえんな。	Bandit: Who're you lot? A volunteer army? …Give me a break. Go home before you get hurt.
-0036	06405C	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: What do you want?! You think you can take us on?
-0037	06407E	FE	49		「ん?おまえらはグリングのなかま⏎をたおしたというれんちゅうか?⏎よし、ここでかたきをとってやる!	Hm? You're the ones who took out our mates in Gring? Good. We'll avenge them right here!
+0035	064014	FE	47	とうぞく	「なんだ、おまえらは?⏎ぎゆうぐん?…なにいってんだか…⏎ケガしないうちに、かえんな。	Bandit: Huh? Who're you? A volunteer army? Ha! Scram 'fore ya get hurt.
+0036	06405C	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: Who the hell are you?! You wanna mess with us?!
+0037	06407E	FE	49		「ん?おまえらはグリングのなかま⏎をたおしたというれんちゅうか?⏎よし、ここでかたきをとってやる!	Huh? So you're the ones who did in our boys at Gring? You're gonna pay for that!
 0038	0640B5	FE	49	エストラーダ	「とうぞくがなかまの⏎かたきうちだと?⏎わらわせるな!⏎ともにジゴクへおくってやるわ。	Estrada: Bandits avenging their comrades? Don't make me laugh! I'll send you to Hell together.
 0039	0640FA	FE	43	むらびと	「どうもありがとう⏎ございました。⏎これでこのふきん⏎もおちつくことでしょう。	Villager: Thank you so very much. Things should calm down around here now.
 0040	064127	FE	23		「これはほんのおれいです。⏎おおさめください。	This is just a small token of thanks. Please accept it.
@@ -58,7 +58,7 @@ id	rom_addr	end	bytes	speaker	japanese	english
 0056	064376	FE	31		「え?⏎シルバードールですか?⏎あれはむらのたからなんですが…	Hm? The Silver Doll? That's the village's treasure, but…
 0057	06439B	FE	37		「ほかならぬあなたがたの⏎たのみですからね。⏎どうぞもっていってください。	Well, since it's you asking. Please, take it with you.
 0058	0643CE	FE	28		「やはりあれだけはわたせません。⏎かんべんしてください。	No, that's the one thing I can't give up. Please forgive me.
-0059	0643FD	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: What do you want?! You think you can take us on?
+0059	0643FD	FE	32	とうぞく	「なんだおまえらはッ!⏎おれたちにさからおうってえのか?	Bandit: Who the hell are you?! You wanna mess with us?!
 0060	064423	FE	32	エストラーダ	「とうぞくふぜいが!⏎みのほどをおもいしらせてやる!	Estrada: Mere bandits! I'll teach you your place!
 0061	064462	FE	38	むらびと	「たすかりました。⏎どうもありがとうございました。⏎…それにしても…	Villager: You saved us. Thank you so much. …Still…
 0062	06448A	FE	45		「ゼノビアおうがなくなられてから…⏎この15ねん、かくちでとうぞくは⏎ふえるいっぽうです。	In the fifteen years since King Zenobia died, bandits have only grown more numerous everywhere.
